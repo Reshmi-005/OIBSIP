@@ -1,0 +1,939 @@
+Customer_ID,Full_Name,Gender,Age,Join_Date,Annual_Income,Credit_Score,Spending_Score,City,Loyalty_Member
+CUST-1735,Emma Jones,Male,62,2019-10-05,69500.0,708,5,New York,No
+CUST-1442,Michael Smith,Female,31,2022-06-07,80400.0,613,17,New York,Yes
+CUST-1167,James Martinez,Female,29,2023-12-24,106900.0,659,89,Chicago,Yes
+CUST-1333,Olivia Martinez,Female,38,2022-01-07,65650.0,692,10,New York,Yes
+CUST-1327,Olivia Miller,Female,61,2020-09-02,39700.0,580,43,San Francisco,No
+CUST-1012,David Miller,Female,70,2020-04-05,91700.0,734,26,New York,No
+CUST-1076,Jane Jones,Male,59,2020-04-05,80900.0,726,70,New York,Yes
+CUST-1081,John Johnson,Male,33,2021-04-20,94700.0,722,58,Chicago,No
+CUST-1043,Sarah Garcia,Female,40,2020-12-19,49600.0,760,50,San Francisco,Yes
+CUST-1945,Robert Davis,Male,46,2024-08-26,73000.0,647,91,San Francisco,No
+CUST-1477,Sarah Johnson,Male,65,2023-12-12,96400.0,647,20,San Francisco,No
+CUST-1085,James Martinez,Male,45,2023-10-19,65650.0,611,83,San Francisco,Yes
+CUST-1019,James Brown,Female,46,2024-05-06,65650.0,649,12,New York,No
+CUST-1493,James Williams,Male,18,2022-05-21,53600.0,820,55,San Francisco,Yes
+CUST-1210,Olivia Smith,Male,58,2019-03-20,33200.0,617,29,Chicago,Yes
+CUST-1096,Jane Davis,Female,64,2023-11-10,37000.0,652,43,New York,Yes
+CUST-1297,Robert Rodriguez,Male,56,2023-01-28,74900.0,782,5,San Francisco,Yes
+CUST-1247,Michael Davis,Male,32,2022-10-09,61400.0,688,22,New York,No
+CUST-1002,Michael Johnson,Male,35,2019-12-22,66700.0,716,87,Chicago,Yes
+CUST-1198,,Male,46,2021-08-04,62400.0,681,64,San Francisco,No
+CUST-1102,James Williams,Female,39,2020-11-03,35300.0,625,94,New York,Yes
+CUST-1231,John Jones,Male,74,2020-11-03,70800.0,730,100,Chicago,Yes
+CUST-1462,Emily Jones,Male,71,2020-03-19,60200.0,683,45,New York,Yes
+CUST-1006,John Brown,Female,18,2019-03-21,44900.0,657,66,Chicago,Yes
+CUST-1615,Emma Miller,Male,48,2020-07-03,33100.0,782,95,San Francisco,No
+CUST-1218,Emma Williams,Male,46,2021-11-19,44000.0,730,2,New York,Yes
+CUST-1826,John Williams,Other,35,2022-11-20,98000.0,698,39,New York,Yes
+CUST-1365,Emily Garcia,Other,25,2020-08-17,53100.0,838,96,New York,No
+CUST-1465,Michael Garcia,Female,46,2024-06-02,93000.0,689,44,San Francisco,No
+CUST-1807,Robert Garcia,Female,31,2020-02-13,55400.0,611,41,New York,Yes
+CUST-1233,John Williams,Female,56,2019-10-09,26300.0,791,50,San Francisco,No
+CUST-1168,Michael Garcia,Male,41,2022-07-23,88000.0,620,85,San Francisco,No
+CUST-1643,Robert Davis,Female,28,2019-02-24,52500.0,783,96,New York,No
+CUST-1294,Michael Martinez,Male,62,2024-10-19,57100.0,780,50,New York,Yes
+CUST-1422,John Miller,Male,75,2019-10-12,48000.0,635,94,Chicago,No
+CUST-1526,Emily Smith,Male,55,2019-10-12,68200.0,693,70,New York,No
+CUST-1581,Sarah Garcia,Male,51,2019-01-14,51800.0,689,41,Chicago,No
+CUST-1290,Emma Johnson,Male,29,2022-01-10,33300.0,690,40,San Francisco,Yes
+CUST-1420,Sarah Rodriguez,Female,25,2022-01-10,85300.0,514,23,Chicago,Yes
+CUST-1270,Robert Rodriguez,Male,56,2019-03-14,65650.0,683,91,San Francisco,No
+CUST-1376,Emily Johnson,Female,43,2023-07-18,124100.0,701,74,New York,Yes
+CUST-1519,Emily Davis,Female,41,2019-03-15,76300.0,699,10,New York,No
+CUST-1073,Michael Brown,Male,73,2022-01-06,56900.0,754,100,San Francisco,Yes
+CUST-1344,Robert Brown,Male,30,2019-04-05,65400.0,777,67,Chicago,Yes
+CUST-1178,Robert Martinez,Female,56,2023-04-02,58600.0,683,74,New York,No
+CUST-1429,John Rodriguez,Female,36,2019-12-25,65650.0,792,63,New York,Yes
+CUST-1907,Robert Williams,Male,39,2019-12-25,87800.0,648,16,Chicago,No
+CUST-1425,John Davis,Female,35,2023-11-18,69200.0,647,50,San Francisco,No
+CUST-1599,Sarah Jones,Female,56,2019-11-09,69100.0,678,41,New York,Yes
+CUST-1158,Olivia Garcia,Female,47,2020-12-18,57700.0,744,80,Chicago,Yes
+CUST-1029,James Smith,Female,73,2019-08-09,50700.0,683,39,San Francisco,Yes
+CUST-1049,John Davis,Male,54,2022-05-12,69500.0,583,80,San Francisco,Yes
+CUST-1567,Olivia Garcia,Male,27,2020-11-05,52400.0,557,41,Chicago,Yes
+CUST-1298,David Miller,Female,71,2019-05-27,62600.0,744,62,Chicago,No
+CUST-1938,Emily Smith,Male,33,2022-01-12,58800.0,683,98,Chicago,No
+CUST-1296,Michael Rodriguez,Male,48,2021-09-27,33300.0,576,31,San Francisco,No
+CUST-1361,Emily Miller,Male,46,2024-03-21,45800.0,721,14,San Francisco,Yes
+CUST-1746,David Johnson,Female,63,2021-09-25,58800.0,612,13,Chicago,No
+CUST-1078,John Davis,Other,27,2020-08-19,77900.0,671,3,Chicago,Yes
+CUST-1063,John Smith,Female,67,2019-11-10,73600.0,683,83,Chicago,Yes
+CUST-1174,Emma Williams,Male,60,2023-03-13,56800.0,664,41,New York,Yes
+CUST-1169,Emily Martinez,Female,19,2024-07-15,44500.0,840,76,San Francisco,Yes
+CUST-1394,Emma Brown,Female,73,2023-05-13,30400.0,609,100,New York,Yes
+CUST-1514,Emily Rodriguez,Male,47,2019-07-19,56400.0,555,68,Chicago,Yes
+CUST-1765,Sarah Davis,Male,56,2019-07-19,87300.0,729,95,San Francisco,No
+CUST-1323,Michael Miller,Female,33,2020-03-18,36500.0,680,93,New York,Yes
+CUST-1752,John Rodriguez,Male,64,2021-03-17,65650.0,683,39,San Francisco,Yes
+CUST-1304,David Garcia,Male,60,2022-08-23,111500.0,732,72,Chicago,Yes
+CUST-1560,James Rodriguez,Male,47,2021-06-08,38900.0,835,71,Chicago,Yes
+CUST-1426,Emma Williams,Male,46,2021-06-08,45700.0,652,89,New York,Yes
+CUST-1035,Jane Smith,Male,57,2022-05-13,73000.0,683,78,New York,No
+CUST-1944,Emma Martinez,Male,55,2020-03-27,53400.0,692,8,San Francisco,Yes
+CUST-1712,Olivia Jones,Male,65,2020-04-26,38600.0,653,68,New York,No
+CUST-1894,James Williams,Female,64,2020-04-26,96100.0,683,50,New York,Yes
+CUST-1077,David Williams,Female,49,2021-02-25,88900.0,690,8,New York,Yes
+CUST-1183,Jane Rodriguez,Male,50,2022-02-05,66700.0,840,16,San Francisco,No
+CUST-1044,Michael Jones,Female,59,2019-12-23,72000.0,606,46,San Francisco,No
+CUST-1737,Robert Davis,Female,66,2024-03-27,67600.0,670,50,Chicago,No
+CUST-1809,Robert Johnson,Female,65,2021-02-21,53100.0,762,65,San Francisco,Yes
+CUST-1506,James Garcia,Male,66,2021-02-21,83700.0,696,30,New York,No
+CUST-1031,David Garcia,Female,72,2023-07-01,50400.0,683,94,San Francisco,Yes
+CUST-1529,David Smith,Female,28,2021-02-21,65650.0,677,53,New York,No
+CUST-1594,John Garcia,Female,40,2020-01-28,101900.0,598,85,San Francisco,No
+CUST-1622,Emma Jones,Female,41,2022-10-11,71900.0,657,23,New York,No
+CUST-1123,Robert Jones,Male,29,2021-09-16,62400.0,640,99,New York,No
+CUST-1086,James Brown,Other,46,2021-12-15,30800.0,735,46,Chicago,Yes
+CUST-1469,Emily Martinez,Male,28,2019-07-14,65650.0,683,57,New York,No
+CUST-1770,Olivia Martinez,Male,46,2021-02-14,105100.0,553,29,New York,No
+CUST-1558,James Miller,Female,75,2021-01-17,65650.0,768,70,San Francisco,No
+CUST-1101,Jane Williams,Male,18,2020-01-16,74500.0,791,25,San Francisco,No
+CUST-1670,Jane Jones,Male,41,2024-01-26,55000.0,671,92,San Francisco,No
+CUST-1342,Robert Smith,Male,26,2023-06-14,70700.0,709,15,San Francisco,Yes
+CUST-1089,James Johnson,Male,26,2020-02-07,62200.0,688,19,Chicago,Yes
+CUST-1551,Jane Williams,Female,20,2024-05-20,65650.0,708,9,San Francisco,Yes
+CUST-1308,John Miller,Female,74,2022-07-11,71100.0,613,64,New York,No
+CUST-1055,Olivia Garcia,Female,25,2021-10-09,48900.0,683,55,New York,Yes
+CUST-1917,Emily Davis,Female,46,2024-09-08,102300.0,736,99,Chicago,Yes
+CUST-1181,Emma Brown,Female,24,2022-01-10,65650.0,563,27,New York,Yes
+CUST-1825,Sarah Smith,Male,46,2020-04-09,71800.0,610,96,New York,Yes
+CUST-1113,James Johnson,Male,40,2023-10-27,50300.0,617,50,New York,Yes
+CUST-1578,Emily Smith,Female,32,2019-07-27,59900.0,754,29,San Francisco,No
+CUST-1382,Robert Garcia,Other,62,2020-09-16,15000.0,720,24,Chicago,No
+CUST-1216,Emma Davis,Female,37,2021-04-04,58500.0,587,94,New York,No
+CUST-1164,John Williams,Female,64,2019-10-10,65300.0,767,60,San Francisco,Yes
+CUST-1372,John Garcia,Male,69,2021-10-13,69300.0,619,59,Chicago,No
+CUST-1665,Michael Smith,Male,73,2023-11-24,65650.0,717,66,New York,No
+CUST-1778,,Male,54,2022-12-26,67700.0,683,90,Chicago,No
+CUST-1024,David Smith,Male,50,2021-01-01,71500.0,614,84,New York,No
+CUST-1513,Michael Garcia,Female,33,2021-10-01,72200.0,646,7,New York,No
+CUST-1792,Sarah Martinez,Female,59,2020-10-24,64500.0,683,3,San Francisco,Yes
+CUST-1763,Michael Miller,Female,63,2019-07-12,65650.0,616,56,Chicago,No
+CUST-1051,Robert Brown,Male,23,2023-04-12,80800.0,753,11,Chicago,Yes
+CUST-1070,Robert Johnson,Female,46,2024-02-19,79000.0,713,31,Chicago,Yes
+CUST-1285,Jane Brown,Male,34,2022-09-25,51600.0,625,68,New York,No
+CUST-1023,Michael Rodriguez,Female,24,2020-05-09,51400.0,623,3,Chicago,Yes
+CUST-1528,Emma Martinez,Female,51,2023-08-11,47600.0,683,83,New York,No
+CUST-1192,David Garcia,Female,73,2021-12-07,65500.0,759,43,New York,Yes
+CUST-1593,Emma Rodriguez,Female,42,2022-04-04,46000.0,709,51,San Francisco,No
+CUST-1107,Robert Smith,Female,59,2020-05-18,62800.0,734,44,San Francisco,No
+CUST-1058,David Rodriguez,Female,36,2020-07-19,46900.0,679,80,New York,No
+CUST-1398,Robert Jones,Male,33,2022-04-03,39500.0,651,98,New York,Yes
+CUST-1150,John Martinez,Male,25,2021-05-06,66400.0,840,47,San Francisco,No
+CUST-1138,James Martinez,Male,46,2022-07-28,58100.0,687,85,San Francisco,Yes
+CUST-1189,David Garcia,Female,28,2021-04-04,15000.0,639,35,San Francisco,Yes
+CUST-1486,Emma Brown,Male,18,2022-06-06,66800.0,722,24,New York,No
+CUST-1949,James Johnson,Male,44,2024-05-23,70800.0,675,24,New York,Yes
+CUST-1112,Emma Davis,Male,46,2023-02-09,64600.0,640,29,San Francisco,No
+CUST-1629,Michael Smith,Male,74,2021-10-15,105700.0,674,78,San Francisco,No
+CUST-1575,Jane Martinez,Female,54,2024-09-02,23900.0,739,45,New York,No
+CUST-1277,Robert Davis,Female,21,2019-10-02,82100.0,710,20,San Francisco,No
+CUST-1621,David Jones,Male,64,2023-03-04,65650.0,572,22,San Francisco,Yes
+CUST-1413,Emily Rodriguez,Male,62,2022-04-13,90800.0,638,8,San Francisco,No
+CUST-1155,Emily Garcia,Male,37,2019-01-16,34400.0,716,62,New York,No
+CUST-1533,Robert Williams,Male,35,2021-01-22,65650.0,713,79,San Francisco,Yes
+CUST-1743,Jane Martinez,Male,49,2024-11-24,95700.0,784,94,Chicago,No
+CUST-1054,James Brown,Female,53,2021-10-01,27000.0,674,51,New York,Yes
+CUST-1165,Emily Smith,Female,29,2022-03-09,39700.0,739,95,Chicago,No
+CUST-1346,Emily Johnson,Female,66,2022-08-20,87600.0,631,16,San Francisco,Yes
+CUST-1056,Olivia Garcia,Male,53,2024-03-22,47900.0,771,89,New York,No
+CUST-1109,Emma Jones,Female,48,2023-06-03,73300.0,784,100,New York,No
+CUST-1922,James Garcia,Female,40,2019-07-05,24900.0,820,16,Chicago,Yes
+CUST-1934,David Jones,Male,63,2019-07-05,69000.0,581,16,San Francisco,Yes
+CUST-1787,David Jones,Female,47,2024-09-04,63200.0,717,61,New York,No
+CUST-1220,John Johnson,Male,75,2021-02-01,26400.0,681,80,San Francisco,Yes
+CUST-1584,Sarah Brown,Female,44,2021-02-01,79000.0,550,64,New York,Yes
+CUST-1331,Michael Martinez,Male,54,2021-09-22,53000.0,702,60,Chicago,Yes
+CUST-1661,Olivia Miller,Female,61,2024-10-21,52900.0,622,62,San Francisco,Yes
+CUST-1152,Olivia Garcia,Male,46,2020-03-22,65700.0,683,53,Chicago,Yes
+CUST-1185,John Smith,Female,54,2024-05-24,30300.0,828,93,San Francisco,Yes
+CUST-1771,Sarah Davis,Female,57,2019-01-07,73000.0,667,12,San Francisco,Yes
+CUST-1332,Emma Miller,Male,46,2024-09-02,75600.0,684,80,Chicago,Yes
+CUST-1451,James Johnson,Male,36,2020-04-01,65650.0,542,8,New York,Yes
+CUST-1626,John Brown,Male,43,2020-04-26,46500.0,649,79,Chicago,Yes
+CUST-1409,John Martinez,Male,47,2020-02-22,67500.0,714,2,New York,No
+CUST-1535,Michael Rodriguez,Male,27,2019-05-04,77400.0,728,100,New York,No
+CUST-1724,Sarah Martinez,Male,39,2024-03-22,65650.0,757,43,New York,Yes
+CUST-1892,Sarah Williams,Male,26,2021-01-06,66200.0,565,100,New York,Yes
+CUST-1884,Jane Rodriguez,Male,62,2024-12-10,95500.0,734,29,Chicago,No
+CUST-1196,John Miller,Female,34,2019-10-15,90600.0,683,99,New York,Yes
+CUST-1943,David Williams,Male,74,2020-09-26,30500.0,715,30,New York,Yes
+CUST-1275,Emily Davis,Male,70,2020-08-21,75900.0,668,5,Chicago,Yes
+CUST-1170,Sarah Martinez,Female,69,2023-09-23,93700.0,671,64,New York,Yes
+CUST-1074,Michael Brown,Male,35,2022-07-06,82300.0,715,15,Chicago,Yes
+CUST-1208,Michael Brown,Male,45,2019-09-04,65650.0,694,63,New York,No
+CUST-1306,Olivia Brown,Male,29,2024-11-15,65650.0,605,79,New York,No
+CUST-1424,Emma Martinez,Female,66,2019-05-11,79700.0,706,52,San Francisco,No
+CUST-1609,David Davis,Male,31,2019-02-05,48700.0,784,22,New York,No
+CUST-1303,David Rodriguez,Male,24,2019-06-25,80200.0,648,10,Chicago,No
+CUST-1240,Emily Johnson,Other,19,2022-02-02,81600.0,822,50,San Francisco,Yes
+CUST-1195,David Brown,Female,22,2020-06-04,65650.0,693,23,New York,No
+CUST-1482,Sarah Miller,Female,46,2022-12-22,63400.0,840,41,New York,Yes
+CUST-1209,John Rodriguez,Female,54,2023-02-05,63100.0,762,5,San Francisco,Yes
+CUST-1244,Robert Smith,Female,39,2024-10-28,86000.0,618,6,New York,No
+CUST-1912,Sarah Garcia,Male,36,2022-02-10,65650.0,545,1,New York,No
+CUST-1010,James Davis,Male,35,2024-06-02,63300.0,576,50,Chicago,Yes
+CUST-1147,Michael Rodriguez,Female,35,2022-11-17,33400.0,626,90,San Francisco,No
+CUST-1352,Jane Davis,Male,72,2021-06-22,97300.0,700,59,New York,Yes
+CUST-1040,Jane Miller,Female,24,2022-03-14,58400.0,730,21,San Francisco,Yes
+CUST-1693,Emma Miller,Male,54,2020-09-08,65650.0,595,61,Chicago,Yes
+CUST-1585,David Smith,Female,31,2019-02-23,74900.0,757,61,San Francisco,Yes
+CUST-1207,Sarah Martinez,Female,73,2022-04-18,95400.0,618,22,Chicago,Yes
+CUST-1467,Sarah Smith,Female,46,2022-01-09,88200.0,756,100,New York,Yes
+CUST-1065,Jane Martinez,Female,69,2023-04-09,92200.0,778,77,Chicago,No
+CUST-1041,Jane Rodriguez,Female,71,2023-06-21,65650.0,714,7,New York,No
+CUST-1127,David Miller,Female,46,2019-06-12,81400.0,826,78,New York,No
+CUST-1289,Olivia Jones,Male,24,2024-06-10,75100.0,725,87,New York,Yes
+CUST-1676,David Jones,Male,49,2020-10-27,74600.0,687,90,San Francisco,Yes
+CUST-1720,Emily Brown,Female,30,2021-03-23,88600.0,810,50,San Francisco,No
+CUST-1859,Michael Miller,Male,23,2023-01-26,77700.0,720,91,New York,Yes
+CUST-1411,John Brown,Female,70,2020-08-05,47400.0,683,55,San Francisco,Yes
+CUST-1381,Michael Jones,Female,40,2024-01-18,63900.0,608,43,San Francisco,Yes
+CUST-1679,Emily Rodriguez,Male,49,2020-04-13,65300.0,605,37,Chicago,No
+CUST-1135,Emily Garcia,Female,62,2020-11-18,58700.0,687,73,Chicago,No
+CUST-1350,James Rodriguez,Female,54,2019-12-21,64900.0,672,100,San Francisco,Yes
+CUST-1367,Michael Johnson,Male,33,2023-10-21,60100.0,697,8,New York,Yes
+CUST-1480,James Smith,Male,46,2024-02-16,68300.0,598,51,New York,No
+CUST-1095,James Williams,Male,42,2022-04-06,80800.0,829,83,New York,Yes
+CUST-1700,Emily Brown,Male,59,2019-02-21,30900.0,623,29,New York,Yes
+CUST-1553,James Smith,Male,32,2021-04-16,39700.0,639,71,San Francisco,Yes
+CUST-1140,Michael Williams,Male,42,2023-04-12,53200.0,683,89,New York,No
+CUST-1736,Sarah Williams,Female,37,2022-07-27,68000.0,737,87,Chicago,Yes
+CUST-1312,Emily Smith,Male,48,2020-07-19,94100.0,798,66,New York,Yes
+CUST-1328,Emma Davis,Female,62,2024-10-16,94200.0,731,18,San Francisco,Yes
+CUST-1916,David Martinez,Female,54,2024-11-02,66500.0,606,91,Chicago,No
+CUST-1129,Sarah Brown,Female,31,2020-12-12,53800.0,653,17,New York,No
+CUST-1286,Sarah Brown,Female,51,2021-04-12,56100.0,740,64,New York,Yes
+CUST-1224,Olivia Williams,Male,18,2020-10-27,54800.0,701,40,New York,No
+CUST-1377,David Garcia,Male,30,2019-06-07,86900.0,625,26,Chicago,Yes
+CUST-1745,Olivia Williams,Male,64,2021-02-02,62100.0,629,73,San Francisco,Yes
+CUST-1671,John Brown,Female,32,2022-03-24,92200.0,650,1,New York,Yes
+CUST-1920,David Jones,Male,46,2022-04-10,94900.0,716,50,New York,No
+CUST-1363,Olivia Smith,Male,27,2022-08-24,65300.0,831,86,New York,Yes
+CUST-1184,Sarah Miller,Male,46,2020-11-22,54300.0,787,18,San Francisco,Yes
+CUST-1163,Emma Miller,Male,62,2020-11-22,77900.0,742,9,Chicago,Yes
+CUST-1461,James Rodriguez,Male,65,2019-04-10,124100.0,618,13,San Francisco,Yes
+CUST-1221,Jane Williams,Female,49,2022-08-02,21600.0,683,2,San Francisco,No
+CUST-1057,Olivia Rodriguez,Male,53,2022-09-09,65650.0,702,19,Chicago,Yes
+CUST-1156,Emma Davis,Male,27,2024-03-27,34200.0,698,38,New York,No
+CUST-1631,Robert Miller,Male,19,2023-06-15,57700.0,639,75,San Francisco,Yes
+CUST-1704,Jane Smith,Male,39,2020-12-17,73300.0,683,67,New York,Yes
+CUST-1618,Sarah Smith,Male,37,2019-08-27,76900.0,759,43,New York,No
+CUST-1722,Robert Williams,Male,37,2021-09-10,71900.0,714,92,Chicago,No
+CUST-1199,Emily Davis,Male,28,2023-03-16,67000.0,625,18,New York,No
+CUST-1572,,Male,46,2019-04-26,54500.0,755,43,San Francisco,No
+CUST-1061,David Miller,Female,40,2024-04-02,30900.0,741,48,New York,No
+CUST-1099,Robert Garcia,Male,46,2023-10-26,73900.0,819,34,San Francisco,Yes
+CUST-1939,Michael Davis,Male,27,2019-06-11,74000.0,553,28,New York,No
+CUST-1243,Sarah Jones,Female,71,2019-12-24,104100.0,786,8,Chicago,No
+CUST-1380,James Johnson,Female,74,2022-02-18,103400.0,715,100,Chicago,No
+CUST-1259,James Rodriguez,Female,71,2023-10-18,71700.0,643,85,New York,Yes
+CUST-1923,Emily Rodriguez,Male,21,2024-12-13,52600.0,690,27,New York,Yes
+CUST-1194,,Male,58,2022-06-04,59200.0,767,15,San Francisco,Yes
+CUST-1110,Robert Garcia,Male,58,2019-04-17,66800.0,782,94,New York,No
+CUST-1423,,Female,46,2022-12-10,91800.0,618,74,Chicago,Yes
+CUST-1624,David Rodriguez,Male,31,2019-07-15,96400.0,649,58,San Francisco,No
+CUST-1390,Robert Miller,Female,46,2024-08-06,83900.0,748,47,New York,Yes
+CUST-1254,Jane Brown,Male,23,2019-02-10,93800.0,595,38,Chicago,No
+CUST-1104,John Johnson,Female,46,2020-05-06,52600.0,762,50,San Francisco,No
+CUST-1079,Robert Jones,Female,36,2021-01-16,52600.0,753,3,Chicago,Yes
+CUST-1309,Emma Johnson,Female,66,2023-09-11,65650.0,627,92,Chicago,Yes
+CUST-1850,Robert Jones,Female,46,2023-08-15,62800.0,714,67,Chicago,Yes
+CUST-1561,Robert Williams,Female,47,2019-05-17,51000.0,623,5,New York,No
+CUST-1802,Michael Martinez,Other,27,2022-10-18,69200.0,734,99,New York,Yes
+CUST-1886,Michael Martinez,Female,36,2023-03-02,70200.0,727,20,New York,Yes
+CUST-1171,Robert Martinez,Female,29,2021-02-27,69900.0,712,40,San Francisco,Yes
+CUST-1926,James Rodriguez,Female,68,2022-04-08,62100.0,617,2,San Francisco,Yes
+CUST-1265,Emma Garcia,Female,60,2023-03-19,61500.0,745,63,New York,Yes
+CUST-1037,Michael Davis,Male,47,2022-07-19,62500.0,798,65,New York,No
+CUST-1030,John Jones,Female,71,2022-08-25,78100.0,745,14,New York,No
+CUST-1088,Michael Davis,Female,43,2023-07-06,19800.0,706,10,Chicago,No
+CUST-1148,Emily Jones,Female,38,2020-02-20,35000.0,755,57,New York,Yes
+CUST-1117,David Garcia,Female,45,2019-05-19,47000.0,547,18,San Francisco,Yes
+CUST-1447,David Brown,Male,66,2022-07-27,21400.0,806,37,New York,No
+CUST-1808,David Miller,Male,63,2022-09-09,124100.0,683,50,Chicago,Yes
+CUST-1660,James Johnson,Male,71,2024-09-08,124100.0,635,100,New York,No
+CUST-1614,Emily Miller,Female,66,2020-04-21,124100.0,818,19,San Francisco,Yes
+CUST-1228,Olivia Garcia,Male,46,2019-10-28,39400.0,761,6,San Francisco,Yes
+CUST-1803,James Garcia,Female,36,2020-01-07,65650.0,767,65,San Francisco,No
+CUST-1266,Sarah Martinez,Female,71,2020-01-07,59300.0,701,57,New York,Yes
+CUST-1059,John Davis,Male,19,2020-01-07,65650.0,793,100,San Francisco,No
+CUST-1605,Sarah Smith,Male,37,2021-11-15,89100.0,630,85,Chicago,Yes
+CUST-1754,James Davis,Male,53,2024-11-19,65650.0,735,20,New York,Yes
+CUST-1706,Emily Rodriguez,Female,22,2020-10-17,46100.0,607,80,Chicago,No
+CUST-1552,James Rodriguez,Female,74,2023-03-18,77100.0,693,52,New York,No
+CUST-1358,Michael Brown,Male,21,2022-05-01,65650.0,683,67,New York,No
+CUST-1673,John Garcia,Male,18,2019-07-01,65650.0,666,12,New York,Yes
+CUST-1788,John Jones,Male,24,2021-05-27,51200.0,647,11,New York,Yes
+CUST-1905,Robert Williams,Female,45,2024-06-17,36600.0,623,66,New York,No
+CUST-1793,Olivia Smith,Male,19,2021-10-01,61600.0,680,91,New York,Yes
+CUST-1705,Emily Jones,Male,31,2023-07-26,50300.0,680,67,Chicago,No
+CUST-1772,James Rodriguez,Female,51,2022-12-18,38400.0,697,62,San Francisco,No
+CUST-1355,Robert Jones,Female,60,2019-11-02,76500.0,532,32,San Francisco,Yes
+CUST-1083,David Jones,Male,69,2021-11-18,48600.0,737,89,New York,Yes
+CUST-1667,Emily Jones,Female,57,2021-11-18,55400.0,564,15,San Francisco,No
+CUST-1206,Emily Martinez,Female,31,2019-05-10,64600.0,752,69,Chicago,Yes
+CUST-1021,James Jones,Male,23,2022-04-14,65650.0,838,51,San Francisco,Yes
+CUST-1755,Jane Garcia,Male,55,2024-10-26,46700.0,732,33,San Francisco,Yes
+CUST-1260,Olivia Garcia,Male,68,2024-10-26,76100.0,753,35,New York,Yes
+CUST-1573,Olivia Johnson,Male,22,2022-02-18,124100.0,599,91,New York,Yes
+CUST-1084,Olivia Rodriguez,Male,70,2023-07-22,124100.0,763,97,New York,No
+CUST-1948,Michael Brown,Male,65,2024-01-23,58000.0,694,12,New York,Yes
+CUST-1598,Jane Miller,Male,74,2019-03-08,43300.0,683,24,New York,No
+CUST-1292,John Davis,Female,40,2022-03-22,93900.0,624,37,Chicago,Yes
+CUST-1047,James Jones,Male,31,2020-02-23,61600.0,659,10,Chicago,Yes
+CUST-1141,John Miller,Female,46,2020-02-23,65650.0,683,87,San Francisco,No
+CUST-1588,Emily Davis,Male,36,2022-12-12,56300.0,633,24,New York,Yes
+CUST-1541,Emily Martinez,Female,46,2019-12-28,24800.0,584,94,New York,Yes
+CUST-1430,Olivia Rodriguez,Male,34,2019-05-20,31600.0,579,41,New York,Yes
+CUST-1139,Robert Miller,Female,29,2021-11-20,72900.0,683,83,Chicago,Yes
+CUST-1415,Jane Garcia,Male,29,2019-06-26,65650.0,660,50,Chicago,No
+CUST-1906,Robert Garcia,Male,74,2019-03-07,78600.0,575,97,New York,No
+CUST-1371,Jane Rodriguez,Female,57,2021-05-01,95100.0,800,34,New York,Yes
+CUST-1274,Sarah Martinez,Male,71,2022-10-02,40000.0,607,7,New York,Yes
+CUST-1651,Emily Garcia,Female,31,2024-12-13,53500.0,840,9,Chicago,Yes
+CUST-1644,Emily Davis,Female,19,2019-11-10,72800.0,685,89,New York,No
+CUST-1739,David Brown,Male,29,2020-10-20,65650.0,613,83,Chicago,No
+CUST-1617,Olivia Williams,Male,34,2022-02-06,93900.0,683,12,New York,No
+CUST-1738,Emily Davis,Male,61,2020-02-18,97100.0,725,50,San Francisco,No
+CUST-1613,Olivia Rodriguez,Male,46,2022-12-06,51600.0,726,14,New York,No
+CUST-1727,Jane Rodriguez,Female,37,2023-10-27,68800.0,686,38,Chicago,No
+CUST-1717,John Garcia,Female,48,2022-11-12,70900.0,630,33,San Francisco,No
+CUST-1924,John Brown,Male,66,2020-12-22,53600.0,754,28,San Francisco,Yes
+CUST-1610,Michael Rodriguez,Female,56,2024-12-11,102700.0,623,1,San Francisco,No
+CUST-1620,David Williams,Female,24,2024-12-11,66500.0,674,26,New York,No
+CUST-1654,James Smith,Female,46,2022-08-09,124100.0,840,94,Chicago,Yes
+CUST-1177,,Female,47,2024-08-22,47800.0,646,82,Chicago,No
+CUST-1858,Jane Davis,Female,65,2019-12-12,66800.0,574,64,New York,Yes
+CUST-1321,Jane Williams,Male,46,2020-07-06,70600.0,765,60,Chicago,Yes
+CUST-1602,John Smith,Female,62,2019-12-06,36200.0,688,73,Chicago,Yes
+CUST-1146,Olivia Davis,Female,50,2020-11-21,59500.0,587,22,New York,No
+CUST-1908,Emily Brown,Female,27,2020-03-22,124100.0,662,95,New York,No
+CUST-1039,James Martinez,Male,46,2023-06-25,57000.0,655,41,San Francisco,No
+CUST-1242,Olivia Rodriguez,Male,75,2024-12-20,52400.0,587,42,Chicago,Yes
+CUST-1701,Emma Martinez,Female,64,2024-06-03,93700.0,670,63,New York,Yes
+CUST-1136,Olivia Garcia,Male,22,2019-08-08,65650.0,721,65,San Francisco,No
+CUST-1310,Sarah Davis,Male,60,2020-10-23,60400.0,617,71,San Francisco,No
+CUST-1087,Michael Smith,Male,27,2021-08-01,84400.0,629,37,Chicago,Yes
+CUST-1248,James Johnson,Female,30,2020-01-03,76100.0,709,64,San Francisco,No
+CUST-1454,,Male,37,2023-02-23,42400.0,719,98,San Francisco,No
+CUST-1003,David Davis,Female,67,2022-04-13,57400.0,721,53,New York,No
+CUST-1111,Sarah Davis,Male,18,2022-11-19,56300.0,773,74,New York,No
+CUST-1677,Sarah Martinez,Male,32,2019-12-01,74300.0,676,3,New York,No
+CUST-1453,Sarah Brown,Male,46,2021-03-23,66800.0,683,12,Chicago,No
+CUST-1885,John Garcia,Male,46,2021-09-27,48400.0,818,76,San Francisco,Yes
+CUST-1069,Jane Brown,Female,68,2019-02-24,27300.0,650,92,New York,No
+CUST-1522,James Williams,Female,31,2020-12-17,87200.0,656,81,San Francisco,No
+CUST-1314,Emma Martinez,Male,58,2023-04-19,65650.0,730,34,Chicago,No
+CUST-1319,Sarah Smith,Male,46,2022-12-05,75700.0,670,38,New York,No
+CUST-1438,John Rodriguez,Male,18,2022-05-21,47800.0,807,67,Chicago,Yes
+CUST-1847,David Jones,Female,19,2023-03-19,99100.0,580,8,Chicago,Yes
+CUST-1005,Jane Jones,Male,52,2021-01-17,41100.0,683,66,Chicago,No
+CUST-1100,Michael Davis,Female,73,2024-06-27,62400.0,640,98,San Francisco,Yes
+CUST-1548,Jane Smith,Male,56,2020-05-16,60800.0,726,7,New York,No
+CUST-1527,James Williams,Female,53,2020-05-16,45700.0,621,31,New York,Yes
+CUST-1873,Robert Williams,Female,70,2020-01-05,33900.0,717,70,Chicago,Yes
+CUST-1157,Emily Rodriguez,Female,25,2022-10-04,81700.0,639,50,San Francisco,No
+CUST-1439,Emily Jones,Male,67,2024-12-05,34600.0,660,28,New York,Yes
+CUST-1036,Jane Williams,Female,56,2022-10-21,68500.0,703,30,San Francisco,Yes
+CUST-1227,Sarah Williams,Male,60,2020-04-06,54300.0,628,65,New York,Yes
+CUST-1942,Emma Jones,Male,46,2020-02-03,69500.0,666,99,San Francisco,No
+CUST-1566,David Smith,Female,40,2019-10-07,64400.0,717,37,New York,Yes
+CUST-1875,David Martinez,Female,46,2020-09-02,76100.0,675,16,San Francisco,No
+CUST-1066,Sarah Rodriguez,Male,54,2022-03-22,80600.0,693,23,New York,No
+CUST-1067,Michael Davis,Female,54,2021-10-20,74000.0,774,88,New York,Yes
+CUST-1211,Emily Garcia,Male,46,2020-09-06,90300.0,620,9,New York,Yes
+CUST-1133,Emma Martinez,Male,60,2019-11-01,22000.0,676,12,Chicago,Yes
+CUST-1695,Jane Smith,Female,44,2019-03-16,92500.0,771,89,New York,No
+CUST-1299,Michael Johnson,Female,40,2024-02-14,79700.0,711,90,San Francisco,No
+CUST-1485,Michael Martinez,Female,46,2024-06-24,54200.0,584,2,San Francisco,Yes
+CUST-1816,Emma Jones,Female,21,2024-06-19,65650.0,763,10,San Francisco,No
+CUST-1166,Sarah Brown,Male,46,2020-06-28,76500.0,829,53,New York,No
+CUST-1494,Emma Davis,Female,53,2020-06-28,62200.0,680,50,New York,Yes
+CUST-1230,John Brown,Female,66,2019-01-15,65650.0,664,95,New York,Yes
+CUST-1405,Emma Garcia,Female,33,2021-11-13,46400.0,649,5,Chicago,No
+CUST-1124,Emma Miller,Female,55,2024-05-26,73300.0,695,100,San Francisco,No
+CUST-1732,David Williams,Male,53,2021-07-11,75400.0,710,81,Chicago,Yes
+CUST-1212,James Smith,Male,34,2022-01-21,124100.0,683,15,New York,Yes
+CUST-1714,Olivia Garcia,Male,42,2019-09-19,86600.0,683,15,Chicago,Yes
+CUST-1710,Robert Smith,Female,41,2019-02-20,65650.0,739,2,Chicago,No
+CUST-1134,Sarah Brown,Female,59,2019-02-20,41300.0,742,61,San Francisco,No
+CUST-1273,Emma Smith,Male,46,2024-08-23,61200.0,515,52,Chicago,Yes
+CUST-1427,Jane Johnson,Male,47,2021-10-14,75700.0,645,21,Chicago,No
+CUST-1362,Jane Garcia,Female,46,2024-07-03,24500.0,704,100,New York,No
+CUST-1237,James Brown,Female,18,2020-11-05,124100.0,671,40,New York,Yes
+CUST-1479,Olivia Rodriguez,Male,46,2021-03-18,19400.0,726,100,New York,No
+CUST-1311,Emily Jones,Female,71,2020-02-24,65650.0,605,52,San Francisco,No
+CUST-1118,Olivia Miller,Male,58,2023-11-21,65650.0,777,60,Chicago,No
+CUST-1190,Jane Jones,Female,54,2022-06-03,64500.0,682,68,San Francisco,No
+CUST-1534,Emily Smith,Female,55,2021-05-13,71300.0,600,91,San Francisco,Yes
+CUST-1818,David Davis,Male,32,2024-06-21,63700.0,551,43,New York,Yes
+CUST-1215,Emma Johnson,Male,21,2019-07-12,46600.0,683,89,Chicago,Yes
+CUST-1532,David Miller,Male,18,2020-06-15,43300.0,721,89,New York,Yes
+CUST-1027,Olivia Martinez,Female,40,2021-05-01,15000.0,761,31,San Francisco,No
+CUST-1428,John Garcia,Male,65,2021-10-10,43600.0,774,100,Chicago,No
+CUST-1888,James Miller,Male,75,2019-12-07,45900.0,529,4,San Francisco,Yes
+CUST-1842,Michael Johnson,Male,46,2022-09-25,47700.0,703,64,Chicago,No
+CUST-1721,John Williams,Male,24,2020-12-06,82000.0,671,46,Chicago,No
+CUST-1523,James Davis,Male,60,2021-03-17,27900.0,683,50,Chicago,No
+CUST-1936,Robert Jones,Male,45,2021-12-21,69600.0,608,15,New York,No
+CUST-1160,David Miller,Female,59,2023-01-23,72800.0,610,21,Chicago,Yes
+CUST-1354,Olivia Miller,Female,38,2024-09-04,42900.0,699,75,New York,Yes
+CUST-1597,John Martinez,Female,44,2023-03-08,124100.0,673,29,New York,Yes
+CUST-1025,Olivia Garcia,Female,18,2020-12-08,42200.0,582,83,New York,Yes
+CUST-1336,,Female,30,2023-04-19,63700.0,585,57,San Francisco,No
+CUST-1549,Emma Rodriguez,Male,50,2024-10-21,89100.0,756,87,San Francisco,Yes
+CUST-1318,Michael Williams,Male,62,2023-03-15,60000.0,658,50,Chicago,Yes
+CUST-1106,Emily Miller,Male,73,2022-03-14,23500.0,691,50,San Francisco,No
+CUST-1865,Olivia Garcia,Male,46,2021-04-05,41800.0,709,77,Chicago,No
+CUST-1692,David Smith,Male,65,2022-03-13,54500.0,582,11,Chicago,No
+CUST-1213,Emily Martinez,Male,19,2019-04-17,50900.0,637,25,San Francisco,Yes
+CUST-1120,John Garcia,Male,46,2019-02-08,76500.0,811,76,San Francisco,No
+CUST-1851,Emily Rodriguez,Female,28,2019-12-18,64200.0,655,99,San Francisco,Yes
+CUST-1478,Olivia Davis,Female,46,2019-05-07,75100.0,586,6,Chicago,Yes
+CUST-1072,Olivia Brown,Female,26,2019-05-07,92600.0,625,28,San Francisco,No
+CUST-1410,Michael Brown,Male,56,2022-02-23,29600.0,696,5,Chicago,No
+CUST-1649,Emma Brown,Female,72,2020-07-15,87800.0,611,90,San Francisco,No
+CUST-1806,Emily Smith,Male,55,2019-05-15,65650.0,532,68,New York,Yes
+CUST-1545,Emily Williams,Male,60,2022-03-20,78700.0,616,90,New York,Yes
+CUST-1432,David Davis,Female,22,2021-09-14,41300.0,590,82,Chicago,No
+CUST-1490,Olivia Brown,Male,46,2019-07-20,57000.0,619,60,San Francisco,Yes
+CUST-1017,John Brown,Male,29,2022-03-11,39500.0,589,45,San Francisco,Yes
+CUST-1848,Emma Rodriguez,Female,40,2021-11-07,47900.0,710,71,New York,Yes
+CUST-1596,James Williams,Female,29,2020-08-13,59500.0,683,98,New York,Yes
+CUST-1780,John Miller,Female,46,2020-09-09,65650.0,654,49,San Francisco,Yes
+CUST-1583,James Garcia,Female,71,2019-09-01,88800.0,770,20,New York,Yes
+CUST-1325,David Garcia,Female,58,2020-05-26,45400.0,771,50,New York,Yes
+CUST-1554,Emma Jones,Female,61,2024-10-24,64300.0,608,31,New York,Yes
+CUST-1050,David Williams,Male,49,2024-10-24,38600.0,690,80,San Francisco,Yes
+CUST-1316,Jane Jones,Female,74,2023-12-13,69800.0,716,87,San Francisco,No
+CUST-1666,John Garcia,Female,41,2022-01-21,26300.0,537,94,New York,No
+CUST-1246,Robert Brown,Male,68,2022-01-21,78300.0,709,19,New York,No
+CUST-1570,Jane Jones,Male,59,2020-03-20,65650.0,778,42,Chicago,Yes
+CUST-1092,Michael Johnson,Female,46,2020-06-05,55200.0,717,50,New York,No
+CUST-1590,Emily Williams,Male,75,2022-07-01,60300.0,784,29,Chicago,No
+CUST-1060,Olivia Smith,Female,46,2020-10-25,52600.0,732,19,New York,Yes
+CUST-1433,David Davis,Male,71,2019-01-13,76300.0,630,68,New York,No
+CUST-1777,Robert Smith,Male,33,2022-09-01,92800.0,720,50,San Francisco,No
+CUST-1930,Michael Jones,Female,39,2020-03-10,72300.0,592,14,San Francisco,No
+CUST-1464,Sarah Johnson,Male,31,2020-03-10,54400.0,840,42,New York,No
+CUST-1351,David Brown,Male,46,2024-01-07,66000.0,578,100,Chicago,No
+CUST-1280,Sarah Williams,Female,20,2023-08-19,88800.0,823,57,New York,No
+CUST-1497,David Miller,Male,21,2019-09-20,67600.0,705,90,New York,No
+CUST-1052,Jane Martinez,Male,45,2019-01-26,61800.0,731,40,New York,Yes
+CUST-1359,David Jones,Female,62,2023-11-26,66500.0,642,24,New York,No
+CUST-1591,John Garcia,Male,49,2021-10-23,81700.0,782,60,San Francisco,Yes
+CUST-1910,Robert Jones,Female,26,2022-04-06,77100.0,649,47,Chicago,No
+CUST-1774,John Jones,Male,65,2022-09-10,52700.0,707,6,New York,Yes
+CUST-1481,Emma Davis,Female,70,2020-12-28,39700.0,683,50,Chicago,No
+CUST-1536,Emma Davis,Female,26,2023-10-10,80400.0,683,40,New York,Yes
+CUST-1781,Olivia Smith,Male,39,2019-11-13,84700.0,683,83,San Francisco,No
+CUST-1182,Sarah Johnson,Male,42,2024-04-13,57900.0,602,87,New York,Yes
+CUST-1097,John Brown,Female,33,2020-01-20,65650.0,715,23,New York,No
+CUST-1903,Olivia Williams,Male,50,2023-08-23,69200.0,683,79,San Francisco,Yes
+CUST-1370,John Davis,Female,73,2022-09-26,61900.0,692,59,New York,No
+CUST-1458,Emily Johnson,Male,41,2021-10-20,40900.0,726,56,Chicago,Yes
+CUST-1239,John Rodriguez,Male,61,2019-04-22,32300.0,633,96,San Francisco,No
+CUST-1115,Emily Davis,Male,53,2022-11-25,68900.0,598,42,Chicago,No
+CUST-1678,Emma Rodriguez,Male,28,2022-02-25,78600.0,700,77,San Francisco,No
+CUST-1931,John Jones,Male,20,2020-02-09,81400.0,712,98,Chicago,Yes
+CUST-1204,Robert Davis,Male,41,2021-02-24,51300.0,734,70,New York,Yes
+CUST-1872,John Williams,Male,47,2021-09-13,94900.0,719,41,San Francisco,Yes
+CUST-1261,Michael Miller,Female,22,2021-09-13,87300.0,630,8,Chicago,Yes
+CUST-1538,Michael Brown,Female,25,2020-10-06,85600.0,648,89,Chicago,Yes
+CUST-1713,David Jones,Female,45,2019-03-12,82900.0,673,50,San Francisco,Yes
+CUST-1339,Jane Garcia,Female,73,2019-08-26,56400.0,680,100,San Francisco,Yes
+CUST-1718,Emily Garcia,Male,66,2020-10-15,104000.0,615,6,San Francisco,No
+CUST-1716,David Davis,Female,22,2022-06-19,67000.0,724,47,New York,Yes
+CUST-1836,James Brown,Female,50,2021-05-12,94900.0,695,4,Chicago,Yes
+CUST-1879,Robert Williams,Female,38,2022-03-26,83500.0,652,72,San Francisco,Yes
+CUST-1080,David Miller,Female,45,2023-10-13,82600.0,716,100,Chicago,Yes
+CUST-1542,James Rodriguez,Female,39,2024-07-08,77900.0,685,95,San Francisco,Yes
+CUST-1857,James Davis,Male,74,2021-03-14,107500.0,652,91,Chicago,Yes
+CUST-1238,Robert Smith,Male,43,2021-11-25,33900.0,634,47,Chicago,Yes
+CUST-1783,Olivia Williams,Female,46,2019-06-07,58800.0,706,77,New York,Yes
+CUST-1471,John Davis,Male,32,2019-05-13,96300.0,578,29,San Francisco,No
+CUST-1032,Emma Martinez,Male,70,2024-02-01,67200.0,737,28,New York,Yes
+CUST-1307,Robert Davis,Male,68,2022-11-13,49100.0,616,4,New York,Yes
+CUST-1909,,Female,67,2024-06-02,65650.0,547,50,New York,No
+CUST-1334,John Smith,Male,54,2024-03-13,27100.0,608,13,San Francisco,No
+CUST-1116,Sarah Rodriguez,Male,70,2019-06-02,80700.0,646,68,New York,No
+CUST-1741,David Williams,Male,46,2019-06-02,53400.0,686,45,New York,Yes
+CUST-1785,Sarah Davis,Male,57,2024-04-15,83500.0,740,71,Chicago,Yes
+CUST-1175,David Rodriguez,Female,72,2021-08-23,76200.0,747,70,Chicago,No
+CUST-1302,Sarah Garcia,Female,39,2022-02-15,76100.0,650,52,New York,No
+CUST-1388,Jane Brown,Male,46,2024-12-10,71300.0,644,11,San Francisco,Yes
+CUST-1235,David Johnson,Female,31,2021-07-15,65700.0,560,39,San Francisco,No
+CUST-1876,Jane Miller,Male,35,2023-10-12,74200.0,674,7,New York,No
+CUST-1767,Sarah Brown,Female,29,2023-12-11,67400.0,683,41,San Francisco,No
+CUST-1305,Emma Rodriguez,Female,34,2024-06-18,47400.0,565,9,Chicago,No
+CUST-1832,Emma Brown,Male,28,2024-08-02,78900.0,627,15,New York,Yes
+CUST-1249,Robert Miller,Male,21,2024-03-02,66700.0,683,41,New York,No
+CUST-1862,Emily Garcia,Male,46,2024-03-02,62700.0,683,90,San Francisco,Yes
+CUST-1071,Emily Williams,Female,19,2020-08-21,65650.0,525,19,San Francisco,Yes
+CUST-1094,Emma Martinez,Male,63,2019-04-08,112900.0,597,14,San Francisco,No
+CUST-1589,James Miller,Female,33,2021-09-10,65650.0,690,41,Chicago,No
+CUST-1033,Sarah Davis,Female,53,2019-09-15,65650.0,606,100,Chicago,Yes
+CUST-1844,Michael Brown,Female,44,2022-03-02,81800.0,548,35,New York,Yes
+CUST-1448,Emma Miller,Male,23,2022-07-14,64600.0,637,20,San Francisco,No
+CUST-1445,Emily Johnson,Male,52,2024-07-14,89700.0,662,23,Chicago,No
+CUST-1013,John Davis,Male,33,2019-06-02,55400.0,738,30,New York,No
+CUST-1630,Michael Miller,Male,52,2023-11-10,85400.0,707,88,New York,Yes
+CUST-1798,David Jones,Female,61,2021-05-01,61400.0,659,33,San Francisco,Yes
+CUST-1582,Michael Johnson,Male,19,2024-10-26,48400.0,641,30,San Francisco,No
+CUST-1082,Robert Smith,Male,37,2021-03-07,40200.0,608,33,New York,Yes
+CUST-1457,David Miller,Male,28,2020-03-07,96100.0,554,73,Chicago,No
+CUST-1796,James Jones,Male,20,2021-08-14,67400.0,648,58,New York,No
+CUST-1436,Emily Brown,Female,52,2023-10-11,90000.0,622,48,New York,Yes
+CUST-1890,Jane Smith,Male,35,2020-11-05,72800.0,683,61,New York,No
+CUST-1015,James Garcia,Female,58,2019-10-21,42700.0,518,91,New York,No
+CUST-1404,Sarah Davis,Male,32,2019-02-03,15000.0,683,85,Chicago,No
+CUST-1668,Michael Garcia,Female,68,2020-06-17,65650.0,789,85,San Francisco,Yes
+CUST-1889,David Miller,Male,24,2020-06-17,84600.0,715,79,San Francisco,Yes
+CUST-1823,Michael Brown,Male,60,2020-03-25,100700.0,600,88,New York,No
+CUST-1650,James Miller,Male,46,2023-04-19,103100.0,590,62,San Francisco,Yes
+CUST-1062,Michael Davis,Male,33,2023-09-06,39200.0,715,100,San Francisco,Yes
+CUST-1281,James Davis,Male,49,2020-06-13,46300.0,721,81,San Francisco,Yes
+CUST-1711,Michael Martinez,Male,67,2021-09-16,65650.0,595,34,San Francisco,No
+CUST-1223,David Smith,Female,55,2019-01-01,87800.0,683,17,New York,No
+CUST-1145,James Miller,Male,54,2022-11-18,63700.0,683,79,Chicago,Yes
+CUST-1373,Sarah Smith,Male,25,2022-11-18,79900.0,721,11,San Francisco,No
+CUST-1869,Michael Williams,Male,69,2022-11-18,62500.0,779,27,New York,Yes
+CUST-1250,David Rodriguez,Male,40,2021-03-10,58400.0,608,88,New York,Yes
+CUST-1009,,Male,74,2020-07-26,47500.0,683,17,New York,No
+CUST-1449,James Garcia,Male,42,2023-01-27,41900.0,752,81,San Francisco,Yes
+CUST-1947,Robert Miller,Male,25,2022-09-10,68400.0,699,35,Chicago,Yes
+CUST-1389,David Davis,Female,33,2020-09-24,48500.0,787,15,San Francisco,Yes
+CUST-1672,Jane Miller,Male,23,2023-07-16,39700.0,694,78,New York,No
+CUST-1026,Jane Johnson,Female,29,2020-09-27,124100.0,640,44,Chicago,Yes
+CUST-1557,John Williams,Male,57,2023-12-23,79100.0,726,81,San Francisco,Yes
+CUST-1460,Emma Jones,Male,31,2023-05-25,65650.0,581,8,New York,No
+CUST-1144,Emily Williams,Male,59,2020-02-28,97400.0,691,90,New York,Yes
+CUST-1501,Jane Jones,Female,75,2021-10-03,92600.0,698,11,Chicago,No
+CUST-1539,Emma Miller,Female,55,2024-01-08,66400.0,800,50,San Francisco,No
+CUST-1628,David Smith,Male,19,2024-01-08,74900.0,734,50,New York,Yes
+CUST-1126,Robert Brown,Female,39,2022-01-03,49400.0,565,91,San Francisco,No
+CUST-1007,Sarah Brown,Female,46,2024-05-23,65650.0,840,42,San Francisco,Yes
+CUST-1852,Emma Martinez,Male,69,2024-02-27,89300.0,516,34,New York,Yes
+CUST-1357,Jane Miller,Female,42,2024-04-08,68700.0,668,90,San Francisco,Yes
+CUST-1329,Jane Johnson,Female,68,2020-10-15,71600.0,633,43,New York,No
+CUST-1759,Jane Smith,Male,49,2019-03-21,90200.0,617,50,Chicago,Yes
+CUST-1899,Emily Rodriguez,Male,50,2022-08-08,63600.0,812,80,New York,No
+CUST-1258,David Rodriguez,Female,65,2023-07-04,40700.0,669,27,New York,Yes
+CUST-1941,Olivia Brown,Female,64,2019-04-17,53800.0,616,42,San Francisco,Yes
+CUST-1016,Emma Brown,Female,61,2019-06-23,18900.0,682,1,New York,No
+CUST-1034,Emma Martinez,Male,63,2020-04-26,124100.0,682,50,San Francisco,Yes
+CUST-1898,Robert Garcia,Female,23,2019-12-07,85200.0,773,11,San Francisco,Yes
+CUST-1525,,Female,41,2020-04-07,42500.0,682,86,New York,Yes
+CUST-1881,Olivia Rodriguez,Male,21,2020-02-07,82100.0,646,51,Chicago,Yes
+CUST-1707,John Johnson,Male,25,2022-11-13,57400.0,648,85,New York,Yes
+CUST-1811,David Garcia,Female,46,2021-11-13,60400.0,743,39,New York,Yes
+CUST-1440,Emily Garcia,Female,33,2021-09-05,60300.0,670,39,San Francisco,No
+CUST-1531,Emma Davis,Male,40,2023-10-26,60100.0,738,92,San Francisco,No
+CUST-1226,David Johnson,Male,45,2019-02-26,24000.0,657,90,Chicago,No
+CUST-1130,Michael Smith,Male,47,2022-10-21,32700.0,655,20,San Francisco,Yes
+CUST-1636,Emily Smith,Female,43,2023-12-28,76000.0,669,33,San Francisco,Yes
+CUST-1762,John Garcia,Male,24,2019-06-17,96800.0,677,25,Chicago,Yes
+CUST-1634,Emily Davis,Female,70,2019-03-16,62600.0,683,20,San Francisco,Yes
+CUST-1845,Emma Johnson,Male,64,2024-11-17,80400.0,550,81,New York,No
+CUST-1408,Michael Johnson,Male,35,2023-12-17,64100.0,776,32,New York,No
+CUST-1723,Olivia Williams,Male,74,2022-05-13,99300.0,774,35,New York,No
+CUST-1507,David Williams,Male,39,2023-09-17,43100.0,683,99,Chicago,No
+CUST-1142,Olivia Brown,Male,55,2023-01-14,26900.0,617,90,San Francisco,No
+CUST-1504,Michael Davis,Male,55,2022-07-11,65650.0,724,98,Chicago,Yes
+CUST-1186,Emma Brown,Male,59,2022-11-11,65650.0,749,16,New York,No
+CUST-1347,James Smith,Male,43,2023-07-06,49100.0,590,70,Chicago,Yes
+CUST-1386,Emma Rodriguez,Female,45,2019-02-18,73300.0,670,1,San Francisco,No
+CUST-1000,Olivia Brown,Male,31,2021-06-04,65650.0,807,23,San Francisco,No
+CUST-1360,Emily Garcia,Male,28,2021-10-25,83900.0,595,37,Chicago,Yes
+CUST-1475,Emily Martinez,Female,34,2023-01-18,46900.0,656,88,New York,Yes
+CUST-1839,Michael Miller,Male,47,2019-08-20,79800.0,683,37,New York,Yes
+CUST-1813,Jane Martinez,Male,40,2023-05-07,88500.0,644,53,New York,No
+CUST-1450,Emma Rodriguez,Male,47,2020-09-19,65650.0,654,38,San Francisco,Yes
+CUST-1125,Jane Brown,Female,67,2019-08-01,20100.0,630,48,Chicago,Yes
+CUST-1731,John Martinez,Male,72,2023-01-11,34100.0,624,23,New York,Yes
+CUST-1530,James Garcia,Male,62,2020-06-08,38700.0,698,76,San Francisco,No
+CUST-1090,Emily Garcia,Male,26,2022-09-13,65650.0,683,27,Chicago,Yes
+CUST-1708,James Smith,Male,27,2022-09-13,82800.0,722,62,New York,No
+CUST-1414,John Davis,Female,46,2019-09-18,59300.0,840,60,New York,Yes
+CUST-1251,Jane Jones,Male,19,2021-09-09,76200.0,693,27,New York,No
+CUST-1131,Jane Martinez,Male,46,2019-01-27,49100.0,731,100,New York,Yes
+CUST-1300,Olivia Davis,Female,45,2019-04-25,50100.0,709,85,San Francisco,No
+CUST-1326,Robert Rodriguez,Female,62,2022-12-17,41100.0,699,77,New York,No
+CUST-1499,Olivia Williams,Male,59,2022-12-17,86200.0,710,13,San Francisco,Yes
+CUST-1715,James Garcia,Female,39,2024-10-05,119500.0,630,26,San Francisco,No
+CUST-1495,James Miller,Female,46,2022-06-13,68400.0,711,25,New York,No
+CUST-1338,James Martinez,Male,31,2022-05-16,79100.0,831,80,New York,No
+CUST-1421,Jane Garcia,Female,70,2019-09-10,63500.0,501,50,San Francisco,No
+CUST-1028,Michael Williams,Male,37,2021-09-23,22400.0,717,100,New York,No
+CUST-1516,John Martinez,Male,30,2024-01-15,90600.0,608,14,New York,No
+CUST-1193,Michael Johnson,Male,62,2023-11-13,79500.0,700,49,San Francisco,No
+CUST-1682,James Garcia,Female,66,2020-12-01,68200.0,602,96,San Francisco,No
+CUST-1841,Michael Williams,Female,41,2019-07-23,65800.0,636,7,New York,No
+CUST-1764,Emma Garcia,Male,60,2023-04-17,72400.0,789,56,Chicago,No
+CUST-1652,Emily Smith,Female,73,2024-03-01,65650.0,625,84,New York,Yes
+CUST-1173,Emily Miller,Male,70,2021-08-07,66300.0,576,94,San Francisco,No
+CUST-1518,James Garcia,Female,34,2021-08-07,93800.0,748,10,Chicago,No
+CUST-1046,David Davis,Male,47,2021-07-19,80300.0,683,36,New York,No
+CUST-1756,John Johnson,Female,41,2023-04-11,71600.0,644,65,Chicago,No
+CUST-1491,James Smith,Female,30,2019-07-07,30500.0,684,56,New York,Yes
+CUST-1091,Michael Garcia,Female,27,2021-09-26,43900.0,703,19,San Francisco,Yes
+CUST-1587,Jane Martinez,Female,73,2021-10-11,39800.0,683,75,New York,Yes
+CUST-1657,James Smith,Female,51,2024-05-27,90900.0,756,20,New York,No
+CUST-1234,Sarah Rodriguez,Female,46,2019-07-23,78800.0,662,60,New York,Yes
+CUST-1214,Emily Davis,Female,31,2020-09-10,51700.0,625,21,San Francisco,Yes
+CUST-1162,Sarah Johnson,Male,48,2022-02-06,79000.0,685,88,New York,No
+CUST-1838,James Rodriguez,Male,31,2021-12-05,47300.0,709,51,Chicago,Yes
+CUST-1843,Emma Smith,Male,58,2024-05-24,65400.0,740,14,New York,No
+CUST-1068,Robert Martinez,Female,55,2019-08-24,96600.0,780,21,New York,No
+CUST-1108,Jane Smith,Male,43,2020-06-02,34300.0,646,40,San Francisco,Yes
+CUST-1921,Jane Miller,Male,46,2020-03-06,86000.0,669,68,New York,No
+CUST-1568,James Martinez,Female,66,2023-11-12,47200.0,779,51,New York,Yes
+CUST-1103,Olivia Smith,Female,67,2024-08-27,32400.0,777,40,Chicago,Yes
+CUST-1483,Sarah Jones,Female,38,2023-01-25,22800.0,775,67,New York,No
+CUST-1468,Jane Johnson,Female,52,2019-10-20,45600.0,736,28,New York,No
+CUST-1149,David Johnson,Female,66,2023-09-22,61800.0,603,51,San Francisco,No
+CUST-1730,Emily Miller,Female,61,2020-08-02,73900.0,642,84,San Francisco,No
+CUST-1812,James Williams,Male,72,2019-07-27,89400.0,567,56,New York,Yes
+CUST-1366,David Jones,Male,24,2022-08-21,50900.0,750,92,Chicago,No
+CUST-1911,Michael Williams,Female,18,2019-06-10,24900.0,619,29,San Francisco,No
+CUST-1143,James Brown,Male,46,2019-07-27,16200.0,639,5,San Francisco,Yes
+CUST-1383,Emma Williams,Male,53,2019-08-04,66100.0,609,93,San Francisco,Yes
+CUST-1264,Jane Smith,Male,28,2022-07-08,95900.0,714,24,San Francisco,No
+CUST-1820,Emma Davis,Male,57,2024-01-12,65650.0,675,19,New York,Yes
+CUST-1232,Emily Brown,Male,61,2019-04-19,71900.0,756,38,San Francisco,No
+CUST-1444,James Brown,Female,49,2021-11-21,71800.0,683,65,Chicago,No
+CUST-1395,Sarah Rodriguez,Female,52,2021-11-21,44300.0,625,55,San Francisco,No
+CUST-1176,Michael Johnson,Male,23,2021-11-21,56600.0,697,45,San Francisco,Yes
+CUST-1018,Michael Smith,Male,39,2024-11-13,50300.0,683,67,New York,Yes
+CUST-1760,Sarah Smith,Female,19,2023-08-09,72200.0,668,21,New York,No
+CUST-1900,Sarah Rodriguez,Male,61,2020-10-07,15000.0,759,100,San Francisco,Yes
+CUST-1595,John Miller,Female,64,2020-10-07,92400.0,644,98,Chicago,Yes
+CUST-1272,Robert Johnson,Male,72,2024-11-14,73500.0,612,38,Chicago,Yes
+CUST-1278,Robert Garcia,Male,46,2023-08-27,77200.0,666,95,San Francisco,Yes
+CUST-1694,Emma Miller,Female,48,2020-07-08,57900.0,696,75,San Francisco,No
+CUST-1368,Robert Miller,Female,75,2021-06-21,65650.0,587,32,San Francisco,Yes
+CUST-1011,Jane Rodriguez,Male,44,2024-11-17,76000.0,595,7,New York,Yes
+CUST-1887,Sarah Davis,Male,26,2024-05-20,103200.0,603,5,San Francisco,No
+CUST-1932,Olivia Brown,Female,27,2019-10-24,62300.0,683,50,Chicago,No
+CUST-1904,Robert Davis,Male,25,2019-03-22,65650.0,683,50,New York,No
+CUST-1834,Robert Jones,Male,72,2024-09-08,66100.0,637,9,San Francisco,Yes
+CUST-1547,Sarah Johnson,Male,24,2024-09-08,56000.0,682,50,Chicago,No
+CUST-1688,Olivia Miller,Female,36,2024-09-08,80900.0,657,29,Chicago,No
+CUST-1456,Sarah Johnson,Male,70,2019-01-02,37700.0,679,14,New York,Yes
+CUST-1393,Emily Miller,Female,48,2020-09-04,73600.0,640,7,New York,No
+CUST-1675,Robert Martinez,Male,43,2024-09-28,63000.0,572,83,New York,No
+CUST-1038,James Smith,Male,60,2020-11-17,59700.0,683,35,New York,Yes
+CUST-1728,Jane Martinez,Male,33,2024-12-22,30300.0,570,91,Chicago,Yes
+CUST-1419,David Garcia,Male,35,2021-06-25,43400.0,793,73,San Francisco,No
+CUST-1375,James Martinez,Female,44,2024-01-09,49600.0,700,9,San Francisco,Yes
+CUST-1412,Emma Jones,Male,28,2024-07-11,15000.0,830,2,San Francisco,Yes
+CUST-1935,Michael Davis,Female,46,2021-10-26,81100.0,683,28,San Francisco,No
+CUST-1500,Jane Martinez,Female,36,2022-09-05,91900.0,737,99,San Francisco,Yes
+CUST-1867,David Jones,Male,25,2021-05-01,65650.0,677,13,Chicago,No
+CUST-1616,Robert Brown,Female,26,2024-12-25,84300.0,612,16,New York,Yes
+CUST-1114,Emma Johnson,Male,52,2023-02-11,70600.0,671,18,New York,No
+CUST-1417,Michael Williams,Female,65,2019-09-05,65650.0,666,92,Chicago,Yes
+CUST-1601,John Miller,Female,67,2021-05-04,52900.0,662,72,San Francisco,No
+CUST-1604,Michael Miller,Male,20,2024-10-06,43900.0,775,53,San Francisco,Yes
+CUST-1893,Olivia Jones,Female,30,2021-05-07,85500.0,623,10,Chicago,Yes
+CUST-1241,Olivia Brown,Female,29,2023-11-12,62900.0,678,1,Chicago,Yes
+CUST-1498,Emily Williams,Female,56,2021-07-13,63100.0,632,50,Chicago,Yes
+CUST-1396,Jane Garcia,Female,38,2023-08-01,56800.0,588,94,San Francisco,No
+CUST-1814,Sarah Jones,Male,75,2024-12-12,43000.0,644,26,San Francisco,No
+CUST-1555,Michael Miller,Male,53,2022-06-04,59100.0,667,43,New York,No
+CUST-1042,Emily Rodriguez,Male,51,2022-06-04,75100.0,546,16,New York,No
+CUST-1416,Sarah Garcia,Female,44,2020-08-19,71400.0,629,45,San Francisco,Yes
+CUST-1576,Michael Brown,Female,63,2019-01-27,73500.0,597,99,San Francisco,Yes
+CUST-1267,Michael Garcia,Male,31,2023-10-11,60700.0,683,83,San Francisco,No
+CUST-1874,Robert Martinez,Female,55,2023-05-04,124100.0,670,11,San Francisco,Yes
+CUST-1690,James Brown,Male,26,2022-03-02,112900.0,623,15,San Francisco,No
+CUST-1544,James Johnson,Female,46,2022-03-02,65600.0,683,73,New York,No
+CUST-1674,Jane Garcia,Male,37,2024-11-06,75600.0,595,18,New York,Yes
+CUST-1689,Robert Johnson,Male,26,2021-10-11,83600.0,683,63,San Francisco,Yes
+CUST-1159,Emma Garcia,Male,31,2024-08-28,56100.0,817,54,San Francisco,Yes
+CUST-1008,John Garcia,Male,27,2024-11-23,59200.0,639,8,New York,Yes
+CUST-1257,Emma Miller,Male,37,2024-10-24,112700.0,764,33,Chicago,No
+CUST-1918,David Johnson,Female,46,2021-03-12,67600.0,726,50,Chicago,Yes
+CUST-1335,Jane Williams,Female,46,2021-01-17,65650.0,763,33,New York,Yes
+CUST-1324,Jane Davis,Female,42,2021-06-09,82800.0,660,100,San Francisco,Yes
+CUST-1768,Robert Martinez,Male,46,2021-07-08,53100.0,553,32,New York,Yes
+CUST-1607,Emily Jones,Male,51,2023-08-20,65650.0,588,91,San Francisco,Yes
+CUST-1855,Emily Williams,Male,53,2023-04-13,69300.0,683,17,New York,No
+CUST-1222,Olivia Miller,Male,35,2021-12-19,37700.0,638,31,New York,No
+CUST-1757,David Martinez,Female,26,2020-04-17,63500.0,832,74,San Francisco,No
+CUST-1521,David Johnson,Male,23,2020-03-27,93600.0,814,25,Chicago,No
+CUST-1761,Michael Smith,Male,48,2019-02-03,25300.0,714,94,New York,No
+CUST-1022,Robert Jones,Female,74,2023-07-13,54100.0,688,13,Chicago,No
+CUST-1356,Robert Davis,Female,56,2024-05-03,79400.0,637,35,San Francisco,Yes
+CUST-1733,James Johnson,Female,52,2022-10-04,96400.0,563,49,Chicago,No
+CUST-1203,Olivia Garcia,Female,60,2022-06-15,71100.0,590,75,San Francisco,No
+CUST-1611,Michael Davis,Male,60,2021-04-15,60700.0,569,41,San Francisco,No
+CUST-1340,Sarah Miller,Male,37,2019-07-05,36000.0,707,67,Chicago,Yes
+CUST-1431,Jane Miller,Male,35,2021-11-03,32800.0,706,39,San Francisco,No
+CUST-1846,James Rodriguez,Male,46,2019-04-19,54900.0,584,8,San Francisco,Yes
+CUST-1217,David Williams,Female,46,2023-12-05,66000.0,749,65,Chicago,Yes
+CUST-1122,James Jones,Male,48,2022-04-18,56500.0,654,57,San Francisco,No
+CUST-1093,Olivia Martinez,Male,46,2024-06-21,93800.0,840,45,New York,Yes
+CUST-1864,Robert Martinez,Female,64,2024-06-21,92700.0,779,50,Chicago,No
+CUST-1284,Jane Smith,Male,24,2021-12-26,62900.0,762,85,New York,Yes
+CUST-1696,James Rodriguez,Female,58,2023-06-25,65650.0,526,95,New York,No
+CUST-1434,Emily Davis,Female,21,2024-11-15,83000.0,682,75,New York,No
+CUST-1861,Emma Miller,Male,39,2023-08-12,48700.0,788,31,New York,Yes
+CUST-1153,Robert Brown,Female,41,2020-02-17,69800.0,626,76,New York,Yes
+CUST-1075,Robert Smith,Female,33,2019-03-09,66800.0,652,86,San Francisco,Yes
+CUST-1789,David Davis,Female,31,2022-08-16,70400.0,684,93,Chicago,Yes
+CUST-1580,John Davis,Male,66,2022-08-16,95100.0,720,88,New York,No
+CUST-1446,David Davis,Male,46,2022-08-16,79000.0,717,57,New York,No
+CUST-1703,Sarah Davis,Male,62,2019-02-20,58400.0,566,42,San Francisco,No
+CUST-1188,Michael Johnson,Male,38,2024-08-05,65700.0,495,31,New York,Yes
+CUST-1271,Emma Jones,Male,38,2019-08-24,34200.0,683,38,New York,Yes
+CUST-1236,David Garcia,Female,52,2022-06-09,67800.0,574,71,New York,Yes
+CUST-1487,David Martinez,Male,31,2023-06-02,88900.0,677,50,Chicago,Yes
+CUST-1559,Olivia Davis,Male,54,2023-03-06,47300.0,708,68,San Francisco,No
+CUST-1637,Emily Davis,Female,51,2021-05-11,15000.0,683,87,New York,No
+CUST-1801,James Davis,Male,51,2023-08-11,77700.0,744,85,San Francisco,Yes
+CUST-1750,Olivia Williams,Male,46,2019-12-03,56300.0,613,10,Chicago,No
+CUST-1512,Olivia Garcia,Female,34,2019-08-07,42400.0,675,79,Chicago,No
+CUST-1633,Jane Miller,Female,53,2024-11-27,36000.0,683,6,Chicago,No
+CUST-1849,John Brown,Male,44,2022-10-22,33700.0,613,79,New York,Yes
+CUST-1105,,Male,33,2021-06-11,34400.0,683,10,San Francisco,No
+CUST-1925,John Brown,Female,22,2023-02-12,80300.0,619,67,New York,Yes
+CUST-1790,James Rodriguez,Male,36,2022-07-07,65650.0,602,16,Chicago,Yes
+CUST-1829,Jane Davis,Male,70,2020-03-12,40900.0,680,25,New York,No
+CUST-1473,Jane Johnson,Female,34,2021-05-09,38000.0,723,67,Chicago,Yes
+CUST-1740,David Davis,Male,64,2024-03-24,62400.0,668,21,New York,Yes
+CUST-1603,,Male,58,2020-08-24,75700.0,670,41,San Francisco,No
+CUST-1786,David Smith,Male,24,2023-06-06,43100.0,663,47,Chicago,No
+CUST-1830,Michael Johnson,Male,19,2019-10-21,65650.0,607,14,New York,Yes
+CUST-1119,James Miller,Male,42,2019-04-07,86700.0,661,40,San Francisco,Yes
+CUST-1656,Emma Rodriguez,Female,50,2019-02-16,76200.0,703,44,San Francisco,Yes
+CUST-1048,Sarah Brown,Female,28,2024-07-26,60400.0,715,49,New York,Yes
+CUST-1635,Emma Jones,Male,61,2023-11-10,34000.0,661,90,New York,Yes
+CUST-1369,Olivia Jones,Female,48,2023-06-20,65100.0,739,73,San Francisco,Yes
+CUST-1268,Olivia Johnson,Male,73,2020-09-28,97700.0,684,82,San Francisco,Yes
+CUST-1655,Emily Rodriguez,Male,46,2024-03-18,63800.0,653,60,New York,No
+CUST-1819,James Garcia,Female,75,2019-11-14,65650.0,681,32,New York,Yes
+CUST-1822,Michael Williams,Female,45,2020-01-07,59900.0,792,75,New York,Yes
+CUST-1349,Robert Davis,Male,58,2024-07-21,88200.0,720,32,Chicago,Yes
+CUST-1773,John Rodriguez,Male,39,2022-08-03,49400.0,683,9,New York,No
+CUST-1004,Emily Garcia,Male,67,2022-05-06,33700.0,635,28,San Francisco,Yes
+CUST-1619,Sarah Martinez,Female,57,2019-09-10,82500.0,553,46,San Francisco,Yes
+CUST-1571,Olivia Johnson,Female,61,2023-04-13,34400.0,673,62,New York,Yes
+CUST-1263,Sarah Miller,Male,31,2019-07-02,65700.0,641,71,New York,No
+CUST-1443,Emma Miller,Male,18,2019-06-12,79400.0,583,100,Chicago,Yes
+CUST-1782,David Martinez,Male,65,2021-07-21,107800.0,769,36,New York,No
+CUST-1837,Sarah Johnson,Male,36,2022-07-02,77300.0,580,84,New York,No
+CUST-1919,David Smith,Male,69,2020-10-03,54200.0,756,94,San Francisco,Yes
+CUST-1691,John Jones,Female,58,2023-01-02,67200.0,682,69,New York,No
+CUST-1341,Emily Smith,Female,42,2020-03-25,103200.0,684,73,San Francisco,No
+CUST-1940,Emily Martinez,Female,70,2022-09-16,60400.0,758,54,New York,Yes
+CUST-1313,,Male,47,2024-08-15,61100.0,801,49,New York,Yes
+CUST-1574,Emily Johnson,Male,27,2023-11-05,62800.0,807,65,New York,Yes
+CUST-1697,Robert Rodriguez,Other,33,2023-05-22,66400.0,806,21,New York,Yes
+CUST-1664,David Rodriguez,Male,50,2024-04-26,15900.0,738,72,Chicago,No
+CUST-1933,Emma Brown,Male,65,2019-05-19,70000.0,769,2,San Francisco,Yes
+CUST-1726,David Smith,Other,31,2024-09-22,70300.0,669,98,San Francisco,Yes
+CUST-1799,David Johnson,Female,54,2024-11-13,42400.0,704,77,San Francisco,No
+CUST-1833,Michael Martinez,Female,57,2021-03-02,79100.0,791,33,New York,No
+CUST-1353,Sarah Davis,Female,39,2024-09-23,57600.0,713,87,San Francisco,No
+CUST-1245,David Rodriguez,Female,35,2023-06-18,58000.0,604,91,Chicago,No
+CUST-1470,Michael Martinez,Male,24,2019-01-03,77000.0,605,35,San Francisco,Yes
+CUST-1053,Sarah Martinez,Female,46,2020-11-22,65400.0,702,29,New York,Yes
+CUST-1653,James Rodriguez,Male,46,2021-12-22,15000.0,647,32,New York,Yes
+CUST-1399,Olivia Miller,Male,64,2021-12-10,106500.0,820,70,New York,No
+CUST-1320,Sarah Garcia,Female,55,2022-03-08,97500.0,645,24,New York,No
+CUST-1684,Emily Rodriguez,Female,26,2021-01-13,65650.0,705,53,Chicago,Yes
+CUST-1824,Sarah Williams,Female,70,2024-09-23,65650.0,716,59,New York,Yes
+CUST-1902,John Jones,Male,69,2020-01-04,67600.0,685,50,New York,No
+CUST-1505,Olivia Brown,Male,62,2023-07-20,39000.0,777,68,San Francisco,Yes
+CUST-1827,Emma Brown,Female,46,2023-09-12,94200.0,712,66,Chicago,Yes
+CUST-1407,David Garcia,Male,72,2023-05-27,83300.0,761,100,New York,No
+CUST-1817,Michael Smith,Male,53,2019-06-19,68400.0,813,100,Chicago,Yes
+CUST-1866,John Davis,Male,31,2021-10-26,66100.0,796,57,Chicago,No
+CUST-1537,David Davis,Male,36,2023-06-26,29800.0,664,57,New York,No
+CUST-1758,Robert Miller,Female,27,2023-10-20,85700.0,688,34,Chicago,Yes
+CUST-1161,John Johnson,Female,45,2023-10-20,80900.0,683,35,San Francisco,No
+CUST-1810,Olivia Williams,Female,18,2021-10-05,58900.0,744,9,San Francisco,Yes
+CUST-1784,Emily Martinez,Male,49,2021-04-15,53200.0,673,31,New York,Yes
+CUST-1489,Robert Brown,Female,29,2019-06-03,124100.0,621,98,San Francisco,No
+CUST-1154,Robert Davis,Male,74,2023-11-15,77800.0,683,67,Chicago,No
+CUST-1638,James Davis,Male,46,2023-07-19,65650.0,669,97,San Francisco,No
+CUST-1662,Emma Miller,Male,26,2020-06-24,90300.0,646,14,San Francisco,Yes
+CUST-1853,Olivia Garcia,Male,58,2023-02-28,37500.0,729,50,San Francisco,Yes
+CUST-1287,Emily Smith,Male,46,2023-02-12,64300.0,571,23,San Francisco,Yes
+CUST-1625,Emma Rodriguez,Male,39,2021-02-09,72500.0,552,43,New York,No
+CUST-1219,Michael Martinez,Female,46,2023-03-02,65650.0,709,50,San Francisco,Yes
+CUST-1685,Jane Johnson,Male,46,2019-05-05,67100.0,591,50,San Francisco,No
+CUST-1946,John Martinez,Male,33,2021-06-13,43900.0,808,37,New York,Yes
+CUST-1569,Jane Garcia,Female,48,2020-07-25,89600.0,686,87,New York,Yes
+CUST-1734,James Rodriguez,Male,60,2024-10-26,73200.0,528,57,New York,No
+CUST-1322,,Female,24,2019-06-07,15000.0,706,81,San Francisco,No
+CUST-1255,Sarah Jones,Male,23,2020-07-17,62600.0,669,27,San Francisco,No
+CUST-1927,Sarah Rodriguez,Female,50,2023-11-23,107800.0,683,1,San Francisco,No
+CUST-1878,Emma Miller,Male,54,2023-08-02,71200.0,705,25,New York,Yes
+CUST-1014,John Brown,Female,48,2019-09-07,78300.0,759,50,New York,Yes
+CUST-1606,Sarah Davis,Male,66,2024-07-13,69000.0,735,66,San Francisco,No
+CUST-1180,Robert Smith,Female,46,2024-09-16,86300.0,728,38,San Francisco,Yes
+CUST-1301,Michael Davis,Male,39,2022-03-25,124100.0,785,38,New York,No
+CUST-1496,Emma Davis,Female,41,2024-08-27,59300.0,717,48,New York,Yes
+CUST-1348,Emily Williams,Male,60,2020-04-23,39200.0,767,65,San Francisco,Yes
+CUST-1744,Emily Miller,Female,33,2024-08-13,53700.0,683,93,San Francisco,No
+CUST-1517,Sarah Davis,Female,46,2020-03-03,106600.0,757,85,San Francisco,Yes
+CUST-1045,Sarah Miller,Male,44,2020-03-17,100700.0,681,3,Chicago,Yes
+CUST-1476,John Jones,Female,63,2023-09-08,60800.0,649,40,Chicago,Yes
+CUST-1137,James Garcia,Male,37,2022-01-04,22800.0,747,24,New York,Yes
+CUST-1511,Sarah Rodriguez,Female,46,2022-02-13,45400.0,694,15,New York,Yes
+CUST-1191,Emma Johnson,Male,39,2022-02-13,30900.0,590,7,New York,No
+CUST-1546,Robert Davis,Male,46,2022-03-10,115200.0,683,42,San Francisco,No
+CUST-1515,,Female,69,2020-04-03,77800.0,683,5,Chicago,No
+CUST-1658,Sarah Garcia,Female,39,2021-06-24,65900.0,687,29,San Francisco,No
+CUST-1098,Emily Jones,Male,61,2020-08-19,82000.0,614,14,San Francisco,Yes
+CUST-1828,David Johnson,Male,38,2019-09-06,65600.0,588,36,Chicago,Yes
+CUST-1283,Robert Miller,Male,37,2022-05-24,57300.0,634,36,San Francisco,No
+CUST-1797,Michael Martinez,Male,46,2024-09-22,69800.0,637,27,San Francisco,Yes
+CUST-1200,Michael Williams,Male,61,2020-06-04,46300.0,683,85,New York,Yes
+CUST-1225,Jane Davis,Male,35,2024-03-05,67300.0,795,9,New York,Yes
+CUST-1282,Robert Martinez,Female,21,2019-11-19,84400.0,683,25,Chicago,Yes
+CUST-1437,Jane Rodriguez,Male,46,2023-09-17,104000.0,806,12,Chicago,Yes
+CUST-1364,Robert Miller,Female,58,2019-10-01,49700.0,467,41,Chicago,Yes
+CUST-1229,Emily Garcia,Male,46,2019-04-01,70700.0,683,40,New York,Yes
+CUST-1669,John Rodriguez,Male,46,2022-08-17,55600.0,683,89,Chicago,Yes
+CUST-1749,James Brown,Male,44,2022-01-09,66900.0,639,47,San Francisco,Yes
+CUST-1374,Robert Johnson,Male,53,2023-03-15,60200.0,683,24,San Francisco,Yes
+CUST-1882,David Williams,Male,66,2020-10-25,38900.0,593,74,Chicago,No
+CUST-1687,Jane Smith,Male,32,2020-11-08,71300.0,565,35,New York,No
+CUST-1639,David Martinez,Male,28,2019-12-26,59500.0,613,78,Chicago,Yes
+CUST-1128,Olivia Martinez,Male,55,2022-07-13,61700.0,760,74,New York,No
+CUST-1197,Sarah Brown,Male,19,2021-04-07,88500.0,697,51,San Francisco,No
+CUST-1205,Emily Johnson,Male,52,2021-04-07,72400.0,654,70,Chicago,Yes
+CUST-1895,Emma Johnson,Male,28,2021-04-07,80600.0,840,57,San Francisco,Yes
+CUST-1503,Robert Rodriguez,Female,30,2024-04-17,40100.0,718,6,New York,Yes
+CUST-1915,Sarah Jones,Female,50,2022-08-23,83300.0,681,11,Chicago,No
+CUST-1800,Robert Brown,Female,22,2023-04-12,30000.0,597,2,San Francisco,Yes
+CUST-1579,Michael Johnson,Female,56,2022-11-11,96800.0,792,50,San Francisco,No
+CUST-1680,Michael Martinez,Male,27,2021-05-28,62400.0,693,98,San Francisco,No
+CUST-1821,Emily Jones,Female,24,2024-08-04,56700.0,705,79,New York,Yes
+CUST-1877,Emma Johnson,Male,47,2024-12-24,83400.0,725,35,New York,Yes
+CUST-1913,James Martinez,Male,34,2024-12-24,69900.0,711,34,Chicago,Yes
+CUST-1509,John Brown,Male,19,2024-11-24,36900.0,683,23,San Francisco,Yes
+CUST-1586,Robert Brown,Female,37,2019-07-28,56300.0,623,70,San Francisco,No
+CUST-1151,Jane Garcia,Female,46,2022-12-19,47900.0,586,51,New York,No
+CUST-1403,Robert Johnson,Female,46,2020-05-16,72100.0,693,75,Chicago,No
+CUST-1064,Olivia Jones,Other,19,2023-05-20,47500.0,673,38,New York,No
+CUST-1452,Sarah Johnson,Male,65,2022-09-06,75100.0,775,67,New York,Yes
+CUST-1253,John Williams,Male,40,2022-09-06,75200.0,744,50,Chicago,No
+CUST-1896,Michael Davis,Female,72,2024-12-16,94500.0,542,50,San Francisco,Yes
+CUST-1880,,Male,30,2019-03-05,49200.0,627,38,San Francisco,Yes
+CUST-1623,Sarah Brown,Male,38,2023-12-21,65650.0,683,27,Chicago,No
+CUST-1345,Sarah Johnson,Male,45,2019-10-05,55700.0,721,23,San Francisco,Yes
+CUST-1262,Jane Brown,Female,65,2020-11-25,62100.0,683,45,Chicago,Yes
+CUST-1472,Olivia Rodriguez,Male,38,2022-02-28,65650.0,696,49,San Francisco,No
+CUST-1550,Sarah Martinez,Female,43,2022-02-14,56400.0,591,48,New York,No
+CUST-1928,Emma Smith,Female,30,2021-06-01,36700.0,698,64,Chicago,No
+CUST-1488,Olivia Smith,Male,46,2022-10-20,58700.0,742,61,Chicago,Yes
+CUST-1172,Emily Miller,Male,46,2021-06-08,43000.0,708,50,Chicago,No
+CUST-1402,Emily Martinez,Female,72,2023-03-14,101700.0,661,20,New York,No
+CUST-1659,James Miller,Male,56,2023-07-21,92600.0,684,71,Chicago,Yes
+CUST-1463,David Brown,Female,36,2024-05-21,65650.0,682,50,New York,Yes
+CUST-1608,Emma Jones,Male,31,2024-07-26,46600.0,673,85,San Francisco,Yes
+CUST-1751,James Garcia,Female,69,2024-07-26,44700.0,656,56,New York,Yes
+CUST-1883,Olivia Williams,Male,32,2020-06-26,41900.0,683,38,Chicago,No
+CUST-1279,James Williams,Female,51,2024-01-27,52300.0,631,50,San Francisco,No
+CUST-1293,Jane Miller,Male,27,2023-07-07,65650.0,800,50,New York,No
+CUST-1400,Jane Jones,Male,23,2021-05-08,76200.0,683,84,Chicago,Yes
+CUST-1202,Robert Johnson,Male,53,2023-08-15,33300.0,664,35,Chicago,Yes
+CUST-1835,John Brown,Male,65,2023-09-23,56900.0,577,95,San Francisco,No
+CUST-1384,Sarah Rodriguez,Male,72,2024-07-16,37100.0,772,50,Chicago,Yes
+CUST-1854,Sarah Davis,Female,72,2020-04-19,69900.0,622,59,San Francisco,Yes
+CUST-1641,John Garcia,Female,46,2024-02-13,65650.0,622,45,Chicago,No
+CUST-1001,Robert Garcia,Male,57,2020-03-23,124100.0,632,7,Chicago,Yes
+CUST-1698,James Johnson,Female,19,2020-03-23,86600.0,764,75,Chicago,Yes
+CUST-1441,Olivia Rodriguez,Male,36,2019-06-14,77100.0,599,61,San Francisco,Yes
+CUST-1663,David Williams,Female,49,2019-01-18,55600.0,672,40,New York,No
+CUST-1187,David Williams,Male,64,2022-10-11,29500.0,683,66,Chicago,Yes
+CUST-1317,Emma Brown,Male,53,2022-04-27,79800.0,699,90,Chicago,Yes
+CUST-1648,James Martinez,Male,19,2019-07-24,65650.0,787,30,New York,Yes
+CUST-1709,Michael Johnson,Female,18,2023-04-05,100200.0,744,42,Chicago,Yes
+CUST-1627,Sarah Garcia,Male,46,2024-08-01,55000.0,593,29,New York,Yes
+CUST-1632,David Miller,Female,28,2019-07-25,62800.0,675,91,New York,Yes
+CUST-1795,Michael Smith,Male,53,2019-10-06,15000.0,683,8,Chicago,Yes
+CUST-1645,Olivia Jones,Male,48,2022-03-15,78900.0,539,37,New York,No
+CUST-1556,James Garcia,Female,56,2023-04-06,97500.0,768,97,Chicago,No
+CUST-1681,Jane Brown,Male,51,2020-02-08,35900.0,672,50,San Francisco,Yes
+CUST-1577,James Rodriguez,Female,45,2021-12-18,78000.0,717,7,San Francisco,No
+CUST-1524,James Johnson,Male,36,2021-12-18,84900.0,826,13,New York,Yes
+CUST-1540,Michael Miller,Male,22,2024-07-12,68800.0,616,88,San Francisco,Yes
+CUST-1748,David Miller,Male,23,2021-02-11,104200.0,746,20,Chicago,No
+CUST-1201,Robert Miller,Female,51,2020-09-21,34800.0,699,6,San Francisco,No
+CUST-1484,Sarah Williams,Male,19,2020-12-27,68400.0,683,50,New York,Yes
+CUST-1563,Olivia Williams,Male,28,2024-11-05,86500.0,629,55,San Francisco,Yes
+CUST-1742,Emily Miller,Female,20,2024-11-05,73400.0,632,42,New York,Yes
+CUST-1863,Robert Garcia,Male,24,2021-12-16,86200.0,762,44,Chicago,Yes
+CUST-1891,James Smith,Female,63,2020-03-22,35500.0,786,59,San Francisco,Yes
+CUST-1392,Emily Martinez,Female,44,2023-03-03,85000.0,652,86,San Francisco,No
+CUST-1794,Michael Garcia,Male,46,2022-03-01,50200.0,667,74,Chicago,Yes
+CUST-1870,Jane Garcia,Female,66,2020-06-24,36700.0,649,52,New York,Yes
+CUST-1397,Jane Miller,Male,46,2023-06-02,54400.0,608,63,New York,No
+CUST-1766,John Brown,Female,48,2020-07-24,93100.0,727,81,New York,Yes
+CUST-1642,Sarah Martinez,Male,69,2023-12-04,65650.0,665,29,New York,Yes
+CUST-1612,Emma Garcia,Male,69,2022-12-18,30600.0,695,34,San Francisco,No
+CUST-1725,John Davis,Male,24,2019-03-11,65650.0,594,94,San Francisco,Yes
+CUST-1683,James Martinez,Male,45,2019-07-26,55400.0,712,3,New York,Yes
+CUST-1804,Jane Brown,Male,73,2019-06-19,20600.0,741,72,Chicago,No
+CUST-1406,James Rodriguez,Male,72,2019-11-27,73800.0,540,80,San Francisco,No
+CUST-1502,Robert Miller,Female,60,2022-12-15,106400.0,716,90,San Francisco,Yes
+CUST-1121,Sarah Jones,Female,54,2021-01-28,83500.0,604,71,San Francisco,No
+CUST-1929,,Male,56,2019-09-10,78300.0,713,58,New York,Yes
+CUST-1779,Emma Rodriguez,Female,55,2023-09-09,118900.0,683,68,New York,Yes
+CUST-1378,Emily Brown,Male,31,2019-07-01,52200.0,715,30,New York,Yes
+CUST-1288,David Davis,Female,66,2023-10-02,40900.0,673,61,Chicago,No
+CUST-1418,Robert Miller,Female,21,2019-09-06,52700.0,710,71,New York,Yes
+CUST-1391,Sarah Jones,Male,72,2022-02-11,65650.0,644,96,San Francisco,No
+CUST-1592,Jane Garcia,Female,46,2023-05-26,78600.0,765,59,San Francisco,Yes
+CUST-1647,Jane Johnson,Female,39,2023-01-06,50400.0,709,22,New York,No
+CUST-1520,Emma Smith,Female,33,2020-02-17,70800.0,736,40,New York,Yes
+CUST-1492,Emily Miller,Female,34,2023-10-17,97600.0,572,7,New York,No
+CUST-1379,David Martinez,Male,73,2020-12-05,55600.0,656,50,New York,No
+CUST-1791,Emily Garcia,Male,25,2020-12-18,111400.0,673,94,New York,Yes
+CUST-1337,Jane Garcia,Male,23,2021-09-13,65650.0,717,1,Chicago,No
+CUST-1719,Sarah Garcia,Male,65,2023-07-22,57400.0,614,7,Chicago,No
+CUST-1455,Jane Smith,Male,71,2023-07-22,55500.0,791,97,Chicago,No
+CUST-1815,Olivia Rodriguez,Female,46,2024-08-12,32500.0,566,9,New York,No
+CUST-1269,Olivia Rodriguez,Male,46,2021-02-14,51000.0,694,26,New York,Yes
+CUST-1729,Robert Smith,Female,28,2023-04-26,69100.0,639,29,New York,Yes
+CUST-1401,Emily Davis,Male,46,2021-01-28,65650.0,674,56,San Francisco,No
+CUST-1702,Jane Johnson,Male,46,2024-06-25,66000.0,815,50,Chicago,Yes
+CUST-1179,Sarah Brown,Male,64,2022-11-25,79900.0,683,40,San Francisco,No
+CUST-1565,,Male,27,2020-09-15,71800.0,720,16,San Francisco,No
+CUST-1775,Robert Johnson,Male,46,2022-03-21,38400.0,704,50,Chicago,Yes
+CUST-1508,James Miller,Male,61,2021-05-09,15000.0,669,91,San Francisco,Yes
+CUST-1897,Michael Brown,Female,62,2024-05-08,86300.0,726,92,Chicago,Yes
+CUST-1564,Sarah Jones,Other,71,2020-01-15,106900.0,703,58,San Francisco,No
+CUST-1776,James Davis,Female,54,2020-01-15,54300.0,689,78,New York,Yes
+CUST-1315,Olivia Brown,Female,46,2022-08-20,32600.0,616,34,New York,No
+CUST-1600,Sarah Smith,Male,66,2020-10-03,64100.0,759,55,New York,No
+CUST-1387,Sarah Williams,Female,38,2020-10-03,124100.0,635,39,San Francisco,Yes
+CUST-1840,James Rodriguez,Male,38,2019-07-27,65300.0,747,28,San Francisco,Yes
+CUST-1020,James Garcia,Male,58,2023-10-23,66200.0,577,94,Chicago,Yes
+CUST-1646,Sarah Johnson,Female,22,2019-09-08,86300.0,534,19,San Francisco,Yes
+CUST-1831,Emma Davis,Male,31,2022-11-10,45500.0,666,86,Chicago,Yes
+CUST-1562,David Martinez,Female,59,2023-02-15,36100.0,787,50,Chicago,Yes
+CUST-1686,Olivia Jones,Female,59,2020-09-04,45500.0,631,86,Chicago,No
+CUST-1699,Robert Martinez,Male,64,2020-02-18,59400.0,633,38,New York,No
+CUST-1510,Emma Rodriguez,Male,62,2024-07-09,42000.0,648,93,New York,No
+CUST-1132,Emma Johnson,Female,54,2024-07-01,80000.0,748,38,New York,No
+CUST-1474,Michael Miller,Female,22,2020-09-22,65650.0,840,25,San Francisco,Yes
+CUST-1856,Olivia Jones,Female,40,2023-06-17,35500.0,840,67,San Francisco,No
+CUST-1747,Michael Smith,Male,18,2023-06-17,90800.0,625,67,San Francisco,No
+CUST-1252,Olivia Rodriguez,Male,46,2024-05-15,76200.0,797,83,Chicago,Yes
+CUST-1459,Michael Martinez,Male,75,2019-07-26,78800.0,738,50,Chicago,Yes
+CUST-1276,David Garcia,Female,46,2019-07-04,53400.0,683,18,Chicago,Yes
+CUST-1385,David Rodriguez,Male,32,2024-05-14,79600.0,775,16,New York,Yes
+CUST-1343,Michael Miller,Male,44,2024-01-27,58000.0,683,47,New York,No
+CUST-1769,James Rodriguez,Female,30,2023-11-25,65650.0,688,40,San Francisco,No
+CUST-1871,Emma Williams,Female,38,2023-09-14,65650.0,706,13,Chicago,No
+CUST-1330,Emma Garcia,Female,47,2024-12-11,86300.0,708,92,San Francisco,Yes
+CUST-1466,David Martinez,Female,23,2023-02-13,86500.0,671,17,New York,No
+CUST-1860,James Davis,Male,56,2020-11-19,33400.0,633,50,San Francisco,Yes

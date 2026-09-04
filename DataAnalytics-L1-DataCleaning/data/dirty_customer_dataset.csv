@@ -1,0 +1,1246 @@
+Customer_ID,Full_Name,Gender,Age,Join_Date,Annual_Income,Credit_Score,Spending_Score,City,Loyalty_Member
+CUST-1735,  emma jones  , Man ,62,"October 05, 2019","$69,500.00",708.0,5.0,New York,no
+CUST-1442,Michael Smith,F,31,06/07/2022,"$80,400",613.0,17.0,new york,Yes
+CUST-1167,James Martinez,Female,29 yrs,12-24-2023,106900.0,659.0,89.0,Chicago,yes
+CUST-1333,OLIVIA MARTINEZ,Female,38,"January 07, 2022",,692.0,10.0, NY ,true
+CUST-1327,Olivia Miller,Female,61,09/02/2020,"$39,700.00",580.0,43.0,San Francisco,NO
+CUST-1012,David Miller,Female,70,04-05-2020,"$91,700",734.0,26.0,New York,No
+CUST-1076,Jane Jones,Male,59,,"$80,900.00",726.0,70.0,New York,yes
+CUST-1081,John Johnson,male,33,04-20-2021,"$94,700.00",722.0,58.0,Chicago,no
+CUST-1043,  sarah garcia  ,Female,40,19/12/2020,49600.0,760.0,,San Francisco,Y
+CUST-1945,Robert Davis,m,,2024-08-26,"$73,000",647.0,91.0,San Francisco,No
+,Emily Brown,Female,43,2024-08-09,,668.0,,Chicago,Yes
+CUST-1477,Sarah Johnson,Male,65,2023-12-12,"$96,400",647.0,20.0,San Francisco,No
+CUST-1085,James Martinez,Male,45,"October 19, 2023",,611.0,83.0,San Francisco,Yes
+CUST-1019,JAMES BROWN,Female,,05-06-2024,,649.0,12.0,new york,No
+CUST-1493,James Williams,M,18,21/05/2022,"$53,600",820.0,55.0,San Francisco,yes
+ CUST-1210 ,OLIVIA SMITH,M,58,03-20-2019,33200.0,617.0,29.0,Chicago,YES
+CUST-1096,  jane davis  ,Woman,64,11/10/2023,"$37,000.00",652.0,43.0,New York,Yes
+CUST-1297,Robert Rodriguez, Man ,56,2023-01-28,"$74,900.00",782.0,5.0,San Francisco,YES
+CUST-1247,  michael davis  ,male,32,10/09/2022,"$61,400",688.0,22.0,new york,
+CUST-1002,Michael Johnson,Male,35,2019-12-22,66700.0,716.0,87.0,chicago,YES
+CUST-1198,,M,,08-04-2021,"$62,400",681.0,64.0,San Francisco,No
+CUST-1102,James Williams,female,39,11/03/2020,"$35,300",625.0,94.0,New York,Yes
+CUST-1231,John Jones,Male,74,invalid_date_str,70800.0,730.0,180.0,Chicago,yes
+CUST-1462,Emily Jones,male,71,19/03/2020,"$60,200.00",,45.0,New York,yes
+CUST-1006,John Brown,Female,18,2019-03-21,"$44,900.00",657.0,66.0,Chicago,true
+CUST-1615,Emma Miller,male,48,2020-07-03,"$33,100",782.0,95.0,San Francisco,no
+CUST-1218,Emma Williams,M,185,19/11/2021,"$44,000.00",730.0,2.0,New York,Yes
+CUST-1826,JOHN WILLIAMS,Other,35,2022-11-20,"$98,000",698.0,39.0,,Yes
+CUST-1462,Emily Jones,male,71,19/03/2020,"$60,200.00",,45.0,New York,yes
+CUST-1365,Emily Garcia,Other,25,17/08/2020,"$53,100.00",838.0,96.0,New York,no
+CUST-1465,Michael Garcia,Female,-3,2024-06-02,"$93,000.00",689.0,44.0,San Francisco,No
+CUST-1807,Robert Garcia,female,31,13/02/2020,55400.0,611.0,41.0,New York,Yes
+CUST-1233,John Williams,f,56,10-09-2019,"$26,300.00",791.0,,San Francisco,no
+CUST-1168,Michael Garcia,M,41,23/07/2022,"$88,000.00",620.0,85.0,San Francisco,No
+CUST-1643,Robert Davis,f,28,02-24-2019,52500.0,783.0,96.0,,
+CUST-1294,Michael Martinez,Male,62,2024-10-19,57100.0,780.0,,New York,yes
+CUST-1422,John Miller,male,75,10-12-2019,"$48,000.00",635.0,94.0,Chicago,No
+CUST-1526,EMILY SMITH,male,55,,"$68,200",693.0,70.0,New York,No
+CUST-1581,Sarah Garcia,Male,51 yrs,14/01/2019,51800.0,689.0,41.0,Chicago,false
+ CUST-1290 ,Emma Johnson,M,29,2022-01-10,"$33,300",690.0,40.0,San Francisco,Yes
+ CUST-1420 ,  sarah rodriguez  ,Female,25,,"$85,300",514.0,23.0,Chicago,yes
+ CUST-1270 ,Robert Rodriguez,Male,56,2019-03-14,,,91.0,San Francisco,N
+CUST-1376,Emily Johnson,Female,43,2023-07-18,"$2,500,000.00",701.0,74.0,NYC,Yes
+CUST-1519,Emily Davis,Female,41,2019-03-15,"$76,300.00",699.0,10.0,New York,no
+CUST-1073,Michael Brown,male,73,01-06-2022,"$56,900",754.0,145.0,SF,Yes
+CUST-1344,Robert Brown,Male,30,04-05-2019,"$65,400",777.0,67.0,chicago,yes
+CUST-1178,Robert Martinez,female,56,2023-04-02,"$58,600.00",999.0,74.0,new york,No
+CUST-1429,JOHN RODRIGUEZ,Female,36 yrs,2019-12-25,,792.0,63.0, NY ,true
+CUST-1907,Robert Williams,Male,39,invalid_date_str,"$87,800",648.0,16.0,Chicago,NO
+CUST-1425,John Davis,Woman,35,18/11/2023,"$69,200.00",647.0,,san francisco,NO
+CUST-1599,Sarah Jones,F,56,2019-11-09,"$69,100",678.0,41.0,,Yes
+CUST-1158,Olivia Garcia,Female,47,2020-12-18,"$57,700.00",744.0,80.0,Chi-Town,Yes
+CUST-1029,James Smith,Female,73,08-09-2019,"$50,700.00",,39.0,San Francisco,Yes
+CUST-1049,John Davis,Male,54,2022-05-12,"$69,500.00",583.0,80.0,San Francisco,Y
+CUST-1567,Olivia Garcia,m,27,11-05-2020,"$52,400.00",557.0,41.0,Chicago,Yes
+CUST-1298,David Miller,female,71,05-27-2019,"$62,600",744.0,62.0,Chicago,N
+CUST-1938,Emily Smith,M,33 yrs,01-12-2022,"$58,800.00",999.0,98.0,Chi-Town,false
+CUST-1296,Michael Rodriguez,M,48,2021-09-27,"$33,300",576.0,31.0,san francisco,No
+,John Martinez,Male,74,02-23-2023,"$79,700.00",740.0,3.0,Chicago,Y
+CUST-1361,Emily Miller,Male,210,03-21-2024,45800.0,721.0,14.0,san francisco,Yes
+CUST-1746,David Johnson,female,63,09-25-2021,58800.0,612.0,13.0,Chicago,N
+CUST-1078,John Davis,Other,27,19/08/2020,"$77,900.00",671.0,3.0,Chicago,yes
+CUST-1063,John Smith,Female,67,2019-11-10,"$73,600.00",1050.0,83.0,Chicago,YES
+CUST-1174,Emma Williams,m,60,13/03/2023,56800.0,664.0,41.0,New York,Yes
+CUST-1169,Emily Martinez,F,19,15/07/2024,"$44,500.00",840.0,76.0,San Francisco,Y
+CUST-1394,Emma Brown,Female,73,13/05/2023,30400.0,609.0,145.0,New York,yes
+CUST-1514,Emily Rodriguez, Man ,47,2019-07-19,"$56,400.00",555.0,68.0,Chicago,true
+CUST-1063,John Rodriguez,Male,60,2024-03-21,-5000,627.0,,New York,Yes
+CUST-1765,Sarah Davis,male,56 yrs,,"$87,300.00",729.0,95.0,SF,No
+CUST-1076,Robert Williams,Female,68,06-07-2021,65900.0,840.0,53.0,new york,NO
+CUST-1323,Michael Miller,Female,33,"March 18, 2020","$36,500",680.0,93.0,new york,yes
+CUST-1752,John Rodriguez,male,64,17/03/2021,,1050.0,39.0,San Francisco,Yes
+,EMMA JONES,F,71,2022-07-08,85900.0,628.0,7.0,San Francisco,No
+CUST-1304,David Garcia,male,60,2022-08-23,111500.0,732.0,72.0,Chicago,Yes
+ CUST-1560 ,JAMES RODRIGUEZ,male,47,06/08/2021,"$38,900.00",835.0,71.0,Chicago,Yes
+CUST-1426,Emma Williams,Male,,invalid_date_str,"$45,700",652.0,89.0, NY ,yes
+CUST-1035,Jane Smith,Male,57,05-13-2022,"$73,000.00",150.0,78.0, NY ,N
+CUST-1944,Emma Martinez,Male,55,2020-03-27,"$53,400.00",692.0,8.0,San Francisco,Y
+CUST-1712,Olivia Jones,m,65,26/04/2020,"$38,600",653.0,68.0, NY ,No
+CUST-1894,James Williams,Female,64,invalid_date_str,96100.0,,,NYC,Yes
+CUST-1077,David Williams,Female,49,02-25-2021,"$88,900",690.0,8.0,New York,Y
+CUST-1183,Jane Rodriguez,Male,50,02-05-2022,"$66,700",840.0,16.0,San Francisco,No
+CUST-1044,Michael Jones,Female,59,12-23-2019,72000.0,606.0,46.0,San Francisco,no
+CUST-1737,  robert davis  ,female,66,2024-03-27,"$67,600",670.0,,Chicago,No
+CUST-1809,Robert Johnson,Female,65,"February 21, 2021","$53,100.00",762.0,65.0,San Francisco,Yes
+CUST-1506,James Garcia,M,66,,"$83,700.00",696.0,30.0,new york,No
+CUST-1031,David Garcia,female,72,07-01-2023,"$50,400",,94.0,San Francisco,yes
+CUST-1529,David Smith,f,28,"February 21, 2021",,677.0,53.0,New York,NO
+CUST-1594,John Garcia,Female,40,"January 28, 2020",101900.0,598.0,85.0,san francisco,N
+CUST-1622,Emma Jones,female,41 yrs,10/11/2022,"$71,900.00",657.0,23.0,New York,no
+CUST-1123,Robert Jones,Male,29,2021-09-16,"$62,400.00",640.0,99.0,New York,false
+CUST-1086,James Brown,Other,,2021-12-15,"$30,800.00",735.0,46.0,Chicago,yes
+CUST-1469,Emily Martinez,male,28 yrs,07-14-2019,,,57.0,new york,No
+ CUST-1770 ,Olivia Martinez,Male,,14/02/2021,"$105,100",553.0,29.0,NYC,No
+CUST-1558,James Miller,F,75,17/01/2021,,768.0,70.0,San Francisco,No
+CUST-1101,Jane Williams,Male,18,01-16-2020,"$74,500",791.0,25.0,San Francisco,No
+ CUST-1670 ,Jane Jones,M,41,2024-01-26,"$55,000",671.0,92.0,San Francisco,No
+CUST-1342,Robert Smith,Male,26,14/06/2023,"$70,700",709.0,15.0,San Francisco,Yes
+CUST-1089,James Johnson, Man ,26 yrs,2020-02-07,62200.0,688.0,19.0,chicago,YES
+CUST-1551,Jane Williams,female,20,2024-05-20,N/A,708.0,9.0,San Francisco,Yes
+CUST-1308,John Miller,Female,74,2022-07-11,71100.0,613.0,64.0,New York,N
+CUST-1055,OLIVIA GARCIA,F,25,2021-10-09,"$48,900.00",1050.0,55.0,NYC,Yes
+CUST-1917,Emily Davis,Female,-12,09/08/2024,"$102,300.00",736.0,99.0,Chicago,Yes
+CUST-1181,Emma Brown,F,24,01-10-2022,N/A,563.0,27.0,,Yes
+CUST-1825,Sarah Smith,,210,04/09/2020,"$71,800",610.0,96.0,New York,Yes
+CUST-1113,James Johnson,Male,40,2023-10-27,"$50,300.00",617.0,, NY ,Yes
+CUST-1578,Emily Smith,Female,32,2019-07-27,"$59,900.00",754.0,29.0,San Francisco,No
+CUST-1382,Robert Garcia,Other,62,09-16-2020,"$15,000.00",720.0,24.0,Chicago,N
+CUST-1216,Emma Davis,f,37,2021-04-04,"$58,500",587.0,94.0,New York,No
+CUST-1164,John Williams,f,64,2019-10-10,"$65,300",767.0,60.0,San Francisco,yes
+CUST-1372,John Garcia,Male,69,10-13-2021,"$69,300",619.0,59.0,Chicago,
+CUST-1665,Michael Smith,male,73,"November 24, 2023",,717.0,66.0,New York,no
+CUST-1778,,male,54,2022-12-26,"$67,700",,90.0,Chicago,No
+CUST-1024,DAVID SMITH,Male,50,01/01/2021,"$71,500",614.0,84.0,NYC,N
+CUST-1513,Michael Garcia,f,33,"October 01, 2021","$72,200",646.0,7.0,NYC,No
+CUST-1792,SARAH MARTINEZ,Female,59,2020-10-24,64500.0,,3.0,San Francisco,Yes
+CUST-1763,Michael Miller,female,63,07-12-2019,N/A,616.0,56.0,Chi-Town,No
+CUST-1051,ROBERT BROWN, Man ,23,04/12/2023,80800.0,753.0,11.0,Chicago,yes
+ CUST-1070 ,Robert Johnson,Female,0,2024-02-19,"$79,000",713.0,31.0,chicago,Yes
+CUST-1285,Jane Brown,Male,34,09-25-2022,"$51,600.00",625.0,68.0,NYC,No
+CUST-1023,Michael Rodriguez,Female,24,"May 09, 2020","$51,400.00",623.0,3.0,Chicago,Y
+CUST-1528,Emma Martinez,Female,51,08-11-2023,"$47,600",1050.0,83.0, NY ,No
+CUST-1192,David Garcia,Female,73,2021-12-07,"$65,500",759.0,43.0,NYC,Yes
+CUST-1593,Emma Rodriguez,Female,42,04-04-2022,"$46,000.00",709.0,51.0,san francisco,No
+CUST-1107,  robert smith  ,F,59,2020-05-18,"$62,800.00",734.0,44.0,San Francisco,N
+CUST-1058,David Rodriguez,female,36,19/07/2020,"$46,900.00",679.0,80.0,New York,N
+CUST-1398,Robert Jones,M,33,04/03/2022,39500.0,651.0,98.0,New York,Yes
+ CUST-1150 ,  john martinez  ,male,25,05/06/2021,66400.0,840.0,47.0,SF,No
+CUST-1138,James Martinez,M,,28/07/2022,"$58,100.00",687.0,85.0,SF,Yes
+CUST-1189,  david garcia  ,Female,28,2021-04-04,15000,639.0,35.0,San Francisco,yes
+CUST-1486,Emma Brown,male,18,06-06-2022,"$66,800.00",722.0,24.0,New York,No
+CUST-1949,James Johnson,Male,44,2024-05-23,"$70,800",675.0,24.0, NY ,Yes
+CUST-1112,  emma davis  ,male,,02/09/2023,"$64,600.00",640.0,29.0,san francisco,No
+CUST-1629,Michael Smith,male,74,2021-10-15,"$105,700",674.0,78.0,SF,NO
+CUST-1575,Jane Martinez,Female,54,"September 02, 2024","$23,900.00",739.0,45.0,New York,No
+CUST-1277,Robert Davis,Female,21,2019-10-02,"$82,100.00",710.0,20.0,san francisco,No
+CUST-1621,David Jones,male,64,03-04-2023,N/A,572.0,22.0,San Francisco,yes
+CUST-1413,Emily Rodriguez,Male,62,04-13-2022,"$90,800.00",638.0,8.0,San Francisco,No
+CUST-1155,EMILY GARCIA, Man ,37,"January 16, 2019","$34,400.00",716.0,62.0,New York,no
+CUST-1533,Robert Williams,male,35,"January 22, 2021",,713.0,79.0,SF,Yes
+CUST-1743,Jane Martinez,Male,49,"November 24, 2024","$95,700.00",784.0,94.0,Chicago,No
+CUST-1054,James Brown,F,53 yrs,10-01-2021,"$27,000.00",674.0,51.0,New York,YES
+CUST-1165,Emily Smith,f,29,"March 09, 2022","$39,700.00",739.0,95.0,chicago,no
+CUST-1346,Emily Johnson,Female,66,08-20-2022,"$87,600",631.0,16.0,SF,Yes
+CUST-1056,Olivia Garcia,male,53,22/03/2024,"$47,900",771.0,89.0,NYC,N
+CUST-1109,Emma Jones,Woman,48,2023-06-03,"$73,300",784.0,180.0, NY ,no
+CUST-1922,James Garcia,Female,40,2019-07-05,"$24,900",820.0,16.0,chicago,Yes
+CUST-1934,David Jones,Male,63,,"$69,000.00",581.0,16.0,san francisco,Y
+CUST-1174,John Jones,female,34,01/10/2023,72600.0,773.0,180.0,San Francisco,No
+CUST-1787,David Jones,female,47,2024-09-04,63200.0,717.0,61.0,New York,no
+ CUST-1220 ,John Johnson,Male,75,02/01/2021,"$26,400",681.0,80.0,San Francisco,Yes
+CUST-1584,Sarah Brown,Female,44,,"$79,000",550.0,64.0,New York,true
+CUST-1331,Michael Martinez,Male,54,"September 22, 2021","$53,000.00",702.0,60.0,Chicago,Yes
+CUST-1661,Olivia Miller,female,61,10-21-2024,"$52,900.00",622.0,62.0,San Francisco,Yes
+CUST-1152,OLIVIA GARCIA,Male,,22/03/2020,"$65,700.00",999.0,53.0,Chicago,YES
+CUST-1185,  john smith  ,Female,54 yrs,2024-05-24,"$30,300",828.0,93.0,San Francisco,Yes
+CUST-1771,Sarah Davis,female,57,2019-01-07,"$73,000.00",667.0,12.0,SF,Yes
+CUST-1332,Emma Miller,male,210,2024-09-02,"$75,600.00",684.0,80.0,Chicago,yes
+CUST-1451,James Johnson,male,36,04/01/2020,,542.0,8.0,New York,Yes
+CUST-1626,John Brown,Male,43,26/04/2020,"$46,500",649.0,79.0,chicago,Yes
+CUST-1409,John Martinez,male,47,22/02/2020,"$67,500",714.0,2.0,new york,no
+CUST-1535,MICHAEL RODRIGUEZ,Male,27,2019-05-04,77400.0,728.0,145.0,New York,no
+CUST-1724,Sarah Martinez,M,39,22/03/2024,,757.0,43.0, NY ,yes
+CUST-1892,SARAH WILLIAMS,m,26,01/06/2021,"$66,200.00",565.0,100.0,New York,Yes
+CUST-1884,Jane Rodriguez,male,62,2024-12-10,"$95,500",734.0,29.0,chicago,No
+CUST-1196,  john miller  ,Female,34,15/10/2019,90600.0,,99.0,New York,yes
+CUST-1943,David Williams,m,74,2020-09-26,"$30,500.00",715.0,30.0,New York,yes
+CUST-1275,Emily Davis,M,70,"August 21, 2020",75900.0,668.0,5.0,Chicago,Yes
+ CUST-1170 ,Sarah Martinez,Female,69,23/09/2023,"$93,700",671.0,64.0,new york,yes
+CUST-1231,David Smith,m,36,08-13-2019,43700.0,662.0,3.0,Chicago,Yes
+CUST-1074,Michael Brown,Male,35,07/06/2022,"$82,300",715.0,15.0,chicago,yes
+CUST-1208,Michael Brown,Male,45,09-04-2019,N/A,694.0,63.0,New York,no
+CUST-1306,Olivia Brown,m,29,15/11/2024,,605.0,79.0,New York,No
+CUST-1424,  emma martinez  ,Female,66,05-11-2019,"$79,700.00",706.0,52.0,San Francisco,no
+CUST-1609,David Davis,male,31,02/05/2019,48700.0,784.0,22.0,New York,NO
+CUST-1303,David Rodriguez,Male,24,25/06/2019,80200.0,648.0,10.0,Chicago,false
+ CUST-1240 ,Emily Johnson,Other,19,2022-02-02,"$81,600",822.0,,San Francisco,Y
+CUST-1195,DAVID BROWN,f,22,06/04/2020,,693.0,23.0,New York,No
+CUST-1482,Sarah Miller,female,,22/12/2022,63400.0,840.0,41.0,,Yes
+CUST-1209,John Rodriguez,Female,54,2023-02-05,"$63,100",762.0,5.0,San Francisco,Yes
+CUST-1244,  robert smith  ,F,39,"October 28, 2024","$86,000.00",618.0,6.0,new york,
+CUST-1912,Sarah Garcia,Male,36,"February 10, 2022",,545.0,1.0,New York,No
+ CUST-1010 ,James Davis,Male,35,06-02-2024,63300.0,576.0,,Chi-Town,Yes
+CUST-1147,Michael Rodriguez,female,35,17/11/2022,33400.0,626.0,90.0,San Francisco,no
+CUST-1352,Jane Davis,Male,72,22/06/2021,"$97,300.00",700.0,59.0,New York,Yes
+ CUST-1040 ,Jane Miller,F,24,2022-03-14,"$58,400.00",730.0,21.0,SF,Yes
+CUST-1693,Emma Miller,male,54,2020-09-08,N/A,595.0,61.0,Chicago,Yes
+CUST-1585,David Smith,Female,31,23/02/2019,"$74,900.00",757.0,61.0,San Francisco,true
+CUST-1207,Sarah Martinez,F,73,"April 18, 2022","$95,400.00",618.0,22.0,chicago,Yes
+CUST-1467,Sarah Smith,Female,,2022-01-09,88200.0,756.0,100.0, NY ,YES
+CUST-1065,Jane Martinez,Female,69,"April 09, 2023","$92,200.00",778.0,77.0,Chicago,no
+CUST-1041,Jane Rodriguez,Female,71,21/06/2023,N/A,714.0,7.0,NYC,no
+CUST-1127,  david miller  ,Woman,46,06-12-2019,"$81,400.00",826.0,78.0,new york,No
+CUST-1289,Olivia Jones,Male,24,06-10-2024,"$75,100.00",725.0,87.0,New York,yes
+CUST-1676,David Jones,m,49,2020-10-27,"$74,600.00",687.0,90.0,San Francisco,YES
+ CUST-1720 ,Emily Brown,female,30,2021-03-23,"$88,600.00",810.0,,San Francisco,
+CUST-1859,Michael Miller,Male,23,01-26-2023,"$77,700.00",720.0,91.0,New York,Yes
+CUST-1411,John Brown,Female,70,2020-08-05,"$47,400",,55.0,san francisco,YES
+CUST-1381,Michael Jones,Female,40,2024-01-18,"$63,900.00",608.0,43.0,San Francisco,Yes
+CUST-1679,Emily Rodriguez,Male,49,13/04/2020,"$65,300.00",605.0,37.0,Chicago,
+CUST-1135,EMILY GARCIA,F,62,18/11/2020,"$58,700.00",687.0,73.0,Chicago,No
+ CUST-1350 ,JAMES RODRIGUEZ,Female,54 yrs,2019-12-21,"$64,900",672.0,180.0,San Francisco,YES
+CUST-1367,Michael Johnson,male,33,10-21-2023,"$60,100.00",697.0,8.0,New York,Y
+ CUST-1480 ,James Smith,Male,,16/02/2024,"$68,300.00",598.0,51.0,New York,NO
+CUST-1095,James Williams,M,42,2022-04-06,"$80,800",829.0,83.0, NY ,Y
+ CUST-1700 ,Emily Brown,Male,59,2019-02-21,"$30,900",623.0,29.0, NY ,Yes
+CUST-1553,James Smith,Male,32,04-16-2021,"$39,700.00",639.0,71.0,san francisco,YES
+CUST-1158,Sarah Johnson,male,40,"August 20, 2024","$59,400.00",1050.0,5.0,San Francisco,Yes
+ CUST-1140 ,Michael Williams,Male,42,04-12-2023,"$53,200.00",150.0,89.0,New York,no
+CUST-1736,Sarah Williams,Female,37,07-27-2022,68000.0,737.0,87.0,Chicago,yes
+CUST-1312,Emily Smith,Male,48,2020-07-19,"$94,100",798.0,66.0,New York,Yes
+CUST-1328,Emma Davis,female,62,16/10/2024,94200.0,731.0,18.0,san francisco,yes
+CUST-1916,David Martinez,Female,54,11/02/2024,"$66,500",606.0,91.0,Chicago,false
+CUST-1129,Sarah Brown,F,31 yrs,2020-12-12,"$53,800",653.0,17.0,New York,no
+CUST-1286,  sarah brown  ,female,51 yrs,2021-04-12,"$56,100",740.0,64.0,New York,Yes
+CUST-1224,Olivia Williams,Male,18,27/10/2020,"$54,800",701.0,40.0,NYC,N
+CUST-1065,Jane Martinez,Female,69,"April 09, 2023","$92,200.00",778.0,77.0,Chicago,no
+CUST-1377,David Garcia,M,30 yrs,06-07-2019,"$86,900",625.0,26.0,Chicago,Yes
+CUST-1745,Olivia Williams,M,64,02/02/2021,"$62,100",629.0,73.0,San Francisco,Yes
+CUST-1671,JOHN BROWN,Female,32,2022-03-24,"$92,200.00",650.0,1.0, NY ,YES
+ CUST-1920 ,DAVID JONES,Male,46,04-10-2022,"$94,900",716.0,,New York,No
+CUST-1363,Olivia Smith,Male,27,2022-08-24,65300.0,831.0,86.0,New York,Y
+CUST-1096,DAVID JOHNSON,Female,44,06-24-2019,N/A,742.0,,Chicago,No
+CUST-1184,  sarah miller  ,male,185,11-22-2020,"$54,300.00",787.0,18.0,SF,yes
+CUST-1012,James Brown,Female,62,05/11/2019,,709.0,82.0,san francisco,No
+CUST-1209,MICHAEL GARCIA,male,49,02-20-2020,"$59,700",,33.0,New York,Yes
+CUST-1163,Emma Miller,Male,62,,"$77,900.00",742.0,9.0,Chicago,Y
+CUST-1461,James Rodriguez,Male,65,"April 10, 2019","$2,500,000.00",618.0,13.0,San Francisco,Y
+CUST-1221,Jane Williams,f,49 yrs,"August 02, 2022",21600.0,120.0,2.0,san francisco,false
+CUST-1057,Olivia Rodriguez,Male,53,09/09/2022,,702.0,19.0,Chicago,Yes
+CUST-1156,Emma Davis, Man ,27,2024-03-27,"$34,200.00",698.0,38.0,New York,No
+CUST-1631,Robert Miller,M,19,2023-06-15,"$57,700.00",639.0,75.0,san francisco,yes
+CUST-1704,Jane Smith,Male,39,2020-12-17,73300.0,150.0,67.0,NYC,true
+CUST-1618,Sarah Smith,m,37,27/08/2019,"$76,900.00",759.0,43.0, NY ,No
+CUST-1722,ROBERT WILLIAMS,Male,37,2021-09-10,"$71,900",714.0,92.0,chicago,NO
+CUST-1199,  emily davis  ,M,28,"March 16, 2023","$67,000",625.0,18.0,New York,No
+CUST-1572,,male,185,26/04/2019,"$54,500.00",755.0,43.0,San Francisco,No
+CUST-1061,David Miller,f,40,"April 02, 2024","$30,900",741.0,48.0,New York,false
+CUST-1099,Robert Garcia,,,2023-10-26,73900.0,819.0,34.0,San Francisco,true
+CUST-1939,Michael Davis,Male,27,2019-06-11,"$74,000",553.0,28.0,,no
+CUST-1344,Robert Brown,Male,30,04-05-2019,"$65,400",777.0,67.0,chicago,yes
+CUST-1243,Sarah Jones,female,71,12-24-2019,104100.0,786.0,8.0,Chicago,NO
+ CUST-1380 ,James Johnson,Female,74,2022-02-18,"$103,400.00",715.0,145.0,chicago,no
+CUST-1259,James Rodriguez,F,71,"October 18, 2023","$71,700.00",643.0,85.0, NY ,yes
+CUST-1923,Emily Rodriguez,Male,21,13/12/2024,"$52,600",690.0,27.0,NYC,YES
+CUST-1194,,Male,58,2022-06-04,"$59,200",767.0,15.0,San Francisco,YES
+ CUST-1110 ,Robert Garcia,male,58,17/04/2019,"$66,800.00",782.0,94.0, NY ,no
+ CUST-1240 ,Robert Garcia,Male,61,10-02-2019,,751.0,145.0,New York,No
+CUST-1423,,Female,,12/10/2022,"$91,800",618.0,74.0,Chicago,yes
+CUST-1624,  david rodriguez  ,Male,31,15/07/2019,"$96,400",649.0,58.0,San Francisco,No
+ CUST-1390 ,Robert Miller,F,0,08/06/2024,"$83,900.00",748.0,47.0, NY ,Yes
+CUST-1254,Jane Brown,Male,23,02/10/2019,"$93,800.00",595.0,38.0,Chicago,No
+CUST-1104,John Johnson,Female,,"May 06, 2020","$52,600",762.0,,san francisco,NO
+CUST-1079,Robert Jones,Female,36,2021-01-16,"$52,600.00",753.0,3.0,chicago,true
+CUST-1309,  emma johnson  ,female,66,2023-09-11,-5000,627.0,92.0,Chicago,Y
+ CUST-1850 ,Robert Jones,f,,15/08/2023,"$62,800",714.0,67.0,chicago,Yes
+CUST-1561,Robert Williams,female,47,05-17-2019,51000.0,623.0,5.0,New York,No
+CUST-1802,Michael Martinez,Other,27,10-18-2022,69200.0,734.0,99.0,New York,true
+CUST-1886,Michael Martinez,F,36,"March 02, 2023","$70,200",727.0,20.0,new york,Y
+CUST-1178,David Williams,Female,50,2022-05-08,84700.0,800.0,54.0,Chi-Town,yes
+CUST-1171,Robert Martinez,female,29,"February 27, 2021","$69,900",712.0,40.0,San Francisco,Yes
+CUST-1926,James Rodriguez,Female,68,04/08/2022,62100.0,617.0,2.0,San Francisco,yes
+CUST-1265,Emma Garcia,female,60 yrs,03-19-2023,"$61,500.00",745.0,63.0,new york,YES
+CUST-1037,Michael Davis,male,47,"July 19, 2022","$62,500",798.0,65.0,New York,no
+ CUST-1030 ,John Jones,F,71,2022-08-25,"$78,100.00",745.0,14.0,NYC,No
+CUST-1088,Michael Davis,Female,43,07-06-2023,"$19,800.00",706.0,10.0,Chicago,No
+CUST-1148,Emily Jones,F,38,20/02/2020,"$35,000.00",755.0,57.0,New York,yes
+CUST-1117,DAVID GARCIA,f,45,2019-05-19,"$47,000",547.0,18.0,SF,Yes
+CUST-1447,David Brown,Male,66,27/07/2022,"$21,400.00",806.0,37.0,New York,no
+CUST-1808,  david miller  ,Male,63,2022-09-09,"$2,500,000.00",,,Chicago,Yes
+ CUST-1660 ,James Johnson,M,71,09/08/2024,"$2,500,000.00",635.0,180.0,New York,No
+CUST-1614,Emily Miller,female,66,04-21-2020,"$2,500,000.00",818.0,19.0,San Francisco,yes
+CUST-1228,Olivia Garcia,m,,10-28-2019,"$39,400.00",761.0,6.0,San Francisco,Yes
+CUST-1803,JAMES GARCIA,Female,36 yrs,01/07/2020,-5000,767.0,65.0,SF,No
+CUST-1266,Sarah Martinez,F,71,invalid_date_str,"$59,300.00",701.0,57.0,new york,Yes
+CUST-1059,John Davis,male,19,,,793.0,100.0,San Francisco,No
+CUST-1605,Sarah Smith,male,37,2021-11-15,"$89,100",630.0,85.0,chicago,Y
+CUST-1754,JAMES DAVIS,M,53,19/11/2024,N/A,735.0,20.0,New York,Y
+CUST-1706,Emily Rodriguez,female,22,10-17-2020,46100.0,607.0,80.0,chicago,No
+CUST-1552,James Rodriguez,female,74,18/03/2023,77100.0,693.0,52.0,New York,No
+CUST-1358,  michael brown  ,Male,21,05/01/2022,,683.0,67.0,new york,No
+CUST-1673,John Garcia,Male,18,2019-07-01,,666.0,12.0,New York,yes
+CUST-1788,John Jones,Male,24,"May 27, 2021","$51,200",647.0,11.0,,Y
+CUST-1905,Robert Williams,female,45,17/06/2024,"$36,600.00",623.0,66.0,New York,no
+CUST-1793,Olivia Smith,male,19,"October 01, 2021","$61,600",680.0,91.0,new york,Y
+CUST-1705,  emily jones  ,Male,31,26/07/2023,"$50,300.00",680.0,67.0,Chicago,no
+CUST-1772,James Rodriguez,Female,51,12-18-2022,"$38,400.00",697.0,62.0,SF,No
+CUST-1355,Robert Jones,Woman,60 yrs,"November 02, 2019","$76,500.00",532.0,32.0,San Francisco,Yes
+CUST-1083,David Jones,Male,69,18/11/2021,"$48,600",737.0,89.0,New York,Y
+CUST-1129,Michael Williams,,65,2023-09-05,"$55,800",625.0,10.0,Chicago,Yes
+CUST-1667,Emily Jones,Female,57,,"$55,400.00",564.0,15.0,San Francisco,No
+CUST-1206,Emily Martinez,Female,31,05/10/2019,"$64,600.00",752.0,69.0,Chicago,Yes
+CUST-1021,James Jones,male,23,2022-04-14,,838.0,51.0,san francisco,true
+CUST-1755,Jane Garcia,M,55,2024-10-26,46700.0,732.0,33.0,SF,yes
+ CUST-1260 ,Olivia Garcia,Male,68,,"$76,100.00",753.0,35.0,New York,Yes
+CUST-1573,  olivia johnson  ,male,22,2022-02-18,"$2,500,000.00",599.0,91.0,New York,YES
+CUST-1084,Olivia Rodriguez,m,70,22/07/2023,"$2,500,000.00",763.0,97.0, NY ,no
+CUST-1948,MICHAEL BROWN,m,65,2024-01-23,"$58,000.00",694.0,12.0, NY ,Yes
+CUST-1598,Jane Miller,Male,74,2019-03-08,"$43,300.00",,24.0,New York,No
+CUST-1138,David Jones,Female,41,11/03/2021,"$76,800.00",792.0,79.0, NY ,No
+CUST-1292,JOHN DAVIS,Female,40,03-22-2022,93900.0,624.0,37.0,Chicago,yes
+CUST-1047,James Jones,male,31,2020-02-23,"$61,600",659.0,10.0,chicago,Yes
+CUST-1141,JOHN MILLER,Female,,,,,87.0,SF,No
+CUST-1588,Emily Davis,M,36,12-12-2022,"$56,300.00",633.0,24.0,New York,YES
+CUST-1541,Emily Martinez,Female,,2019-12-28,"$24,800.00",584.0,94.0,New York,Y
+ CUST-1430 ,Olivia Rodriguez,Male,34,"May 20, 2019","$31,600",579.0,41.0,New York,Yes
+CUST-1139,Robert Miller,female,29,20/11/2021,72900.0,1050.0,83.0,Chicago,Yes
+CUST-1415,  jane garcia  ,Male,29,2019-06-26,N/A,660.0,,Chicago,No
+CUST-1906,ROBERT GARCIA,male,74,2019-03-07,"$78,600",575.0,97.0,New York,no
+CUST-1224,John Williams,male,62,2020-11-10,"$45,400",680.0,19.0,San Francisco,Yes
+CUST-1371,  jane rodriguez  ,Female,57,05/01/2021,"$95,100",800.0,34.0,NYC,YES
+CUST-1274,Sarah Martinez,M,71,2022-10-02,"$40,000",607.0,7.0,New York,true
+CUST-1651,Emily Garcia,female,31,13/12/2024,53500.0,840.0,9.0,chicago,Yes
+CUST-1644,Emily Davis,Female,19,11-10-2019,"$72,800.00",685.0,89.0,New York,no
+CUST-1739,DAVID BROWN,Male,29,2020-10-20,,613.0,83.0,chicago,no
+CUST-1617,Olivia Williams,m,34,02-06-2022,"$93,900.00",,12.0,NYC,No
+CUST-1738,Emily Davis,male,61,2020-02-18,"$97,100",725.0,50.0,San Francisco,N
+CUST-1613,  olivia rodriguez  ,Male,,12/06/2022,"$51,600",726.0,14.0,New York,No
+CUST-1727,JANE RODRIGUEZ,Female,37,2023-10-27,"$68,800.00",686.0,38.0,chicago,no
+CUST-1717,John Garcia,Female,48,11/12/2022,"$70,900",630.0,33.0,San Francisco,No
+CUST-1924,John Brown,m,66,22/12/2020,"$53,600.00",754.0,28.0,San Francisco,YES
+ CUST-1610 ,Michael Rodriguez,Female,56,12/11/2024,"$102,700.00",623.0,1.0,San Francisco,N
+ CUST-1620 ,David Williams,Female,24,,"$66,500.00",674.0,26.0,New York,N
+CUST-1654,James Smith,Woman,210,08-09-2022,"$2,500,000.00",840.0,94.0,Chicago,Y
+CUST-1177,,Female,47,"August 22, 2024","$47,800.00",646.0,82.0,chicago,no
+CUST-1858,Jane Davis,F,65,2019-12-12,"$66,800.00",574.0,64.0,new york,yes
+CUST-1321,Jane Williams,m,,07-06-2020,"$70,600",765.0,60.0,Chicago,YES
+CUST-1602,John Smith,Female,62,2019-12-06,36200.0,688.0,73.0,Chicago,YES
+CUST-1146,Olivia Davis,f,50,2020-11-21,"$59,500",587.0,22.0,New York,No
+CUST-1908,Emily Brown,Female,27,2020-03-22,"$2,500,000.00",662.0,95.0,new york,No
+,James Davis, Man ,59,2020-08-19,"$50,900.00",1050.0,92.0,New York,No
+CUST-1039,James Martinez,Male,,2023-06-25,57000.0,655.0,41.0,San Francisco,
+ CUST-1030 ,Michael Johnson,f,33,05-05-2022,"$74,300",633.0,,Chicago,No
+CUST-1242,Olivia Rodriguez,M,75,20/12/2024,52400.0,587.0,42.0,Chicago,yes
+CUST-1701,Emma Martinez,Woman,64,"June 03, 2024","$93,700",670.0,63.0,New York,true
+CUST-1136,Olivia Garcia,Male,22,2019-08-08,N/A,721.0,65.0,San Francisco,No
+ CUST-1310 ,Sarah Davis,Male,60 yrs,2020-10-23,"$60,400.00",617.0,71.0,san francisco,No
+CUST-1087,Michael Smith,Male,27,2021-08-01,84400.0,629.0,37.0,chicago,Yes
+CUST-1248,  james johnson  ,Female,30,2020-01-03,"$76,100.00",709.0,64.0,San Francisco,No
+CUST-1147,Sarah Brown,male,58,2021-04-10,46000.0,795.0,10.0,new york,false
+CUST-1454,,M,37,"February 23, 2023",42400.0,719.0,98.0,San Francisco,no
+CUST-1003,David Davis,Woman,67,13/04/2022,57400.0,721.0,53.0,New York,N
+CUST-1111,Sarah Davis,Male,18,"November 19, 2022",56300.0,773.0,74.0, NY ,No
+CUST-1677,Sarah Martinez,Male,32,12/01/2019,"$74,300",676.0,3.0,New York,no
+CUST-1123,Robert Jones,Female,66,02-20-2024,72400.0,675.0,97.0,Chicago,Yes
+CUST-1453,Sarah Brown,Male,,23/03/2021,"$66,800",683.0,12.0,Chicago,No
+CUST-1885,John Garcia,Male,,27/09/2021,"$48,400",818.0,76.0,San Francisco,Yes
+CUST-1069,Jane Brown,Female,68,24/02/2019,"$27,300",650.0,92.0,New York,No
+CUST-1522,James Williams,Female,31,2020-12-17,"$87,200.00",656.0,81.0,san francisco,No
+CUST-1314,Emma Martinez,Male,58,2023-04-19,N/A,730.0,34.0,Chicago,false
+CUST-1039,Jane Rodriguez,Female,18,2023-09-12,,546.0,80.0,SF,no
+CUST-1319,Sarah Smith,Male,,12-05-2022,"$75,700",670.0,38.0,New York,No
+CUST-1438,John Rodriguez,Male,18,"May 21, 2022","$47,800",807.0,67.0,chicago,true
+CUST-1847,David Jones,female,19,2023-03-19,"$99,100",580.0,8.0,Chicago,yes
+CUST-1005,JANE JONES,Male,52,17/01/2021,"$41,100",,66.0,Chicago,no
+ CUST-1100 ,Michael Davis,female,73,2024-06-27,62400.0,640.0,98.0,San Francisco,Yes
+CUST-1809,Robert Johnson,Female,65,"February 21, 2021","$53,100.00",762.0,65.0,San Francisco,Yes
+CUST-1548,Jane Smith,Male,56,2020-05-16,"$60,800.00",726.0,7.0,New York,no
+CUST-1527,James Williams,female,53,,"$45,700",621.0,31.0,NYC,Yes
+CUST-1873,Robert Williams,Female,70,2020-01-05,33900.0,717.0,70.0,Chicago,Y
+CUST-1157,Emily Rodriguez,Female,25,10/04/2022,"$81,700.00",639.0,,San Francisco,No
+CUST-1439,  emily jones  , Man ,67,2024-12-05,34600.0,660.0,28.0,,Yes
+CUST-1036,Jane Williams,Female,56,2022-10-21,"$68,500",703.0,30.0,San Francisco,Yes
+CUST-1227,Sarah Williams,Male,60,"April 06, 2020","$54,300",628.0,65.0,new york,Y
+CUST-1942,Emma Jones,male,-12,02/03/2020,"$69,500",666.0,99.0,San Francisco,no
+CUST-1566,David Smith,f,40,2019-10-07,"$64,400",717.0,37.0,new york,true
+CUST-1056,James Smith,Male,26,25/06/2019,"$35,200.00",694.0,98.0,New York,yes
+CUST-1875,David Martinez,Female,-12,"September 02, 2020","$76,100",675.0,16.0,SF,No
+CUST-1066,Sarah Rodriguez,Male,54,22/03/2022,80600.0,693.0,23.0,New York,No
+CUST-1067,Michael Davis,F,54,10-20-2021,"$74,000.00",774.0,88.0,new york,Yes
+CUST-1051,Sarah Martinez,Woman,24,,"$76,100",684.0,49.0,Chicago,No
+CUST-1211,Emily Garcia,Male,-3,"September 06, 2020","$90,300",620.0,9.0,NYC,YES
+CUST-1012,David Miller,Female,70,04-05-2020,"$91,700",734.0,26.0,New York,No
+CUST-1133,Emma Martinez,Male,60,2019-11-01,22000.0,676.0,12.0,Chicago,yes
+CUST-1695,Jane Smith,Female,44 yrs,"March 16, 2019","$92,500.00",771.0,89.0,new york,N
+CUST-1299,Michael Johnson,female,40,2024-02-14,"$79,700.00",711.0,90.0,San Francisco,
+CUST-1485,Michael Martinez,female,46,2024-06-24,54200.0,584.0,2.0,San Francisco,true
+CUST-1816,Emma Jones,Female,21,2024-06-19,N/A,763.0,10.0,San Francisco,no
+CUST-1166,Sarah Brown, Man ,,28/06/2020,"$76,500.00",829.0,53.0,,No
+CUST-1494,Emma Davis,female,53,invalid_date_str,"$62,200",680.0,, NY ,yes
+CUST-1058,Emily Miller,female,33,2022-03-05,"$72,100",616.0,36.0,New York,No
+ CUST-1230 ,John Brown,female,66,15/01/2019,,664.0,95.0,NYC,Y
+CUST-1405,  emma garcia  ,Female,33,13/11/2021,46400.0,649.0,5.0,Chicago,No
+CUST-1124,Emma Miller,Female,55,2024-05-26,73300.0,695.0,145.0,San Francisco,No
+CUST-1732,David Williams,Male,53,07/11/2021,"$75,400.00",710.0,81.0,chicago,Yes
+CUST-1212,  james smith  ,M,34,21/01/2022,"$2,500,000.00",999.0,15.0,new york,Y
+CUST-1714,OLIVIA GARCIA,male,42,09-19-2019,"$86,600",,15.0,Chicago,Y
+ CUST-1710 ,Robert Smith,Female,41,20/02/2019,-5000,739.0,2.0,Chicago,false
+CUST-1134,Sarah Brown,f,59,invalid_date_str,"$41,300.00",742.0,61.0,san francisco,No
+CUST-1273,Emma Smith,Male,210,23/08/2024,"$61,200",515.0,52.0,Chicago,Yes
+CUST-1427,Jane Johnson,male,47,2021-10-14,"$75,700",645.0,21.0,Chicago,no
+CUST-1362,Jane Garcia,Female,,2024-07-03,"$24,500",704.0,145.0,NYC,No
+CUST-1237,James Brown,female,18,"November 05, 2020","$2,500,000.00",671.0,40.0,New York,true
+CUST-1479,Olivia Rodriguez,Male,-3,2021-03-18,"$19,400",726.0,180.0,New York,No
+,Robert Brown,Female,18,2024-03-10,"$93,300",619.0,26.0,new york,Yes
+CUST-1006,Jane Davis,male,27,invalid_date_str,"$61,100",722.0,80.0,Chi-Town,Yes
+CUST-1081,Sarah Brown, Man ,48,11/02/2023,"$52,700",823.0,20.0,Chicago,No
+CUST-1311,  emily jones  ,Woman,71,24/02/2020,-5000,605.0,52.0,SF,No
+CUST-1118,OLIVIA MILLER,Male,58,2023-11-21,,777.0,60.0,Chicago,
+ CUST-1190 ,Jane Jones,Female,54 yrs,06-03-2022,"$64,500",682.0,68.0,San Francisco,No
+CUST-1534,  emily smith  ,F,55,13/05/2021,"$71,300.00",600.0,91.0,San Francisco,Yes
+CUST-1818,David Davis,male,32,2024-06-21,"$63,700.00",551.0,43.0,NYC,yes
+CUST-1163,Robert Martinez,M,54,2021-03-17,"$85,900.00",809.0,69.0,New York,NO
+CUST-1215,Emma Johnson,Male,21,07-12-2019,46600.0,999.0,89.0,Chicago,true
+CUST-1532,DAVID MILLER,male,18,2020-06-15,"$43,300",721.0,89.0,new york,true
+CUST-1027,Olivia Martinez,Female,40,05/01/2021,"$15,000.00",761.0,31.0,san francisco,No
+CUST-1181,Emma Brown,F,24,01-10-2022,N/A,563.0,27.0,,Yes
+CUST-1428,JOHN GARCIA,male,65,10-10-2021,"$43,600.00",774.0,145.0,Chicago,No
+CUST-1888,  james miller  ,Male,75,2019-12-07,"$45,900",529.0,4.0,San Francisco,yes
+CUST-1842,Michael Johnson,male,150,"September 25, 2022","$47,700.00",703.0,64.0,Chicago,no
+CUST-1721,John Williams,male,24,2020-12-06,82000.0,671.0,46.0,Chicago,no
+CUST-1523,JAMES DAVIS,m,60 yrs,17/03/2021,"$27,900",,,Chi-Town,No
+CUST-1936,Robert Jones,m,45,21/12/2021,"$69,600",608.0,15.0,New York,NO
+ CUST-1160 ,David Miller,Female,59,23/01/2023,"$72,800.00",610.0,21.0,Chicago,true
+CUST-1354,Olivia Miller,Female,38,"September 04, 2024","$42,900.00",699.0,75.0,New York,Y
+ CUST-1140 ,  john garcia  ,Female,37,12-07-2020,"$129,900.00",733.0,93.0,New York,No
+CUST-1597,John Martinez,Female,44,03/08/2023,"$2,500,000.00",673.0,29.0,New York,yes
+,,male,58,"March 26, 2023",50700.0,699.0,54.0,New York,Y
+,John Williams,female,57,07-05-2019,63800.0,719.0,71.0,San Francisco,Yes
+CUST-1025,Olivia Garcia,Female,18,2020-12-08,42200.0,582.0,83.0,New York,yes
+CUST-1336,,female,30,2023-04-19,"$63,700.00",585.0,57.0,San Francisco,false
+CUST-1549,Emma Rodriguez,m,50,21/10/2024,"$89,100.00",756.0,87.0,San Francisco,yes
+CUST-1047,Emily Williams,Male,28,10-18-2023,"$47,600",655.0,145.0,San Francisco,NO
+CUST-1318,MICHAEL WILLIAMS,male,62,03-15-2023,"$60,000",658.0,,Chicago,yes
+CUST-1106,Emily Miller,male,73,"March 14, 2022","$23,500.00",691.0,,san francisco,No
+CUST-1865,Olivia Garcia,Male,0,04/05/2021,"$41,800.00",709.0,77.0,Chicago,No
+CUST-1055,David Smith,Female,60 yrs,08-03-2022,"$69,000",672.0,26.0,San Francisco,No
+CUST-1692,David Smith,Male,65,13/03/2022,54500.0,582.0,11.0,Chicago,No
+CUST-1213,Emily Martinez,M,19,"April 17, 2019","$50,900",637.0,25.0,san francisco,yes
+ CUST-1120 ,John Garcia,male,,2019-02-08,"$76,500.00",811.0,76.0,San Francisco,No
+CUST-1851,Emily Rodriguez,f,28,"December 18, 2019","$64,200.00",655.0,99.0,San Francisco,Y
+CUST-1478,  olivia davis  ,Female,,2019-05-07,"$75,100",586.0,6.0,Chicago,Y
+CUST-1044,Michael Davis,m,33,2019-11-04,49000.0,629.0,12.0,New York,No
+CUST-1072,Olivia Brown,f,26,,92600.0,625.0,28.0,san francisco,No
+ CUST-1410 ,Michael Brown,Male,56,23/02/2022,29600.0,696.0,5.0,Chicago,No
+CUST-1649,Emma Brown,female,72,"July 15, 2020",87800.0,611.0,90.0,SF,no
+CUST-1806,Emily Smith, Man ,55,15/05/2019,,532.0,68.0, NY ,yes
+CUST-1545,Emily Williams,M,60,20/03/2022,78700.0,616.0,90.0,New York,Yes
+CUST-1432,DAVID DAVIS,female,22,2021-09-14,"$41,300",590.0,82.0,chicago,false
+ CUST-1490 ,Olivia Brown,male,-12,20/07/2019,"$57,000",619.0,60.0,san francisco,yes
+CUST-1017,JOHN BROWN,M,29,"March 11, 2022","$39,500",589.0,45.0,San Francisco,Yes
+CUST-1848,Emma Rodriguez,Female,40 yrs,11/07/2021,47900.0,710.0,71.0,New York,Y
+CUST-1596,James Williams,Female,29,08-13-2020,"$59,500",,98.0,New York,true
+ CUST-1780 ,JOHN MILLER,Female,,09/09/2020,-5000,654.0,49.0,San Francisco,Y
+CUST-1583,JAMES GARCIA,female,71,2019-09-01,"$88,800.00",770.0,20.0,New York,yes
+,Emma Miller,Male,68,10/08/2024,"$61,600.00",757.0,93.0,New York,No
+CUST-1325,David Garcia,Female,58,"May 26, 2020",45400.0,771.0,,New York,Yes
+CUST-1554,  emma jones  ,Female,61,"October 24, 2024",64300.0,608.0,31.0,New York,yes
+ CUST-1050 ,David Williams, Man ,49,invalid_date_str,"$38,600",690.0,80.0,San Francisco,yes
+CUST-1316,Jane Jones,Female,74,2023-12-13,69800.0,716.0,87.0,San Francisco,no
+CUST-1666,John Garcia,female,41,01-21-2022,"$26,300",537.0,94.0,new york,No
+CUST-1246,Robert Brown,male,68,,"$78,300",709.0,19.0,New York,No
+ CUST-1570 ,Jane Jones,Male,59,20/03/2020,-5000,778.0,42.0,Chicago,Yes
+CUST-1736,Sarah Williams,Female,37,07-27-2022,68000.0,737.0,87.0,Chicago,yes
+CUST-1113,Emma Williams,Female,63,2019-01-08,"$53,800.00",,60.0,New York,no
+CUST-1092,Michael Johnson,Female,,06/05/2020,"$55,200",717.0,,new york,No
+ CUST-1590 ,Emily Williams,Male,75,07-01-2022,"$60,300.00",784.0,29.0,Chicago,No
+ CUST-1060 ,  olivia smith  ,F,150,10-25-2020,"$52,600.00",732.0,19.0,new york,yes
+CUST-1433,David Davis,Male,71,13/01/2019,"$76,300",630.0,68.0,NYC,No
+CUST-1777,Robert Smith,m,33,09/01/2022,"$92,800.00",720.0,,San Francisco,
+CUST-1092,JOHN MILLER,male,71,01/09/2024,"$87,800.00",728.0,4.0,New York,yes
+ CUST-1930 ,Michael Jones,Female,39,03/10/2020,"$72,300.00",592.0,14.0,San Francisco,No
+CUST-1464,Sarah Johnson,Male,31,,"$54,400",840.0,42.0,new york,No
+CUST-1351,David Brown,Male,,01-07-2024,"$66,000.00",578.0,100.0,Chicago,No
+ CUST-1060 ,  sarah miller  ,Female,63,25/12/2024,"$73,300.00",597.0,72.0,new york,no
+ CUST-1280 ,Sarah Williams,F,20,19/08/2023,"$88,800.00",823.0,57.0, NY ,NO
+CUST-1497,David Miller,male,21,2019-09-20,"$67,600.00",705.0,90.0,New York,No
+CUST-1052,Jane Martinez,Male,45,26/01/2019,"$61,800",731.0,40.0,New York,YES
+CUST-1359,David Jones,female,62,2023-11-26,"$66,500",642.0,24.0,New York,No
+,James Johnson,F,50,03/05/2020,"$86,600.00",636.0,7.0,,Yes
+CUST-1591,  john garcia  ,male,49 yrs,2021-10-23,"$81,700",782.0,60.0,San Francisco,Yes
+ CUST-1910 ,Robert Jones,Female,26 yrs,2022-04-06,"$77,100.00",649.0,47.0,Chicago,No
+CUST-1774,  john jones  ,m,65,09-10-2022,"$52,700.00",707.0,6.0,new york,Yes
+CUST-1481,EMMA DAVIS,Female,70,2020-12-28,39700.0,,,Chicago,No
+CUST-1536,EMMA DAVIS,Female,26,2023-10-10,"$80,400",,40.0,New York,Yes
+CUST-1781,  olivia smith  ,Male,39,"November 13, 2019","$84,700.00",999.0,83.0,San Francisco,No
+CUST-1182,Sarah Johnson,m,42,2024-04-13,"$57,900.00",602.0,87.0,New York,yes
+CUST-1097,  john brown  ,female,33,20/01/2020,,715.0,23.0,New York,No
+CUST-1903,  olivia williams  ,Male,50,23/08/2023,"$69,200.00",,79.0,San Francisco,Yes
+ CUST-1110 ,Sarah Martinez,female,59 yrs,2021-11-17,"$92,400.00",1050.0,73.0,new york,Yes
+ CUST-1370 ,JOHN DAVIS,female,73,2022-09-26,"$61,900",692.0,59.0,New York,false
+CUST-1458,Emily Johnson,Male,41,20/10/2021,40900.0,726.0,56.0,Chicago,Yes
+CUST-1239,JOHN RODRIGUEZ,Male,61,2019-04-22,"$32,300",633.0,96.0,san francisco,No
+CUST-1115,Emily Davis,Male,53 yrs,11-25-2022,"$68,900",598.0,42.0,Chicago,No
+CUST-1678,Emma Rodriguez,m,28,02-25-2022,"$78,600",700.0,77.0,San Francisco,No
+CUST-1931,John Jones,m,20,02-09-2020,81400.0,712.0,98.0,Chicago,Yes
+CUST-1204,Robert Davis,male,41,"February 24, 2021","$51,300.00",734.0,70.0,New York,yes
+CUST-1888,  james miller  ,Male,75,2019-12-07,"$45,900",529.0,4.0,San Francisco,yes
+CUST-1872,John Williams,male,47,13/09/2021,94900.0,719.0,41.0,SF,YES
+CUST-1261,Michael Miller,Female,22,,"$87,300",630.0,8.0,chicago,Yes
+CUST-1538,Michael Brown,Female,25,2020-10-06,85600.0,648.0,89.0,Chicago,Y
+CUST-1713,DAVID JONES,Female,45,03-12-2019,"$82,900.00",673.0,,San Francisco,Yes
+CUST-1243,Robert Martinez,Male,31,,"$63,300",735.0,25.0,Chicago,No
+CUST-1339,Jane Garcia,female,73,08-26-2019,56400.0,680.0,145.0,San Francisco,YES
+CUST-1718,Emily Garcia,,66,10-15-2020,"$104,000.00",615.0,6.0,San Francisco,N
+CUST-1716,  david davis  ,Female,22,2022-06-19,"$67,000.00",724.0,47.0,,true
+CUST-1836,James Brown,Female,50,05/12/2021,"$94,900.00",695.0,4.0,Chicago,yes
+CUST-1183,James Miller,Male,40,2019-07-13,,750.0,91.0,New York,yes
+,,M,61,"June 11, 2022","$71,400",,47.0,New York,No
+CUST-1067,Jane Johnson,female,58,03/08/2023,"$118,200.00",675.0,,San Francisco,YES
+CUST-1111,Michael Garcia,male,55 yrs,08-07-2023,"$16,300",716.0,57.0,New York,N
+CUST-1879,Robert Williams,F,38,2022-03-26,"$83,500",652.0,72.0,San Francisco,Y
+ CUST-1080 ,David Miller,F,45,13/10/2023,82600.0,716.0,100.0,Chicago,Y
+CUST-1542,James Rodriguez,Female,39,07/08/2024,"$77,900.00",685.0,95.0,San Francisco,Yes
+CUST-1857,James Davis,M,74,"March 14, 2021","$107,500",652.0,91.0,Chicago,YES
+CUST-1238,Robert Smith,Male,43,11-25-2021,"$33,900",634.0,47.0,Chicago,yes
+CUST-1029,Emily Rodriguez,M,51,03-13-2022,"$66,500",684.0,25.0, NY ,NO
+CUST-1783,Olivia Williams,F,185,2019-06-07,58800.0,706.0,77.0,new york,Yes
+CUST-1471,John Davis,Male,32,2019-05-13,"$96,300.00",578.0,29.0,San Francisco,no
+CUST-1032,Emma Martinez,Male,70,2024-02-01,"$67,200",737.0,28.0,New York,YES
+CUST-1165,Robert Brown,female,41,04/04/2020,"$71,600.00",637.0,83.0,san francisco,no
+CUST-1248,David Williams,male,-12,"June 01, 2024","$68,600",683.0,43.0,SF,Yes
+CUST-1307,ROBERT DAVIS,Male,68,"November 13, 2022","$49,100",616.0,4.0, NY ,Yes
+CUST-1909,,Female,67,06-02-2024,,547.0,50.0,NYC,No
+ CUST-1210 ,Robert Williams,male,,04-07-2022,-5000,607.0,25.0,New York,yes
+CUST-1334,John Smith,Male,54,03-13-2024,"$27,100",608.0,13.0,San Francisco,No
+CUST-1097,John Garcia,Female,44,24/10/2020,"$35,200.00",,55.0,San Francisco,Yes
+ CUST-1660 ,James Johnson,M,71,09/08/2024,"$2,500,000.00",635.0,180.0,New York,No
+CUST-1116,Sarah Rodriguez,M,70,06/02/2019,"$80,700.00",646.0,68.0,New York,No
+,Sarah Johnson,Female,40,08-13-2020,15000,705.0,82.0,New York,No
+CUST-1065,John Brown,Male,18,03/01/2022,"$80,900.00",668.0,72.0,san francisco,no
+CUST-1741,David Williams,male,,,"$53,400",686.0,45.0,New York,Yes
+CUST-1785,Sarah Davis,Male,57 yrs,04-15-2024,"$83,500",740.0,71.0,Chi-Town,YES
+CUST-1175,David Rodriguez,Female,72,23/08/2021,76200.0,747.0,70.0,Chi-Town,No
+CUST-1302,Sarah Garcia,f,39,02-15-2022,"$76,100.00",650.0,52.0,new york,NO
+CUST-1059,Robert Jones,male,,02-16-2022,"$49,400",743.0,4.0,Chicago,Yes
+CUST-1388,Jane Brown,Male,,12-10-2024,"$71,300",644.0,11.0,san francisco,Yes
+CUST-1235,David Johnson,F,31,15/07/2021,"$65,700.00",560.0,39.0,San Francisco,No
+CUST-1876,Jane Miller,Male,35,"October 12, 2023","$74,200.00",674.0,7.0,New York,
+CUST-1767,Sarah Brown,female,29,12-11-2023,"$67,400",999.0,41.0,San Francisco,no
+CUST-1305,Emma Rodriguez,Woman,34,2024-06-18,47400.0,565.0,9.0,chicago,No
+CUST-1832,Emma Brown,M,28 yrs,08/02/2024,"$78,900",627.0,15.0,NYC,Y
+CUST-1043,Jane Williams,Male,42 yrs,2020-06-21,"$26,200.00",840.0,82.0,SF,No
+CUST-1249,Robert Miller,Male,21,03-02-2024,"$66,700.00",,41.0,new york,No
+CUST-1862,Emily Garcia,Male,185,,"$62,700",999.0,90.0,SF,YES
+CUST-1071,EMILY WILLIAMS,F,19,2020-08-21,,525.0,19.0,san francisco,Yes
+CUST-1094,Emma Martinez,male,63,"April 08, 2019","$112,900.00",597.0,14.0,san francisco,No
+CUST-1589,James Miller,Female,33,"September 10, 2021",,690.0,41.0,Chicago,no
+CUST-1033,  sarah davis  ,female,53,2019-09-15,,606.0,180.0,Chicago,Yes
+CUST-1844,Michael Brown,female,44,03/02/2022,"$81,800",548.0,35.0,New York,Yes
+CUST-1448,Emma Miller,Male,23,2022-07-14,"$64,600",637.0,20.0,San Francisco,no
+CUST-1445,Emily Johnson,Male,52,2024-07-14,"$89,700",662.0,23.0,Chicago,no
+CUST-1013,JOHN DAVIS,male,33,06/02/2019,"$55,400.00",738.0,30.0,New York,no
+ CUST-1630 ,Michael Miller,Male,52,"November 10, 2023","$85,400",707.0,88.0, NY ,Yes
+CUST-1798,David Jones,Female,61,05/01/2021,"$61,400",659.0,33.0,San Francisco,Yes
+CUST-1077,EMMA WILLIAMS,m,43,02-20-2022,"$70,900",658.0,12.0,New York,yes
+CUST-1084,James Rodriguez,Female,,2020-03-13,62200.0,,43.0,Chicago,No
+CUST-1582,  michael johnson  ,M,19,10-26-2024,"$48,400.00",641.0,30.0,San Francisco,N
+CUST-1082,Robert Smith,Male,37,2021-03-07,"$40,200.00",608.0,33.0, NY ,Yes
+CUST-1457,David Miller,Male,28,2020-03-07,"$96,100",554.0,73.0,Chicago,No
+CUST-1796,James Jones,Male,20,14/08/2021,"$67,400.00",648.0,58.0, NY ,No
+CUST-1436,Emily Brown,Female,52,"October 11, 2023",90000.0,622.0,48.0,New York,Yes
+ CUST-1890 ,JANE SMITH,Male,35,2020-11-05,72800.0,1050.0,61.0,New York,No
+CUST-1015,James Garcia,Female,58,"October 21, 2019","$42,700",518.0,91.0,New York,No
+CUST-1404,Sarah Davis,Male,32,"February 03, 2019","$15,000.00",999.0,85.0,Chicago,No
+CUST-1135,ROBERT WILLIAMS,Female,28,"October 20, 2020",71900.0,626.0,79.0,New York,Yes
+CUST-1668,Michael Garcia,Female,68,06-17-2020,-5000,789.0,85.0,SF,Yes
+CUST-1889,David Miller,male,24,invalid_date_str,"$84,600.00",715.0,79.0,San Francisco,YES
+CUST-1104,James Williams,Male,40,08/01/2020,"$57,100",833.0,90.0,New York,Yes
+CUST-1823,MICHAEL BROWN,M,60,"March 25, 2020","$100,700.00",600.0,88.0,new york,NO
+ CUST-1650 ,James Miller,Male,,19/04/2023,"$103,100",590.0,62.0,san francisco,Yes
+CUST-1062,Michael Davis,male,33,2023-09-06,"$39,200",715.0,180.0,San Francisco,Yes
+CUST-1281,James Davis,M,49,06-13-2020,46300.0,721.0,81.0,San Francisco,Yes
+CUST-1711,Michael Martinez,Male,67,16/09/2021,,595.0,34.0,San Francisco,No
+CUST-1238,Emily Martinez,Male,24,2023-01-08,79900.0,692.0,17.0,San Francisco,Yes
+CUST-1223,David Smith,Female,55,2019-01-01,"$87,800",,17.0,New York,No
+CUST-1145,James Miller,Male,54,"November 18, 2022","$63,700.00",999.0,79.0,Chicago,Yes
+CUST-1211,JAMES MILLER,Male,21,25/03/2022,"$55,700",706.0,47.0,San Francisco,true
+CUST-1373,SARAH SMITH,Male,25,,"$79,900",721.0,11.0,San Francisco,No
+CUST-1118,Robert Rodriguez,M,22,23/02/2024,"$99,500.00",596.0,93.0,San Francisco,YES
+CUST-1869,Michael Williams,Male,69,,"$62,500",779.0,27.0,New York,YES
+ CUST-1250 ,  david rodriguez  ,Male,40,03/10/2021,58400.0,608.0,88.0,New York,Yes
+CUST-1249,  olivia johnson  ,F,23,2019-03-17,"$63,600",698.0,89.0,new york,No
+CUST-1009,,Male,74,2020-07-26,47500.0,1050.0,17.0,new york,no
+CUST-1449,James Garcia,male,42,27/01/2023,41900.0,752.0,81.0,San Francisco,Yes
+CUST-1947,Robert Miller, Man ,25,09/10/2022,"$68,400",699.0,35.0,Chicago,YES
+CUST-1389,David Davis,Female,33,09-24-2020,"$48,500",787.0,15.0,San Francisco,Yes
+CUST-1672,Jane Miller,male,23,16/07/2023,39700.0,694.0,78.0,new york,N
+CUST-1026,Jane Johnson,Female,29,27/09/2020,"$2,500,000.00",640.0,44.0,Chicago,Y
+CUST-1557,John Williams,male,57,12-23-2023,79100.0,726.0,81.0,SF,Yes
+ CUST-1460 ,Emma Jones,male,31 yrs,"May 25, 2023",-5000,581.0,8.0,NYC,no
+,Emma Smith,Male,52,"March 26, 2023","$103,000.00",793.0,95.0,Chicago,no
+CUST-1144,EMILY WILLIAMS,male,59,28/02/2020,"$97,400",691.0,90.0,NYC,Yes
+CUST-1501,Jane Jones,Female,75,10/03/2021,"$92,600",698.0,11.0,chicago,no
+CUST-1199,Jane Garcia,Female,38,24/03/2023,"$60,100.00",640.0,57.0,New York,No
+CUST-1539,Emma Miller,F,55,01-08-2024,66400.0,800.0,,San Francisco,No
+CUST-1177,David Johnson,male,47,2022-08-27,"$85,000.00",637.0,47.0,chicago,No
+ CUST-1160 ,John Garcia,Male,70,"November 17, 2022","$57,400",999.0,9.0,chicago,
+CUST-1192,Sarah Rodriguez,Female,44,"June 02, 2019","$110,200.00",630.0,43.0,New York,Yes
+CUST-1628,  david smith  ,Male,19,,"$74,900.00",734.0,,New York,Yes
+CUST-1126,Robert Brown,Female,39,01-03-2022,"$49,400",565.0,91.0,San Francisco,No
+CUST-1007,Sarah Brown,female,210,2024-05-23,,840.0,42.0,san francisco,Yes
+CUST-1852,Emma Martinez,Male,69,2024-02-27,"$89,300.00",516.0,34.0,new york,yes
+,Michael Johnson,f,45 yrs,invalid_date_str,"$110,500.00",652.0,,,Y
+CUST-1357,Jane Miller,Female,42,04/08/2024,"$68,700.00",668.0,90.0,San Francisco,Yes
+CUST-1329,Jane Johnson,Female,68,2020-10-15,"$71,600.00",633.0,43.0,NYC,No
+CUST-1759,JANE SMITH,M,49,21/03/2019,90200.0,617.0,,Chicago,YES
+CUST-1899,Emily Rodriguez,Male,50,08/08/2022,63600.0,812.0,80.0,New York,N
+CUST-1258,David Rodriguez,Female,65,"July 04, 2023","$40,700.00",669.0,27.0,New York,Yes
+CUST-1941,Olivia Brown,Female,64,"April 17, 2019","$53,800.00",616.0,42.0,San Francisco,Yes
+CUST-1016,Emma Brown,Female,61,23/06/2019,"$18,900",682.0,1.0,New York,No
+CUST-1034,EMMA MARTINEZ,Male,63,"April 26, 2020","$125,300.00",682.0,,san francisco,Yes
+CUST-1156,Jane Garcia,female,75,"January 01, 2021","$36,900",593.0,6.0,SF,Yes
+CUST-1898,Robert Garcia,F,23,2019-12-07,"$85,200.00",773.0,11.0,San Francisco,Yes
+CUST-1525,,female,41,04-07-2020,"$42,500",682.0,86.0,NYC,true
+CUST-1881,Olivia Rodriguez,m,21,02-07-2020,"$82,100",646.0,51.0,Chicago,Yes
+CUST-1707,JOHN JOHNSON,male,25,13/11/2022,"$57,400",648.0,85.0,New York,Y
+CUST-1811,David Garcia,female,46,13/11/2021,"$60,400",743.0,39.0,New York,Y
+CUST-1233,Jane Rodriguez,male,56,20/03/2019,"$40,000",574.0,63.0,san francisco,N
+ CUST-1440 ,Emily Garcia,Female,33,"September 05, 2021",60300.0,670.0,39.0,San Francisco,no
+CUST-1531,Emma Davis,Male,40,26/10/2023,60100.0,738.0,92.0,San Francisco,NO
+CUST-1226,David Johnson,male,45,02-26-2019,"$24,000.00",657.0,90.0,Chicago,No
+CUST-1228,Emma Martinez,Female,32,"June 26, 2024","$53,300.00",740.0,12.0, NY ,Y
+ CUST-1130 ,Michael Smith,M,47,21/10/2022,"$32,700",655.0,20.0,San Francisco,yes
+CUST-1212,  jane johnson  ,female,59,11-20-2021,"$77,600.00",702.0,20.0,new york,NO
+CUST-1079,  olivia martinez  ,Female,150,06/05/2024,48700.0,682.0,,San Francisco,No
+CUST-1148,James Smith,Female,52 yrs,06/02/2022,N/A,557.0,145.0,New York,N
+CUST-1636,Emily Smith,female,43,12-28-2023,76000.0,669.0,33.0,SF,yes
+CUST-1762,John Garcia,male,24,2019-06-17,"$96,800.00",677.0,25.0,Chicago,Y
+CUST-1634,  emily davis  ,F,70,03-16-2019,62600.0,150.0,20.0,san francisco,Yes
+CUST-1133,John Williams,m,39,2021-08-21,"$2,500,000.00",574.0,14.0,new york,N
+CUST-1845,  emma johnson  ,male,64,"November 17, 2024","$80,400",550.0,81.0,New York,No
+CUST-1408,Michael Johnson, Man ,35 yrs,12-17-2023,"$64,100",776.0,32.0,New York,no
+CUST-1723,  olivia williams  ,m,74,2022-05-13,99300.0,774.0,35.0, NY ,No
+CUST-1507,David Williams,male,39,09-17-2023,"$43,100",,99.0,Chicago,No
+CUST-1142,Olivia Brown,Male,55,2023-01-14,"$26,900",617.0,90.0,San Francisco,no
+CUST-1504,Michael Davis,M,55,2022-07-11,,724.0,98.0,Chicago,Yes
+CUST-1186,Emma Brown,male,59,"November 11, 2022",,749.0,16.0, NY ,false
+CUST-1347,James Smith,,43,07/06/2023,"$49,100.00",590.0,70.0,Chicago,Yes
+CUST-1386,Emma Rodriguez,female,45,"February 18, 2019","$73,300",670.0,1.0,san francisco,NO
+ CUST-1000 ,Olivia Brown,male,31 yrs,06/04/2021,-5000,807.0,23.0,San Francisco,no
+ CUST-1360 ,Emily Garcia,Male,28 yrs,25/10/2021,"$83,900",595.0,37.0,chicago,Yes
+CUST-1226,David Garcia,Male,64,2021-05-12,"$68,500.00",120.0,13.0,Chicago,No
+CUST-1475,Emily Martinez,female,34,2023-01-18,"$46,900",656.0,88.0,new york,Yes
+CUST-1839,Michael Miller,Male,47,20/08/2019,"$79,800",999.0,37.0,New York,Y
+CUST-1813,Jane Martinez,male,40,"May 07, 2023","$88,500.00",644.0,53.0,NYC,NO
+,James Rodriguez,F,26,07/06/2022,80600.0,683.0,37.0,New York,No
+ CUST-1450 ,EMMA RODRIGUEZ, Man ,47,2020-09-19,,654.0,38.0,SF,yes
+CUST-1125,JANE BROWN,female,67,"August 01, 2019","$20,100",630.0,48.0,Chicago,Yes
+CUST-1731,John Martinez,M,72,"January 11, 2023",34100.0,624.0,23.0,NYC,YES
+ CUST-1530 ,  james garcia  ,male,62,2020-06-08,"$38,700",698.0,76.0,san francisco,N
+ CUST-1090 ,Emily Garcia,Male,26,13/09/2022,,683.0,27.0,chicago,Yes
+ CUST-1610 ,Michael Rodriguez,Female,56,12/11/2024,"$102,700.00",623.0,1.0,San Francisco,N
+CUST-1181,  olivia miller  ,Male,66,21/05/2020,"$73,800.00",642.0,32.0,San Francisco,N
+CUST-1708,James Smith,male,27,,"$82,800",722.0,62.0,New York,No
+CUST-1414,John Davis,Female,46,09-18-2019,"$59,300.00",840.0,60.0,New York,Yes
+CUST-1251,Jane Jones,Male,19,09/09/2021,"$76,200",693.0,27.0, NY ,no
+CUST-1069,,M,63,2019-04-05,"$80,400",566.0,62.0,Chicago,Yes
+CUST-1131,Jane Martinez,M,,2019-01-27,"$49,100.00",731.0,145.0,NYC,Yes
+ CUST-1300 ,Olivia Davis,Female,45 yrs,25/04/2019,"$50,100",709.0,85.0,San Francisco,No
+CUST-1223,David Garcia,Female,68,2024-05-28,112500.0,716.0,77.0,Chicago,Y
+CUST-1326,Robert Rodriguez,female,62,"December 17, 2022","$41,100.00",699.0,77.0,New York,false
+CUST-1532,DAVID MILLER,male,18,2020-06-15,"$43,300",721.0,89.0,new york,true
+CUST-1499,Olivia Williams,M,59,invalid_date_str,"$86,200.00",710.0,13.0,San Francisco,YES
+CUST-1715,James Garcia,F,39 yrs,10/05/2024,"$119,500",630.0,26.0,San Francisco,No
+CUST-1072,  michael miller  ,female,39,18/01/2024,"$69,500.00",578.0,10.0,New York,Yes
+CUST-1495,James Miller,Female,,13/06/2022,"$68,400.00",711.0,25.0,new york,NO
+CUST-1208,Michael Jones,F,68,07-20-2022,"$94,400",840.0,57.0,San Francisco,Y
+CUST-1338,James Martinez, Man ,31,05-16-2022,"$79,100",831.0,80.0,New York,N
+CUST-1421,Jane Garcia,Female,70,"September 10, 2019","$63,500.00",501.0,50.0,SF,N
+CUST-1164,DAVID BROWN,Female,32,2023-09-11,"$67,400.00",753.0,,chicago,Y
+CUST-1028,Michael Williams,Male,37,"September 23, 2021",22400.0,717.0,100.0, NY ,N
+CUST-1516,John Martinez,M,30,15/01/2024,"$90,600.00",608.0,14.0,New York,no
+CUST-1193,Michael Johnson,Male,62,2023-11-13,"$79,500",700.0,49.0,San Francisco,No
+CUST-1682,James Garcia,female,66,2020-12-01,68200.0,602.0,96.0,San Francisco,No
+CUST-1841,Michael Williams,Female,41,2019-07-23,"$65,800",636.0,7.0,new york,No
+CUST-1169,John Williams,Male,68,invalid_date_str,,702.0,,NYC,yes
+CUST-1764,EMMA GARCIA,male,60,04-17-2023,"$72,400.00",789.0,56.0,Chicago,No
+CUST-1652,Emily Smith,Female,73,2024-03-01,N/A,625.0,84.0,new york,true
+CUST-1173,Emily Miller,male,70,2021-08-07,"$66,300",576.0,94.0,san francisco,N
+CUST-1518,James Garcia,Female,34,invalid_date_str,"$93,800.00",748.0,10.0,Chicago,No
+CUST-1046,David Davis,M,47,07-19-2021,"$80,300.00",,36.0,New York,No
+CUST-1756,JOHN JOHNSON,female,41,04-11-2023,"$71,600",644.0,65.0,Chicago,No
+CUST-1491,JAMES SMITH,Female,30 yrs,07/07/2019,"$30,500.00",684.0,56.0,NYC,Yes
+CUST-1073,John Brown,male,36,18/11/2023,N/A,817.0,4.0,Chicago,No
+CUST-1091,  michael garcia  ,Female,27,2021-09-26,43900.0,703.0,19.0,San Francisco,true
+CUST-1587,Jane Martinez,Female,73,10-11-2021,"$39,800.00",683.0,75.0,,Yes
+CUST-1657,James Smith,Female,51,2024-05-27,90900.0,756.0,20.0,New York,No
+CUST-1234,Sarah Rodriguez,Female,,"July 23, 2019","$78,800",662.0,60.0,New York,Yes
+CUST-1214,Emily Davis,Female,31,"September 10, 2020","$51,700",625.0,21.0,san francisco,yes
+CUST-1162,  sarah johnson  ,Male,48,02-06-2022,"$79,000",685.0,88.0,new york,no
+,John Smith,Female,32,2019-01-04,"$64,400",999.0,50.0,New York,no
+CUST-1838,James Rodriguez,M,31,12-05-2021,"$47,300.00",709.0,51.0,Chicago,YES
+CUST-1843,Emma Smith,M,58,24/05/2024,65400.0,740.0,14.0,New York,no
+CUST-1068,Robert Martinez,F,55,2019-08-24,"$96,600",780.0,21.0,new york,no
+CUST-1185,Jane Jones,Female,26,27/12/2019,"$42,000",597.0,71.0,New York,N
+CUST-1041,Emily Jones,M,48,"December 25, 2022",-5000,590.0,3.0,San Francisco,Yes
+CUST-1108,Jane Smith,Male,43,06-02-2020,"$34,300",646.0,40.0,San Francisco,Yes
+CUST-1921,Jane Miller,M,210,03-06-2020,"$86,000",669.0,68.0,new york,no
+CUST-1568,James Martinez,female,66,11/12/2023,"$47,200.00",779.0,51.0,new york,Yes
+CUST-1003,JOHN MILLER,Male,25,04-11-2020,"$66,600",604.0,41.0,New York,yes
+CUST-1103,Olivia Smith,f,67,27/08/2024,32400.0,777.0,40.0,Chicago,Yes
+CUST-1247,David Martinez,Female,67,2019-05-20,"$42,400.00",,20.0,New York,true
+CUST-1483,SARAH JONES,female,38,25/01/2023,"$22,800.00",775.0,67.0, NY ,no
+CUST-1468,Jane Johnson,Female,52,10-20-2019,45600.0,736.0,28.0, NY ,No
+CUST-1024,  john johnson  ,Female,59,2021-04-26,49700.0,772.0,63.0,New York,No
+CUST-1149,David Johnson,Female,66,2023-09-22,61800.0,603.0,51.0,San Francisco,No
+ CUST-1730 ,Emily Miller,Female,61,08-02-2020,"$73,900",642.0,84.0,San Francisco,no
+CUST-1812,James Williams,M,72,07-27-2019,"$89,400",567.0,56.0,New York,Yes
+CUST-1239,James Miller,m,67,13/10/2024,"$92,700.00",688.0,97.0,Chicago,N
+CUST-1366,David Jones,male,24 yrs,2022-08-21,"$50,900",750.0,92.0,Chicago,No
+CUST-1911,Michael Williams,Female,18,06-10-2019,"$24,900.00",619.0,29.0,San Francisco,No
+CUST-1143,James Brown,Male,46,07-27-2019,"$16,200.00",639.0,5.0,San Francisco,YES
+CUST-1383,Emma Williams,Male,53,2019-08-04,66100.0,609.0,93.0,San Francisco,Yes
+CUST-1454,,M,37,"February 23, 2023",42400.0,719.0,98.0,San Francisco,no
+CUST-1264,Jane Smith,male,28,07/08/2022,"$95,900.00",714.0,24.0,SF,No
+ CUST-1820 ,Emma Davis,male,57,"January 12, 2024",,675.0,19.0,new york,yes
+CUST-1232,Emily Brown, Man ,61,2019-04-19,71900.0,756.0,38.0,san francisco,false
+CUST-1444,James Brown,female,49,11-21-2021,"$71,800",683.0,65.0,Chicago,No
+CUST-1395,Sarah Rodriguez,Female,52,invalid_date_str,"$44,300",625.0,55.0,San Francisco,no
+CUST-1131,  robert jones  ,Male,45,2023-10-10,"$48,100",533.0,62.0,NYC,true
+CUST-1176,Michael Johnson,Male,23,,56600.0,697.0,45.0,san francisco,Yes
+CUST-1018,Michael Smith,M,39,2024-11-13,"$50,300.00",150.0,67.0,New York,Yes
+CUST-1141,Olivia Davis,male,19,05-17-2022,33400.0,739.0,75.0,Chi-Town,Yes
+ CUST-1760 ,Sarah Smith,Female,19,2023-08-09,72200.0,668.0,21.0,new york,No
+ CUST-1900 ,Sarah Rodriguez,Male,61,10/07/2020,"$15,000",759.0,145.0,San Francisco,Yes
+CUST-1595,John Miller,Female,64,,"$92,400.00",644.0,98.0,Chicago,Yes
+CUST-1061,Emma Jones,male,73,2023-02-15,"$86,500",719.0,79.0,new york,No
+CUST-1272,Robert Johnson,Male,72,14/11/2024,"$73,500.00",612.0,38.0,Chicago,Y
+CUST-1218,OLIVIA RODRIGUEZ,male,61,06-08-2019,"$69,200.00",617.0,95.0,New York,yes
+CUST-1278,Robert Garcia,Male,,08-27-2023,77200.0,666.0,95.0,san francisco,yes
+CUST-1182,Michael Martinez,Woman,37,2024-03-19,"$69,800.00",,37.0,San Francisco,No
+CUST-1694,Emma Miller,Female,48,07/08/2020,"$57,900",696.0,75.0,San Francisco,No
+CUST-1368,Robert Miller,Female,75,"June 21, 2021",N/A,587.0,32.0,San Francisco,Yes
+CUST-1011,Jane Rodriguez,Male,44,17/11/2024,"$76,000.00",595.0,7.0,New York,YES
+CUST-1887,Sarah Davis,male,26,20/05/2024,"$103,200",603.0,5.0,San Francisco,No
+CUST-1932,Olivia Brown,Female,27,2019-10-24,"$62,300.00",,,Chicago,No
+CUST-1904,Robert Davis,male,25,03-22-2019,,999.0,,New York,No
+CUST-1834,Robert Jones,Male,72,2024-09-08,"$66,100.00",637.0,9.0,San Francisco,Y
+CUST-1547,Sarah Johnson,Male,24,,"$56,000",682.0,,chicago,No
+CUST-1054,Jane Jones,male,58,2024-04-04,46300.0,768.0,62.0,chicago,Yes
+CUST-1688,OLIVIA MILLER,f,36,,"$80,900.00",657.0,29.0,Chicago,No
+CUST-1166,Sarah Brown, Man ,,28/06/2020,"$76,500.00",829.0,53.0,,No
+CUST-1456,Sarah Johnson,Male,70,01/02/2019,37700.0,679.0,14.0,,Yes
+CUST-1393,Emily Miller,F,48,09/04/2020,73600.0,640.0,7.0,,
+CUST-1675,Robert Martinez,Male,43 yrs,09-28-2024,"$63,000.00",572.0,83.0,new york,N
+CUST-1038,James Smith,male,60,11-17-2020,"$59,700",999.0,35.0,,Y
+CUST-1728,Jane Martinez,Male,33,2024-12-22,"$30,300.00",570.0,91.0,chicago,Yes
+CUST-1419,David Garcia,Male,35,25/06/2021,"$43,400.00",793.0,73.0,san francisco,No
+CUST-1375,JAMES MARTINEZ,Female,44,2024-01-09,49600.0,700.0,9.0,San Francisco,Yes
+CUST-1412,Emma Jones,male,28,2024-07-11,"$15,000",830.0,2.0,san francisco,Yes
+CUST-1074,ROBERT BROWN,male,40,12-27-2021,,610.0,85.0,New York,No
+CUST-1214,Emily Rodriguez,female,42,14/07/2021,"$15,000.00",610.0,,Chicago,No
+CUST-1935,Michael Davis,Female,,2021-10-26,"$81,100.00",1050.0,28.0,san francisco,no
+ CUST-1500 ,Jane Martinez,F,36,2022-09-05,"$91,900",737.0,99.0,san francisco,Yes
+CUST-1867,David Jones,male,25,05/01/2021,,677.0,13.0,Chicago,
+CUST-1616,Robert Brown,Female,26,25/12/2024,"$84,300",612.0,16.0, NY ,Yes
+CUST-1114,Emma Johnson,Male,52,02-11-2023,"$70,600.00",671.0,18.0,new york,No
+CUST-1417,Michael Williams,Female,65,09-05-2019,-5000,666.0,92.0,Chicago,yes
+CUST-1601,John Miller,F,67,2021-05-04,"$52,900",662.0,72.0,San Francisco,No
+CUST-1604,MICHAEL MILLER,M,20,"October 06, 2024","$43,900",775.0,53.0,San Francisco,Yes
+CUST-1089,Emily Jones,M,75,"January 27, 2024","$38,900",546.0,27.0,Chicago,no
+CUST-1893,Olivia Jones,F,30,05/07/2021,"$85,500",623.0,10.0,Chicago,yes
+CUST-1241,Olivia Brown,female,29,11-12-2023,"$62,900",678.0,1.0,Chicago,Y
+,  emily jones  ,Male,70,27/08/2023,"$52,500",736.0,10.0,new york,Yes
+CUST-1498,EMILY WILLIAMS,Female,56,13/07/2021,"$63,100.00",632.0,50.0,Chicago,Y
+ CUST-1000 ,James Miller,F,35,2021-04-25,71800.0,573.0,20.0,San Francisco,yes
+CUST-1156,Jane Garcia,female,75,"January 01, 2021","$36,900",593.0,6.0,SF,Yes
+CUST-1244,James Smith,M,31,2024-12-09,101400.0,680.0,76.0,Chicago,yes
+CUST-1011,Jane Martinez,Male,66,,,722.0,21.0, NY ,Yes
+CUST-1396,Jane Garcia,female,38,2023-08-01,"$56,800",588.0,94.0,San Francisco,false
+CUST-1814,Sarah Jones,Male,75,12/12/2024,43000.0,644.0,26.0,SF,NO
+CUST-1555,Michael Miller,M,53,06-04-2022,"$59,100",667.0,43.0,New York,no
+CUST-1042,Emily Rodriguez,M,51,,"$75,100",546.0,16.0,new york,N
+CUST-1167,DAVID MARTINEZ,male,28,2023-10-13,"$52,300.00",614.0,67.0, NY ,Yes
+CUST-1416,Sarah Garcia,Female,44 yrs,19/08/2020,"$71,400",629.0,45.0,San Francisco,Yes
+CUST-1576,Michael Brown,F,63,"January 27, 2019","$73,500.00",597.0,99.0,san francisco,Yes
+CUST-1267,MICHAEL GARCIA,Male,31,10/11/2023,"$60,700.00",,83.0,San Francisco,no
+CUST-1874,Robert Martinez,female,55,"May 04, 2023","$2,500,000.00",670.0,11.0,San Francisco,Y
+CUST-1426,Emma Williams,Male,,invalid_date_str,"$45,700",652.0,89.0, NY ,yes
+ CUST-1690 ,James Brown,male,26,"March 02, 2022",112900.0,623.0,15.0,san francisco,No
+CUST-1544,  james johnson  ,female,150,,"$65,600.00",1050.0,73.0,New York,No
+CUST-1215,Olivia Davis,Male,36,2023-10-26,"$57,500.00",703.0,49.0,New York,Yes
+CUST-1674,  jane garcia  ,male,37,11/06/2024,"$75,600",595.0,18.0, NY ,yes
+CUST-1689,Robert Johnson,Male,26,10/11/2021,"$83,600",1050.0,63.0,San Francisco,Yes
+CUST-1904,Robert Davis,male,25,03-22-2019,,999.0,,New York,No
+CUST-1063,John Rodriguez,Male,60,2024-03-21,-5000,627.0,,New York,Yes
+CUST-1159,Emma Garcia,male,31,2024-08-28,"$56,100.00",817.0,54.0,San Francisco,YES
+CUST-1008,John Garcia,male,27,2024-11-23,"$59,200.00",639.0,8.0,new york,YES
+CUST-1257,EMMA MILLER,male,37,10-24-2024,"$112,700",764.0,33.0,Chicago,No
+CUST-1918,David Johnson,female,185,03-12-2021,"$67,600.00",726.0,50.0,Chicago,YES
+CUST-1335,Jane Williams,Female,46,2021-01-17,-5000,763.0,33.0,New York,yes
+CUST-1015,  emily rodriguez  ,m,,10-10-2020,69800.0,,55.0,NYC,Y
+,Emma Davis, Man ,73,19/06/2020,30600.0,718.0,27.0,Chicago,No
+CUST-1324,Jane Davis,f,42,"June 09, 2021",82800.0,660.0,180.0,SF,Yes
+CUST-1768,Robert Martinez,male,,07-08-2021,"$53,100",553.0,32.0,NYC,Y
+CUST-1607,Emily Jones,Male,51 yrs,08-20-2023,,588.0,91.0,San Francisco,Yes
+CUST-1144,Emma Martinez,Female,-12,2024-04-13,"$52,000.00",,28.0,Chicago,YES
+CUST-1855,  emily williams  ,m,53,04-13-2023,"$69,300.00",683.0,17.0,New York,N
+CUST-1155,Olivia Williams, Man ,65,2024-11-25,"$49,200.00",762.0,,Chicago,Yes
+CUST-1222,Olivia Miller,male,35,12-19-2021,"$37,700",638.0,31.0,,No
+,Emily Brown,,57,12-24-2021,86200.0,721.0,64.0,New York,Yes
+,  john brown  ,Male,22,12/02/2021,88300.0,634.0,48.0,new york,No
+CUST-1757,  david martinez  ,Female,26,04-17-2020,"$63,500.00",832.0,74.0,San Francisco,No
+CUST-1521,David Johnson,Male,23,03-27-2020,"$93,600.00",814.0,25.0,Chicago,No
+CUST-1761,Michael Smith,Male,48,"February 03, 2019","$25,300.00",714.0,94.0,new york,No
+CUST-1022,Robert Jones,Female,74,"July 13, 2023",54100.0,688.0,13.0,Chicago,No
+CUST-1356,  robert davis  ,F,56,"May 03, 2024",79400.0,637.0,35.0,SF,yes
+CUST-1733,James Johnson,female,52,"October 04, 2022",96400.0,563.0,49.0,Chicago,no
+CUST-1082,Robert Johnson,male,67,2021-08-13,"$41,900.00",596.0,45.0,new york,No
+CUST-1203,Olivia Garcia,Female,60,06-15-2022,"$71,100",590.0,75.0,San Francisco,no
+CUST-1611,Michael Davis,M,60,15/04/2021,"$60,700.00",569.0,41.0,San Francisco,No
+CUST-1108,Emily Garcia,male,19,22/08/2023,,674.0,49.0,San Francisco,no
+ CUST-1340 ,SARAH MILLER,Male,37,07/05/2019,36000.0,707.0,67.0,Chicago,yes
+CUST-1431,  jane miller  ,m,35,11-03-2021,"$32,800.00",706.0,39.0,San Francisco,no
+CUST-1846,James Rodriguez,male,,19/04/2019,"$54,900.00",584.0,8.0,San Francisco,Yes
+CUST-1217,  david williams  ,Female,,2023-12-05,"$66,000.00",749.0,65.0,chicago,Yes
+CUST-1203,Robert Smith,Male,52,07/04/2019,46100.0,707.0,35.0,New York,no
+CUST-1122,James Jones,male,48,04-18-2022,56500.0,654.0,57.0,San Francisco,NO
+CUST-1049,John Davis,Female,73,10-16-2021,"$77,500",657.0,29.0,new york,Yes
+CUST-1093,Olivia Martinez,Male,,2024-06-21,93800.0,840.0,45.0,NYC,Yes
+CUST-1864,Robert Martinez,Female,64,,92700.0,779.0,,Chicago,no
+CUST-1068,James Johnson,Male,74,24/09/2024,"$81,000.00",693.0,89.0,Chicago,No
+,Sarah Williams,Female,71,07-13-2020,,542.0,2.0,Chicago,no
+CUST-1284,  jane smith  ,Male,24,12-26-2021,"$62,900.00",762.0,85.0,New York,Yes
+CUST-1696,James Rodriguez,F,58 yrs,25/06/2023,,526.0,95.0,NYC,No
+CUST-1085,Sarah Smith,Male,44 yrs,2024-09-15,"$97,300",545.0,180.0,San Francisco,N
+CUST-1434,Emily Davis,Female,21,2024-11-15,"$83,000.00",682.0,75.0,new york,no
+CUST-1861,Emma Miller,M,39 yrs,08-12-2023,"$48,700.00",788.0,31.0,new york,yes
+CUST-1153,Robert Brown,Female,41,17/02/2020,"$69,800.00",626.0,76.0,New York,yes
+CUST-1075,Robert Smith,Female,33,03-09-2019,"$66,800.00",652.0,86.0,SF,Yes
+CUST-1192,David Garcia,Female,73,2021-12-07,"$65,500",759.0,43.0,NYC,Yes
+CUST-1789,David Davis,Female,31,16/08/2022,"$70,400.00",684.0,93.0,Chicago,Yes
+ CUST-1580 ,John Davis,m,66,,95100.0,720.0,88.0,New York,No
+CUST-1446,David Davis,M,,invalid_date_str,"$79,000.00",717.0,57.0,New York,no
+CUST-1703,  sarah davis  ,male,62,"February 20, 2019",58400.0,566.0,42.0,SF,no
+CUST-1188,  michael johnson  ,m,38,08/05/2024,65700.0,495.0,31.0,new york,yes
+CUST-1271,Emma Jones,Male,38,2019-08-24,"$34,200.00",683.0,38.0,New York,yes
+CUST-1236,David Garcia,Female,52,06/09/2022,67800.0,574.0,71.0,New York,yes
+CUST-1487,  david martinez  ,Male,31,"June 02, 2023",88900.0,677.0,,Chi-Town,Y
+CUST-1841,Michael Williams,Female,41,2019-07-23,"$65,800",636.0,7.0,new york,No
+CUST-1559,Olivia Davis,Male,54,"March 06, 2023","$47,300.00",708.0,68.0,San Francisco,no
+CUST-1117,Jane Rodriguez,Male,67,2020-06-13,"$97,500.00",639.0,79.0,new york,no
+CUST-1637,Emily Davis,female,51,2021-05-11,"$15,000.00",,87.0,NYC,false
+CUST-1168,Sarah Jones,Male,36,invalid_date_str,"$52,200.00",597.0,34.0,san francisco,No
+CUST-1801,JAMES DAVIS,Male,51,"August 11, 2023","$77,700",744.0,85.0,San Francisco,Yes
+ CUST-1750 ,Olivia Williams,male,,12/03/2019,"$56,300",613.0,10.0,Chicago,No
+CUST-1512,Olivia Garcia,Female,34,08/07/2019,42400.0,675.0,79.0,Chicago,N
+CUST-1633,  jane miller  ,Female,53,"November 27, 2024","$36,000",,6.0,Chicago,no
+CUST-1849,John Brown,Male,44,2022-10-22,"$33,700",613.0,79.0,New York,Yes
+CUST-1105,,m,33 yrs,06-11-2021,"$34,400",,10.0,SF,No
+CUST-1925,John Brown,Female,22,2023-02-12,"$80,300.00",619.0,67.0,New York,YES
+CUST-1126,Robert Brown,Female,39,01-03-2022,"$49,400",565.0,91.0,San Francisco,No
+ CUST-1790 ,James Rodriguez,Male,36 yrs,2022-07-07,N/A,602.0,16.0,Chicago,YES
+CUST-1829,Jane Davis,Male,70,03/12/2020,"$40,900.00",680.0,25.0,new york,N
+CUST-1116,SARAH MILLER,female,74,12-08-2020,"$25,100.00",654.0,18.0,New York,true
+CUST-1473,Jane Johnson,Female,34,"May 09, 2021","$38,000.00",723.0,67.0,chicago,Yes
+ CUST-1740 ,  david davis  ,Male,64,24/03/2024,62400.0,668.0,21.0,new york,Y
+ CUST-1100 ,Olivia Garcia,female,41 yrs,2021-02-28,N/A,662.0,33.0, NY ,Y
+CUST-1057,Emma Davis,M,58 yrs,24/11/2023,"$57,200.00",736.0,31.0,New York,No
+CUST-1603,,M,58,08-24-2020,"$75,700",670.0,41.0,San Francisco,N
+CUST-1786,DAVID SMITH,male,24,2023-06-06,43100.0,663.0,47.0,Chicago,No
+ CUST-1830 ,Michael Johnson,male,19,2019-10-21,,607.0,14.0,New York,yes
+CUST-1119,James Miller,Male,42,04-07-2019,"$86,700.00",661.0,40.0,San Francisco,yes
+CUST-1656,Emma Rodriguez,female,50,2019-02-16,"$76,200.00",703.0,44.0,san francisco,yes
+CUST-1028,James Johnson,Woman,75,"October 22, 2021","$36,000.00",700.0,20.0,San Francisco,No
+CUST-1048,Sarah Brown,F,28,2024-07-26,"$60,400.00",715.0,49.0,New York,yes
+CUST-1105,Robert Davis,Male,34 yrs,22/10/2021,"$55,500",681.0,73.0, NY ,No
+CUST-1635,  emma jones  ,m,61,11/10/2023,"$34,000",661.0,90.0,New York,Yes
+CUST-1369,OLIVIA JONES,Woman,48,20/06/2023,"$65,100.00",739.0,73.0,San Francisco,Yes
+CUST-1268,Olivia Johnson,Male,73,2020-09-28,"$97,700.00",684.0,82.0,San Francisco,yes
+CUST-1655,  emily rodriguez  ,M,,2024-03-18,63800.0,653.0,60.0,New York,No
+CUST-1819,James Garcia,F,75,14/11/2019,,681.0,32.0,new york,YES
+CUST-1822,Michael Williams,Female,45,"January 07, 2020","$59,900.00",792.0,75.0,New York,YES
+CUST-1046,John Brown,Female,51,2019-02-03,"$48,500.00",545.0,27.0,San Francisco,Y
+CUST-1349,  robert davis  ,Male,58,2024-07-21,"$88,200.00",720.0,32.0,Chicago,Y
+CUST-1773,John Rodriguez,male,39,08-03-2022,"$49,400",,9.0,New York,No
+CUST-1195,Michael Garcia, Man ,56,"February 10, 2023","$52,200.00",647.0,,New York,No
+CUST-1102,Emma Jones,Woman,23,07/04/2021,,642.0,94.0,NYC,YES
+CUST-1004,Emily Garcia, Man ,67,05-06-2022,"$33,700",635.0,28.0,San Francisco,Yes
+CUST-1619,Sarah Martinez,Female,57 yrs,09/10/2019,"$82,500.00",553.0,46.0,San Francisco,Yes
+CUST-1571,Olivia Johnson,female,61,13/04/2023,"$34,400",673.0,62.0,new york,Yes
+CUST-1052,Robert Rodriguez,m,75,28/12/2024,"$36,500.00",660.0,61.0,San Francisco,NO
+CUST-1263,Sarah Miller,Male,31,2019-07-02,65700.0,641.0,71.0,,no
+CUST-1184,John Williams,F,60,11/06/2022,51600.0,664.0,35.0,San Francisco,YES
+CUST-1443,Emma Miller,Male,18,"June 12, 2019","$79,400",583.0,100.0,Chicago,Yes
+CUST-1086,Emma Johnson,Male,52,04-16-2024,"$86,400",652.0,16.0,new york,yes
+CUST-1782,David Martinez,Male,65,2021-07-21,"$107,800",769.0,36.0,New York,No
+CUST-1837,Sarah Johnson,Male,36,07/02/2022,"$77,300",580.0,84.0,New York,N
+CUST-1919,David Smith,male,69,10/03/2020,54200.0,756.0,94.0,San Francisco,Y
+CUST-1691,John Jones,female,58,"January 02, 2023","$67,200",682.0,69.0,New York,
+CUST-1304,David Garcia,male,60,2022-08-23,111500.0,732.0,72.0,Chicago,Yes
+CUST-1341,Emily Smith,F,42,25/03/2020,"$103,200",684.0,73.0,San Francisco,N
+ CUST-1940 ,EMILY MARTINEZ,Female,70,"September 16, 2022","$60,400.00",758.0,54.0,new york,Yes
+CUST-1313,,male,47,"August 15, 2024","$61,100.00",801.0,49.0,new york,yes
+CUST-1149,Olivia Garcia,Male,34,18/04/2023,"$73,100.00",,1.0,Chicago,No
+CUST-1124,Olivia Brown,m,51,23/08/2023,"$60,700.00",,30.0,SF,No
+CUST-1153,John Williams,Male,,26/05/2019,"$35,600.00",676.0,48.0,New York,N
+CUST-1574,Emily Johnson,Male,27 yrs,11/05/2023,"$62,800",807.0,65.0,new york,Yes
+CUST-1697,ROBERT RODRIGUEZ,Other,33,2023-05-22,"$66,400.00",806.0,21.0,New York,yes
+CUST-1664,DAVID RODRIGUEZ,M,50,04-26-2024,"$15,900.00",738.0,72.0,chicago,No
+ CUST-1050 ,Emily Garcia,Female,25,2020-05-22,"$101,500.00",668.0,42.0,San Francisco,No
+CUST-1933,  emma brown  ,Male,65,2019-05-19,"$70,000.00",769.0,2.0,San Francisco,Yes
+CUST-1726,  david smith  ,Other,31 yrs,"September 22, 2024","$70,300.00",669.0,98.0,San Francisco,Yes
+CUST-1799,David Johnson,female,54,11-13-2024,"$42,400",704.0,77.0,san francisco,No
+CUST-1833,  michael martinez  ,f,57,2021-03-02,"$79,100.00",791.0,33.0,New York,no
+CUST-1353,Sarah Davis,Female,39,"September 23, 2024","$57,600",713.0,87.0,san francisco,No
+CUST-1245,David Rodriguez,female,35,18/06/2023,"$58,000",604.0,91.0,chicago,No
+CUST-1142,James Williams,female,29,27/10/2020,"$69,800.00",654.0,25.0,new york,Yes
+ CUST-1470 ,Michael Martinez,male,24,01/03/2019,"$77,000",605.0,35.0,San Francisco,yes
+CUST-1053,Sarah Martinez,Woman,,"November 22, 2020",65400.0,702.0,29.0,New York,yes
+CUST-1653,James Rodriguez,,,"December 22, 2021",15000,647.0,32.0,NYC,yes
+CUST-1399,Olivia Miller,Male,64,2021-12-10,"$106,500.00",820.0,70.0,,No
+CUST-1023,John Smith,male,29,07/04/2020,48000.0,820.0,37.0, NY ,No
+CUST-1042,David Brown,Female,18,09-20-2021,"$77,800",740.0,9.0,Chicago,YES
+ CUST-1320 ,Sarah Garcia,Female,55,2022-03-08,"$97,500",645.0,24.0,new york,No
+CUST-1019,David Johnson,Male,56,01-28-2021,"$60,800.00",575.0,66.0,,true
+CUST-1684,Emily Rodriguez,female,26,01-13-2021,,705.0,53.0,chicago,Yes
+CUST-1035,Michael Jones,Female,40,03-20-2020,,623.0,50.0,new york,true
+CUST-1824,Sarah Williams,f,70,2024-09-23,,716.0,59.0,New York,yes
+CUST-1902,John Jones,male,69,01-04-2020,"$67,600.00",685.0,,new york,No
+CUST-1505,Olivia Brown,m,62,20/07/2023,"$39,000",777.0,68.0,San Francisco,Yes
+CUST-1827,Emma Brown,f,46,09/12/2023,"$94,200.00",712.0,66.0,Chicago,Y
+CUST-1162,Olivia Martinez,Female,33,28/05/2020,"$75,600.00",742.0,81.0,Chicago,No
+CUST-1407,David Garcia,Male,72,27/05/2023,"$83,300.00",761.0,100.0,NYC,
+CUST-1817,  michael smith  ,Male,53,06-19-2019,"$68,400",813.0,145.0,Chicago,Yes
+CUST-1866,John Davis,male,31,10-26-2021,"$66,100.00",796.0,57.0,Chicago,No
+CUST-1537,David Davis,M,36,06-26-2023,"$29,800",664.0,57.0,New York,NO
+CUST-1758,Robert Miller,Female,27,2023-10-20,"$85,700.00",688.0,34.0,Chicago,Yes
+CUST-1161,John Johnson,Female,45,invalid_date_str,80900.0,,35.0,san francisco,no
+CUST-1018,Sarah Williams,M,43,02-22-2021,"$48,200.00",589.0,45.0,San Francisco,Yes
+CUST-1038,  michael smith  ,F,50,12/10/2019,"$37,500.00",748.0,72.0,Chicago,no
+CUST-1175,Emily Brown,Male,54,invalid_date_str,107300.0,629.0,37.0,New York,NO
+CUST-1245,Sarah Brown,male,75,2019-01-11,"$81,800",799.0,46.0,Chicago,No
+ CUST-1810 ,Olivia Williams,F,18,"October 05, 2021","$58,900.00",744.0,9.0,San Francisco,Yes
+CUST-1531,Emma Davis,Male,40,26/10/2023,60100.0,738.0,92.0,San Francisco,NO
+CUST-1083,EMILY WILLIAMS,female,42,21/11/2022,"$54,900",644.0,83.0,New York,No
+CUST-1784,Emily Martinez,Male,49 yrs,15/04/2021,"$53,200.00",673.0,31.0,new york,YES
+CUST-1106,Emily Miller,male,73,"March 14, 2022","$23,500.00",691.0,,san francisco,No
+CUST-1489,  robert brown  ,Female,29,2019-06-03,"$2,500,000.00",621.0,98.0,San Francisco,No
+CUST-1154,Robert Davis, Man ,74,15/11/2023,"$77,800",683.0,67.0,Chi-Town,No
+CUST-1638,James Davis,male,,19/07/2023,N/A,669.0,97.0,San Francisco,N
+CUST-1662,EMMA MILLER,m,26,06-24-2020,"$90,300.00",646.0,14.0,san francisco,YES
+CUST-1853,Olivia Garcia, Man ,58,28/02/2023,37500.0,729.0,,San Francisco,Yes
+CUST-1287,Emily Smith,male,-3,2023-02-12,"$64,300",571.0,23.0,SF,Yes
+CUST-1625,Emma Rodriguez,M,39,2021-02-09,72500.0,552.0,43.0,NYC,No
+CUST-1219,Michael Martinez,F,185,03/02/2023,,709.0,,san francisco,Yes
+CUST-1685,Jane Johnson,Male,,05/05/2019,"$67,100.00",591.0,50.0,San Francisco,no
+CUST-1193,  emma jones  ,M,53,11-26-2020,"$26,000.00",709.0,74.0,Chicago,no
+CUST-1946,John Martinez,male,33,06-13-2021,"$43,900.00",808.0,37.0,New York,Yes
+CUST-1569,  jane garcia  ,Female,48,2020-07-25,"$89,600.00",686.0,87.0,New York,Y
+,Robert Jones,m,,11-11-2022,"$42,600.00",829.0,,New York,Y
+CUST-1734,James Rodriguez,Male,60 yrs,26/10/2024,73200.0,528.0,57.0,,no
+CUST-1792,SARAH MARTINEZ,Female,59,2020-10-24,64500.0,,3.0,San Francisco,Yes
+CUST-1017,John Jones,Female,40,06/05/2021,"$85,000.00",695.0,7.0,New York,no
+CUST-1127,JANE MARTINEZ,male,26,10-01-2024,"$76,600",597.0,84.0,Chicago,Yes
+CUST-1322,,female,24,06/07/2019,"$15,000",706.0,81.0,san francisco,No
+CUST-1255,Sarah Jones,male,23,2020-07-17,"$62,600",669.0,27.0,san francisco,No
+CUST-1237,Sarah Johnson,M,64,2019-08-22,"$93,100",653.0,99.0,SF,No
+CUST-1927,Sarah Rodriguez,Female,50,2023-11-23,107800.0,,1.0,San Francisco,N
+CUST-1878,EMMA MILLER,Male,54,08/02/2023,71200.0,705.0,25.0,NYC,yes
+ CUST-1190 ,Emily Miller,male,32,"October 13, 2020","$56,500.00",745.0,13.0,San Francisco,Yes
+CUST-1115,John Davis,Male,60,06-26-2022,"$89,800.00",709.0,88.0, NY ,YES
+CUST-1602,John Smith,Female,62,2019-12-06,36200.0,688.0,73.0,Chicago,YES
+CUST-1014,  john brown  ,female,48,09/07/2019,78300.0,759.0,,New York,true
+CUST-1606,SARAH DAVIS,male,66,13/07/2024,"$69,000",735.0,66.0,San Francisco,No
+ CUST-1180 ,Robert Smith,Female,,2024-09-16,86300.0,728.0,38.0,San Francisco,Y
+CUST-1301,Michael Davis,Male,39 yrs,"March 25, 2022","$2,500,000.00",785.0,38.0,new york,No
+CUST-1496,  emma davis  ,Female,41,"August 27, 2024","$59,300.00",717.0,48.0,New York,yes
+CUST-1348,EMILY WILLIAMS,Male,60,"April 23, 2020","$39,200",767.0,65.0,SF,Yes
+CUST-1125,Olivia Johnson,Male,67,"March 23, 2020","$26,800.00",703.0,20.0,Chicago,no
+CUST-1036,James Johnson,Female,59,2019-07-19,"$49,500",713.0,70.0,new york,No
+CUST-1744,Emily Miller,female,33,2024-08-13,"$53,700.00",,93.0,San Francisco,No
+CUST-1396,Jane Garcia,female,38,2023-08-01,"$56,800",588.0,94.0,San Francisco,false
+ CUST-1080 ,Robert Miller,Male,25,2022-05-23,77600.0,593.0,40.0,SF,Yes
+CUST-1517,SARAH DAVIS,female,,"March 03, 2020",106600.0,757.0,85.0,San Francisco,Yes
+CUST-1372,John Garcia,Male,69,10-13-2021,"$69,300",619.0,59.0,Chicago,
+CUST-1045,Sarah Miller,male,44,17/03/2020,"$100,700.00",681.0,3.0,Chicago,true
+CUST-1476,John Jones,Woman,63,"September 08, 2023","$60,800.00",649.0,40.0,Chicago,Yes
+CUST-1157,Emily Jones,female,18,"March 11, 2023","$52,800",,47.0,San Francisco,yes
+CUST-1137,James Garcia,Male,37,"January 04, 2022","$22,800.00",747.0,24.0,New York,yes
+CUST-1171,Olivia Garcia, Man ,55,2022-02-02,"$70,700.00",604.0,7.0,New York,Y
+CUST-1016,John Garcia,f,57,"February 03, 2024","$45,300.00",823.0,33.0,Chicago,Yes
+CUST-1511,Sarah Rodriguez,Female,0,02-13-2022,"$45,400",694.0,15.0,New York,YES
+CUST-1048,MICHAEL GARCIA,Male,185,2024-01-21,"$105,000.00",,15.0,san francisco,Yes
+CUST-1191,Emma Johnson,m,39,,"$30,900",590.0,7.0,NYC,No
+CUST-1546,ROBERT DAVIS,male,0,03/10/2022,"$115,200",,42.0,San Francisco,No
+CUST-1515,,Female,69,04/03/2020,"$77,800",120.0,5.0,Chicago,No
+CUST-1658,Sarah Garcia,Female,39,2021-06-24,"$65,900.00",687.0,29.0,San Francisco,No
+CUST-1098,Emily Jones,male,61,2020-08-19,82000.0,614.0,14.0,San Francisco,yes
+CUST-1828,DAVID JOHNSON,male,38,09/06/2019,"$65,600.00",588.0,36.0,Chicago,Y
+CUST-1093,,Male,63,13/08/2020,"$23,700.00",723.0,70.0,Chicago,true
+ CUST-1480 ,James Smith,Male,,16/02/2024,"$68,300.00",598.0,51.0,New York,NO
+CUST-1009,Sarah Smith,M,31,2021-11-09,"$68,900",706.0,14.0,new york,no
+CUST-1221,Olivia Davis,male,20,10-19-2022,"$25,400.00",626.0,10.0,Chicago,No
+CUST-1283,  robert miller  ,Male,37,24/05/2022,"$57,300.00",634.0,36.0,San Francisco,No
+CUST-1119,James Davis,m,210,23/09/2022,"$40,200.00",538.0,8.0,San Francisco,yes
+CUST-1797,Michael Martinez,Male,150,09-22-2024,"$69,800",637.0,27.0,San Francisco,Y
+ CUST-1200 ,Michael Williams,Male,61,2020-06-04,46300.0,,85.0,New York,YES
+CUST-1225,Jane Davis,Male,35,03/05/2024,"$67,300",795.0,9.0,New York,Y
+CUST-1026,Emma Johnson,Male,150,2023-11-14,104100.0,638.0,9.0,Chicago,No
+CUST-1282,Robert Martinez,F,21,11-19-2019,"$84,400",,25.0,chicago,YES
+CUST-1242,David Brown,Male,72,2020-08-14,"$56,400",717.0,22.0, NY ,Yes
+CUST-1437,Jane Rodriguez,Male,,17/09/2023,104000.0,806.0,12.0,Chi-Town,Yes
+CUST-1138,James Martinez,M,,28/07/2022,"$58,100.00",687.0,85.0,SF,Yes
+CUST-1364,Robert Miller,female,58 yrs,10-01-2019,"$49,700",467.0,41.0,chicago,Yes
+CUST-1229,Emily Garcia,Male,,04-01-2019,"$70,700.00",1050.0,40.0,new york,Yes
+CUST-1037,  sarah brown  ,male,39,27/03/2019,"$69,600.00",668.0,61.0,new york,No
+CUST-1669,John Rodriguez,male,46,17/08/2022,55600.0,999.0,89.0,Chicago,yes
+CUST-1749,James Brown,M,44 yrs,01/09/2022,"$66,900.00",639.0,47.0,San Francisco,Yes
+CUST-1271,Emma Jones,Male,38,2019-08-24,"$34,200.00",683.0,38.0,New York,yes
+CUST-1374,Robert Johnson,M,53,"March 15, 2023",60200.0,,24.0,San Francisco,Yes
+CUST-1469,Emily Martinez,male,28 yrs,07-14-2019,,,57.0,new york,No
+CUST-1882,David Williams,Male,66,10-25-2020,"$38,900.00",593.0,74.0,Chicago,NO
+,Emma Martinez,male,,2019-03-18,"$71,500.00",665.0,97.0,SF,Y
+CUST-1458,Emily Johnson,Male,41,20/10/2021,40900.0,726.0,56.0,Chicago,Yes
+CUST-1687,Jane Smith,Male,32,2020-11-08,"$71,300",565.0,35.0,New York,No
+CUST-1032,John Rodriguez,Female,64,2021-03-28,"$94,000.00",809.0,45.0,Chicago,Yes
+CUST-1639,DAVID MARTINEZ,male,28,2019-12-26,"$59,500",613.0,78.0,chicago,yes
+CUST-1128,Olivia Martinez, Man ,55,"July 13, 2022","$61,700",760.0,74.0,New York,No
+CUST-1194,  olivia jones  ,Male,0,2022-08-06,"$21,400.00",781.0,145.0, NY ,true
+CUST-1197,Sarah Brown,Male,19,04-07-2021,88500.0,697.0,51.0,San Francisco,No
+CUST-1205,Emily Johnson,Male,52,,"$72,400.00",654.0,70.0,Chicago,true
+CUST-1895,Emma Johnson,M,28,,"$80,600",840.0,57.0,san francisco,yes
+CUST-1503,  robert rodriguez  ,Female,30,2024-04-17,40100.0,718.0,6.0,New York,Y
+CUST-1915,Sarah Jones,Female,50,23/08/2022,"$83,300",681.0,11.0,Chicago,no
+ CUST-1090 ,EMMA JONES,Female,51,2023-01-26,"$60,600",556.0,38.0,Chicago,Yes
+CUST-1583,JAMES GARCIA,female,71,2019-09-01,"$88,800.00",770.0,20.0,New York,yes
+CUST-1235,JAMES GARCIA,M,42,2023-12-25,"$74,900",731.0,41.0,San Francisco,no
+ CUST-1800 ,Robert Brown,Female,22,04/12/2023,30000.0,597.0,2.0,San Francisco,yes
+CUST-1579,Michael Johnson,Woman,56,"November 11, 2022",96800.0,792.0,,San Francisco,No
+ CUST-1160 ,John Garcia,Male,70,"November 17, 2022","$57,400",999.0,9.0,chicago,
+CUST-1229,Sarah Jones,Male,69,"October 23, 2024",61300.0,460.0,90.0,,Yes
+ CUST-1680 ,Michael Martinez,M,27,28/05/2021,62400.0,693.0,98.0,San Francisco,
+CUST-1006,John Brown,Female,18,2019-03-21,"$44,900.00",657.0,66.0,Chicago,true
+CUST-1821,Emily Jones,female,24,08/04/2024,"$56,700",705.0,79.0,new york,true
+CUST-1107,James Brown,Male,18,19/04/2020,53000.0,783.0,98.0,San Francisco,Yes
+CUST-1877,Emma Johnson, Man ,47,24/12/2024,"$83,400.00",725.0,35.0,new york,Yes
+CUST-1913,James Martinez,Male,34,invalid_date_str,69900.0,711.0,34.0,Chicago,Y
+CUST-1152,Michael Smith,m,52,2023-06-04,"$107,500.00",649.0,43.0,New York,Yes
+CUST-1188,SARAH JONES,F,,04/04/2022,"$57,300.00",626.0,20.0,New York,YES
+CUST-1509,John Brown,M,19,2024-11-24,"$36,900",1050.0,23.0,San Francisco,Y
+CUST-1286,  sarah brown  ,female,51 yrs,2021-04-12,"$56,100",740.0,64.0,New York,Yes
+CUST-1103,Emily Martinez, Man ,19,09-11-2019,"$60,600.00",733.0,84.0,new york,Y
+CUST-1586,Robert Brown,f,37,"July 28, 2019","$56,300",623.0,70.0,san francisco,No
+CUST-1151,Jane Garcia,female,0,19/12/2022,"$47,900.00",586.0,51.0,New York,No
+CUST-1053,David Jones,male,53 yrs,2019-03-01,"$59,500.00",754.0,75.0,Chicago,yes
+CUST-1151,Robert Jones,female,37,09-01-2021,,755.0,100.0,San Francisco,No
+CUST-1403,Robert Johnson,Female,46,2020-05-16,"$72,100.00",693.0,75.0,Chi-Town,No
+CUST-1207,Michael Johnson,Female,56 yrs,10-22-2024,77400.0,733.0,97.0,New York,No
+CUST-1227,David Rodriguez,female,61,"February 02, 2020","$90,900",798.0,12.0,new york,yes
+CUST-1008,Sarah Brown,Female,26,06-15-2024,48200.0,606.0,97.0,San Francisco,YES
+CUST-1064,Olivia Jones,Other,19,"May 20, 2023","$47,500",673.0,38.0,new york,N
+CUST-1452,Sarah Johnson,M,65,09-06-2022,"$75,100",775.0,67.0,New York,Yes
+CUST-1253,John Williams,Male,40,,"$75,200.00",744.0,,Chi-Town,
+CUST-1896,Michael Davis,female,72,2024-12-16,"$94,500.00",542.0,,SF,Yes
+CUST-1139,Michael Rodriguez,male,61,2020-01-05,"$54,200",840.0,52.0,Chicago,yes
+ CUST-1880 ,,Male,30,"March 05, 2019","$49,200",627.0,38.0,San Francisco,Y
+CUST-1225,Emily Miller,Female,32,10/11/2021,84400.0,745.0,86.0, NY ,No
+CUST-1623,Sarah Brown,,38,2023-12-21,,,27.0,Chicago,no
+CUST-1345,Sarah Johnson,M,45 yrs,"October 05, 2019","$55,700",721.0,23.0,San Francisco,yes
+ CUST-1120 ,John Martinez,Male,72,21/07/2021,"$42,400",606.0,97.0,Chicago,yes
+CUST-1262,Jane Brown,Woman,65,2020-11-25,62100.0,,45.0,Chicago,Yes
+ CUST-1150 ,Michael Brown,female,67,12/05/2024,"$93,800.00",572.0,1.0,New York,No
+CUST-1472,Olivia Rodriguez,M,38,28/02/2022,N/A,696.0,49.0,San Francisco,no
+,Jane Brown,F,50,"November 16, 2021","$70,200",662.0,17.0,new york,no
+CUST-1622,Emma Jones,female,41 yrs,10/11/2022,"$71,900.00",657.0,23.0,New York,no
+CUST-1222,  jane rodriguez  ,Female,55,23/11/2023,62100.0,753.0,79.0,San Francisco,No
+ CUST-1550 ,Sarah Martinez,Female,43,"February 14, 2022",56400.0,591.0,48.0,New York,N
+CUST-1928,Emma Smith,female,30,2021-06-01,36700.0,698.0,64.0,Chicago,No
+CUST-1488,Olivia Smith,male,46 yrs,2022-10-20,"$58,700.00",742.0,61.0,Chicago,yes
+CUST-1172,Emily Miller,Male,,"June 08, 2021","$43,000.00",708.0,,Chicago,No
+CUST-1146,JOHN JONES,Female,35,16/10/2021,"$58,900",,,New York,Yes
+CUST-1402,Emily Martinez,female,72,"March 14, 2023","$101,700.00",661.0,20.0, NY ,No
+CUST-1004,Emily Williams,m,59,11-28-2020,"$80,400",641.0,72.0,San Francisco,Y
+CUST-1217,  sarah garcia  ,Male,24,2023-12-02,"$94,800.00",604.0,33.0,San Francisco,Yes
+CUST-1659,JAMES MILLER, Man ,56,"July 21, 2023","$92,600",684.0,71.0,Chicago,Y
+CUST-1463,David Brown,Female,36,"May 21, 2024",,682.0,,New York,Y
+CUST-1186,Emma Johnson,female,30,27/02/2021,"$94,100",599.0,39.0,,no
+CUST-1608,Emma Jones,Male,31,26/07/2024,"$46,600.00",673.0,85.0,San Francisco,Yes
+CUST-1143,Emma Davis,m,29,10-11-2019,"$93,000",999.0,62.0,New York,YES
+CUST-1751,James Garcia,Female,69,invalid_date_str,"$44,700",656.0,56.0,new york,Yes
+CUST-1031,JAMES WILLIAMS,Male,52,,"$47,700.00",716.0,20.0,NYC,No
+CUST-1197,Michael Miller,female,72,04/05/2023,"$73,600",692.0,47.0, NY ,yes
+CUST-1883,Olivia Williams,,32,"June 26, 2020","$41,900",,38.0,chicago,No
+CUST-1279,James Williams,Female,51,01-27-2024,52300.0,631.0,,San Francisco,No
+CUST-1293,Jane Miller,Male,27,2023-07-07,,800.0,,new york,No
+CUST-1759,JANE SMITH,M,49,21/03/2019,90200.0,617.0,,Chicago,YES
+ CUST-1400 ,JANE JONES,male,23,05-08-2021,"$76,200",999.0,84.0,Chicago,Yes
+CUST-1122,David Williams,F,64,"April 02, 2020","$60,000.00",670.0,52.0,Chicago,yes
+CUST-1202,Robert Johnson,M,53,15/08/2023,33300.0,664.0,35.0,Chicago,Yes
+CUST-1835,John Brown,Male,65,09-23-2023,56900.0,577.0,95.0,San Francisco,N
+CUST-1246,Jane Jones,male,33,2019-02-15,"$72,700.00",633.0,22.0,Chicago,Yes
+CUST-1232,Emily Jones,Female,25,2023-04-28,"$40,500.00",628.0,88.0,NYC,No
+ CUST-1220 ,James Garcia,Male,39 yrs,2020-07-14,"$83,400.00",555.0,1.0,San Francisco,No
+CUST-1384,Sarah Rodriguez,male,72,16/07/2024,"$37,100.00",772.0,,Chicago,yes
+CUST-1854,Sarah Davis,Female,72,19/04/2020,69900.0,622.0,59.0,San Francisco,YES
+CUST-1219,Olivia Johnson,Female,49,02-26-2024,"$63,500.00",571.0,59.0,SF,Yes
+CUST-1641,John Garcia,Female,,13/02/2024,,622.0,45.0,Chicago,No
+CUST-1001,Robert Garcia,Male,57,03-23-2020,"$2,500,000.00",632.0,7.0,chicago,Yes
+CUST-1112,Michael Davis,Female,23,04/09/2022,"$58,900.00",819.0,69.0,Chicago,Yes
+CUST-1698,James Johnson,Female,19,invalid_date_str,86600.0,764.0,75.0,Chicago,yes
+CUST-1001,Olivia Davis,Female,47,2021-06-06,"$15,000.00",612.0,96.0,new york,No
+ CUST-1170 ,,f,44,27/02/2021,,634.0,72.0,chicago,no
+CUST-1441,  olivia rodriguez  ,Male,36,06-14-2019,"$77,100",599.0,61.0,San Francisco,Yes
+CUST-1663,David Williams,Female,49,18/01/2019,"$55,600",672.0,40.0,new york,No
+CUST-1187,David Williams,m,64,2022-10-11,"$29,500.00",,66.0,Chicago,yes
+CUST-1317,Emma Brown,m,53,27/04/2022,"$79,800.00",699.0,90.0,Chicago,yes
+CUST-1648,James Martinez,m,19,2019-07-24,,787.0,30.0,new york,Yes
+CUST-1709,Michael Johnson,female,18,2023-04-05,"$100,200.00",744.0,42.0,Chi-Town,Y
+CUST-1022,  sarah smith  ,Female,,,"$87,400.00",770.0,73.0,Chicago,N
+CUST-1627,  sarah garcia  , Man ,150,08-01-2024,"$55,000",593.0,29.0,new york,Yes
+CUST-1632,David Miller,Female,28,2019-07-25,"$62,800",675.0,91.0,New York,yes
+CUST-1817,  michael smith  ,Male,53,06-19-2019,"$68,400",813.0,145.0,Chicago,Yes
+CUST-1198,James Brown,Female,27,24/07/2019,"$42,800",665.0,2.0,San Francisco,Y
+CUST-1795,Michael Smith,Male,53,2019-10-06,15000,,8.0,Chi-Town,YES
+CUST-1645,Olivia Jones,Male,48,15/03/2022,"$78,900.00",539.0,37.0,New York,
+CUST-1062,Sarah Johnson,male,48,09-27-2020,"$94,700.00",674.0,46.0,chicago,N
+CUST-1556,James Garcia,Female,56,2023-04-06,"$97,500",768.0,97.0,Chicago,
+CUST-1681,Jane Brown,male,51,"February 08, 2020","$35,900",672.0,50.0,San Francisco,true
+CUST-1577,JAMES RODRIGUEZ,F,45 yrs,12-18-2021,78000.0,717.0,7.0,San Francisco,No
+CUST-1159,Michael Garcia,Male,,2021-05-11,"$69,500",662.0,18.0,NYC,no
+CUST-1524,James Johnson,Male,36,invalid_date_str,"$84,900",826.0,13.0,New York,YES
+CUST-1109,John Davis,female,25,05/06/2022,"$43,100.00",746.0,9.0,san francisco,true
+ CUST-1540 ,Michael Miller,Male,22,"July 12, 2024","$68,800.00",616.0,88.0,San Francisco,Yes
+CUST-1748,David Miller,Male,23,02-11-2021,104200.0,746.0,20.0,chicago,NO
+CUST-1201,Robert Miller,Woman,51,2020-09-21,"$34,800.00",699.0,6.0,san francisco,No
+CUST-1484,Sarah Williams,Male,19,2020-12-27,"$68,400.00",,,New York,yes
+CUST-1095,David Smith,Male,69,23/08/2022,"$72,700",675.0,78.0,San Francisco,NO
+ CUST-1070 ,  michael williams  ,female,61,"February 21, 2024","$61,400.00",999.0,69.0,san francisco,yes
+CUST-1563,  olivia williams  ,male,28,2024-11-05,"$86,500.00",629.0,55.0,San Francisco,YES
+CUST-1742,Emily Miller,female,20,,"$73,400.00",632.0,42.0,New York,Y
+CUST-1863,Robert Garcia,M,24,12-16-2021,"$86,200",762.0,44.0,Chicago,YES
+CUST-1891,JAMES SMITH,Female,63,22/03/2020,"$35,500",786.0,59.0,San Francisco,Y
+CUST-1088,Emily Brown,F,38,12/07/2021,"$82,800",677.0,46.0,chicago,no
+CUST-1206,Robert Davis,male,73,02-11-2020,62300.0,660.0,20.0,new york,no
+CUST-1392,Emily Martinez,Female,44 yrs,03/03/2023,"$85,000.00",652.0,86.0,San Francisco,No
+CUST-1794,Michael Garcia, Man ,185,03-01-2022,"$50,200",667.0,74.0,Chicago,YES
+ CUST-1870 ,Jane Garcia,female,66,24/06/2020,"$36,700",649.0,52.0,New York,yes
+CUST-1397,JANE MILLER,M,150,06/02/2023,54400.0,608.0,63.0,New York,N
+CUST-1766,John Brown,Female,48,"July 24, 2020","$93,100.00",727.0,81.0,New York,Yes
+CUST-1191,Olivia Smith,male,74,05/03/2019,"$71,000",771.0,,New York,Yes
+CUST-1078,Michael Miller,M,31,07-27-2020,"$50,800",737.0,15.0,San Francisco,yes
+CUST-1642,SARAH MARTINEZ,Male,69,12/04/2023,,665.0,29.0,New York,true
+CUST-1612,Emma Garcia,male,69,"December 18, 2022","$30,600",695.0,34.0,SF,no
+ CUST-1010 ,Robert Miller,male,44,invalid_date_str,40700.0,739.0,5.0,San Francisco,Yes
+CUST-1725,John Davis,m,24,2019-03-11,,594.0,94.0,San Francisco,Yes
+CUST-1683,James Martinez,m,45 yrs,07-26-2019,"$55,400",712.0,3.0,new york,Yes
+CUST-1098,  john miller  ,Male,72,,"$44,900",801.0,87.0,new york,false
+CUST-1804,Jane Brown,M,73,2019-06-19,"$20,600.00",741.0,72.0,Chicago,NO
+CUST-1406,  james rodriguez  ,M,72,11-27-2019,"$73,800",540.0,80.0,San Francisco,no
+CUST-1502,ROBERT MILLER,Woman,60,"December 15, 2022",106400.0,716.0,90.0,SF,Y
+CUST-1121,SARAH JONES,F,54,28/01/2021,"$83,500.00",604.0,71.0,San Francisco,no
+CUST-1106,Robert Davis,M,23,,"$92,000.00",613.0,70.0,New York,N
+CUST-1929,,Male,56,2019-09-10,"$78,300.00",713.0,58.0,new york,yes
+CUST-1779,Emma Rodriguez,f,55,2023-09-09,118900.0,,68.0,New York,Yes
+ CUST-1200 ,James Williams,Woman,48,2023-07-18,66500.0,777.0,45.0,San Francisco,yes
+CUST-1134,Michael Miller,male,68,15/01/2023,,694.0,5.0,chicago,yes
+CUST-1101,JOHN JOHNSON,Male,34,2021-09-17,"$65,500",577.0,60.0,Chicago,Yes
+ CUST-1040 ,Olivia Smith,male,29,2022-02-05,"$60,200",737.0,,SF,N
+CUST-1067,Jane Johnson,female,58,03/08/2023,"$118,200.00",675.0,,San Francisco,YES
+ CUST-1230 ,Michael Davis,m,42,,,601.0,68.0,Chicago,N
+CUST-1378,Emily Brown,m,31 yrs,2019-07-01,52200.0,715.0,30.0,New York,true
+CUST-1288,David Davis,F,66,10/02/2023,"$40,900",673.0,61.0,Chi-Town,No
+CUST-1418,Robert Miller,Female,21,"September 06, 2019",52700.0,710.0,71.0,new york,Y
+CUST-1391,Sarah Jones, Man ,72,"February 11, 2022",N/A,644.0,96.0,san francisco,No
+CUST-1592,Jane Garcia,Female,,2023-05-26,78600.0,765.0,59.0,san francisco,Yes
+CUST-1136,David Williams,Male,210,01-24-2023,"$21,300",585.0,3.0,NYC,No
+CUST-1647,Jane Johnson,Female,39,2023-01-06,50400.0,709.0,22.0,new york,No
+CUST-1202,Olivia Smith,f,24,08/05/2020,N/A,,67.0,San Francisco,YES
+ CUST-1520 ,Emma Smith,female,33,"February 17, 2020",70800.0,736.0,40.0,New York,Yes
+CUST-1064,David Martinez,male,21,"April 27, 2019",64600.0,817.0,79.0,new york,No
+CUST-1014,James Smith,Male,47,09-13-2021,54300.0,150.0,88.0,New York,NO
+CUST-1114,Olivia Brown, Man ,45,25/10/2020,"$60,000",571.0,73.0,New York,Yes
+CUST-1492,Emily Miller,Female,34,2023-10-17,"$97,600",572.0,7.0,New York,no
+CUST-1379,David Martinez,male,73,2020-12-05,"$55,600.00",656.0,,New York,No
+CUST-1187,,male,48,"March 18, 2019","$65,600.00",654.0,28.0,new york,yes
+CUST-1763,Michael Miller,female,63,07-12-2019,N/A,616.0,56.0,Chi-Town,No
+CUST-1216,Sarah Johnson,Male,71,01-17-2021,"$32,000",692.0,55.0,Chicago,yes
+CUST-1791,Emily Garcia,Male,25,"December 18, 2020",111400.0,673.0,94.0, NY ,Y
+CUST-1126,Sarah Davis,male,57,24/02/2019,"$39,000",662.0,27.0,new york,no
+CUST-1878,EMMA MILLER,Male,54,08/02/2023,71200.0,705.0,25.0,NYC,yes
+CUST-1337,Jane Garcia,Male,23,13/09/2021,-5000,717.0,1.0,Chicago,N
+CUST-1719,Sarah Garcia,male,65,07-22-2023,57400.0,614.0,7.0,chicago,No
+,EMILY MARTINEZ,Female,66,"August 06, 2019","$90,100.00",678.0,,san francisco,yes
+CUST-1066,  emma davis  ,f,28,2020-01-05,"$50,400.00",687.0,46.0,New York,Yes
+CUST-1455,Jane Smith,Male,71,invalid_date_str,55500.0,791.0,97.0,Chicago,No
+CUST-1815,Olivia Rodriguez,female,,08/12/2024,"$32,500.00",566.0,9.0,New York,No
+CUST-1269,Olivia Rodriguez,M,,14/02/2021,"$51,000",694.0,26.0,New York,true
+CUST-1045,  emily miller  ,male,23,2023-07-12,"$51,900",621.0,43.0,san francisco,No
+CUST-1201,James Rodriguez,f,58,"April 07, 2021","$81,600",730.0,86.0,San Francisco,Yes
+CUST-1161,Jane Garcia,Female,19,12/04/2022,"$68,500",612.0,21.0,New York,false
+CUST-1729,Robert Smith,Female,28,2023-04-26,"$69,100.00",639.0,29.0,NYC,yes
+CUST-1401,Emily Davis,M,210,2021-01-28,,674.0,56.0,San Francisco,No
+CUST-1702,Jane Johnson,male,185,25/06/2024,66000.0,815.0,,Chicago,Yes
+CUST-1179,Sarah Brown,Male,64,25/11/2022,"$79,900",999.0,40.0,San Francisco,No
+CUST-1565,,male,27,2020-09-15,"$71,800",720.0,16.0,SF,N
+CUST-1071,Jane Williams,M,75,03/04/2024,"$71,400.00",603.0,39.0,San Francisco,No
+CUST-1075,  john smith  ,Male,71,22/07/2021,"$73,300",748.0,7.0,San Francisco,Yes
+CUST-1154,David Smith,Male,52,27/04/2020,89600.0,588.0,43.0,san francisco,true
+CUST-1205,Michael Jones,Male,64,10-02-2023,"$31,900.00",724.0,55.0,New York,YES
+CUST-1034,  david garcia  ,Male,63,"February 07, 2021","$2,500,000.00",763.0,60.0,San Francisco,No
+CUST-1775,Robert Johnson,male,46,21/03/2022,"$38,400.00",704.0,50.0,Chi-Town,Y
+CUST-1508,James Miller,m,61,2021-05-09,"$15,000.00",669.0,91.0,San Francisco,Yes
+CUST-1338,James Martinez, Man ,31,05-16-2022,"$79,100",831.0,80.0,New York,N
+CUST-1091,Emily Jones,female,39 yrs,,"$56,200",688.0,20.0, NY ,Y
+CUST-1897,Michael Brown,Female,62,"May 08, 2024","$86,300.00",726.0,92.0,chicago,yes
+CUST-1564,Sarah Jones,Other,71,2020-01-15,106900.0,703.0,58.0,San Francisco,no
+CUST-1776,  james davis  ,female,54,,"$54,300",689.0,78.0,new york,Y
+CUST-1241,Olivia Rodriguez,Female,150,2021-11-22,"$68,800",791.0,,New York,no
+CUST-1013,  emily miller  ,male,50 yrs,2020-04-20,85400.0,692.0,43.0,Chicago,Yes
+CUST-1315,Olivia Brown,Woman,,2022-08-20,"$32,600.00",616.0,34.0,new york,no
+ CUST-1600 ,Sarah Smith,male,66,10/03/2020,"$64,100",759.0,55.0,new york,No
+CUST-1387,Sarah Williams,Female,38,invalid_date_str,"$2,500,000.00",635.0,39.0,San Francisco,yes
+CUST-1166,Michael Rodriguez,Female,49,03-12-2022,"$68,200",674.0,54.0,New York,no
+ CUST-1840 ,James Rodriguez,male,38,2019-07-27,"$65,300",747.0,28.0,San Francisco,yes
+ CUST-1020 ,James Garcia,male,58,2023-10-23,"$66,200",577.0,94.0,Chicago,yes
+CUST-1646,  sarah johnson  ,female,22,2019-09-08,"$86,300.00",534.0,19.0,San Francisco,Yes
+CUST-1204,SARAH JONES,Male,42,2021-02-02,"$64,700.00",566.0,86.0,new york,Yes
+CUST-1831,EMMA DAVIS,Male,31,2022-11-10,"$45,500",666.0,86.0,Chicago,Yes
+CUST-1562,  david martinez  ,Female,59,2023-02-15,"$36,100.00",787.0,,Chicago,yes
+CUST-1121,  olivia johnson  ,Male,62,08-18-2022,"$90,100.00",666.0,85.0,chicago,N
+CUST-1686,Olivia Jones,female,59,09-04-2020,45500.0,631.0,86.0,Chi-Town,no
+CUST-1007,  emma garcia  ,Female,33,20/08/2022,N/A,840.0,67.0,New York,No
+CUST-1189,Michael Rodriguez,female,55,"July 16, 2022",-5000,714.0,49.0,Chicago,Yes
+CUST-1025,EMMA BROWN,Female,37,06-23-2019,,,3.0,Chicago,No
+CUST-1699,  robert martinez  ,male,64,"February 18, 2020",59400.0,633.0,38.0,New York,no
+ CUST-1510 ,Emma Rodriguez,M,62,07/09/2024,42000.0,648.0,93.0,NYC,No
+CUST-1132,Emma Johnson,Woman,54,2024-07-01,"$80,000.00",748.0,38.0, NY ,no
+CUST-1474,Michael Miller,Female,22,2020-09-22,N/A,840.0,25.0,San Francisco,YES
+CUST-1856,Olivia Jones,Female,40,17/06/2023,"$35,500.00",840.0,67.0,San Francisco,no
+CUST-1747,  michael smith  ,male,18,,90800.0,625.0,67.0,San Francisco,N
+CUST-1252,Olivia Rodriguez, Man ,,15/05/2024,"$76,200",797.0,83.0,Chicago,Yes
+CUST-1021,OLIVIA DAVIS,female,63,2024-12-06,123400.0,719.0,68.0,New York,Yes
+CUST-1459,  michael martinez  ,Male,75,"July 26, 2019","$78,800",738.0,,Chicago,Y
+CUST-1234,Michael Martinez,Female,48,12-28-2019,"$2,500,000.00",620.0,23.0,New York,yes
+CUST-1276,David Garcia,Female,210,"July 04, 2019","$53,400.00",999.0,18.0,Chicago,Y
+CUST-1005,James Jones,Woman,61,invalid_date_str,,525.0,48.0,New York,yes
+CUST-1258,David Rodriguez,Female,65,"July 04, 2023","$40,700.00",669.0,27.0,New York,Yes
+CUST-1385,David Rodriguez,Male,32 yrs,"May 14, 2024","$79,600.00",775.0,16.0,New York,yes
+,Olivia Johnson,,41,invalid_date_str,"$89,400.00",595.0,13.0,new york,Yes
+CUST-1343,Michael Miller,M,44,01-27-2024,58000.0,120.0,47.0,new york,N
+CUST-1769,James Rodriguez,Female,30,"November 25, 2023",-5000,688.0,40.0,san francisco,
+ CUST-1130 ,EMMA SMITH,female,66,02-11-2024,53600.0,735.0,180.0,New York,yes
+CUST-1871,Emma Williams,female,38,2023-09-14,,706.0,13.0,Chicago,no
+CUST-1173,Michael Brown,M,53,"August 19, 2024","$100,700",636.0,27.0,SF,yes
+CUST-1087,EMILY MILLER,Male,37,12-07-2023,"$19,400.00",650.0,17.0,New York,yes
+ CUST-1330 ,Emma Garcia,Female,47,2024-12-11,86300.0,708.0,92.0,SF,Yes
+CUST-1466,David Martinez,F,23,2023-02-13,"$86,500",671.0,17.0, NY ,No
+CUST-1121,  olivia johnson  ,Male,62,08-18-2022,"$90,100.00",666.0,85.0,chicago,N
+CUST-1094,Sarah Williams,Female,58,"October 24, 2019","$72,900.00",465.0,55.0,New York,false
+CUST-1145,  emma williams  ,male,20,11/09/2020,"$78,200",608.0,6.0,San Francisco,true
+ CUST-1180 ,JAMES SMITH,Male,51,"November 18, 2022","$38,300.00",540.0,79.0,san francisco,No
+ CUST-1860 ,JAMES DAVIS,Male,56,11-19-2020,"$33,400",633.0,,san francisco,YES
+CUST-1176,MICHAEL WILLIAMS,Female,47,08-01-2023,"$46,500",660.0,39.0, NY ,No

@@ -1,6 +1,6 @@
 # 📊 Oasis Infobyte SIP (OIBSIP) — Data Analytics (Level 1)
 
-**Intern Name:** Reshma  
+**Intern Name:** Reshmi Rakesh P 
 **Track:** Data Analytics  
 **Internship Level:** Level 1  
 **Repository:** `OIBSIP/`
@@ -62,7 +62,7 @@ Before beginning the screen recording, display a clean 2-second slide or video o
 ║                                                                ║
 ║     OASIS INFOBYTE INTERNSHIP PROGRAM (OIBSIP)                 ║
 ║                                                                ║
-║     Full Name     : Reshma                                     ║
+║     Full Name     : Reshmi                                     ║
 ║     Assigned Track: Data Analytics                             ║
 ║     Level         : Level 1                                    ║
 ║     Tasks Covered : Tasks 1, 2, 3, and 4                       ║

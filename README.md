@@ -1,102 +1,116 @@
-# 📊 Oasis Infobyte SIP (OIBSIP) — Data Analytics (Level 1)
+# 📊 Oasis Infobyte SIP (OIBSIP) — Data Analytics (Level 1 & Level 2)
 
-**Intern Name:** Reshmi Rakesh P 
+**Intern Name:** Reshmi Rakesh P  
 **Track:** Data Analytics  
-**Internship Level:** Level 1  
-**Repository:** `OIBSIP/`
+**Internship Program:** Oasis Infobyte Internship Program (OIBSIP)  
+**Repository:** `OIBSIP/`  
+**GitHub Remote:** `https://github.com/Reshmi-005/OIBSIP.git`
 
 ---
 
 ## 🌟 Repository Overview
-This repository contains the complete deliverables for all four tasks under **Track: Data Analytics (Level 1)** for the Oasis Infobyte Internship Program (OIBSIP). Every task has been implemented in strict accordance with the mandatory folder structure, feature checklists, rigorous analytical standards, clean code principles, and reproducible data science pipelines.
+This repository houses the complete, end-to-end industry-grade deliverables for both **Level 1** and **Level 2** under **Track: Data Analytics** for the Oasis Infobyte Internship Program (OIBSIP). Every task adheres strictly to the required folder architecture, feature checklists, rigorous analytical standards, clean code practices, and pre-executed Jupyter Notebooks with cached cell outputs and markdown insights.
 
-```
+```text
 OIBSIP/
 │
-├── DataAnalytics-L1-EDARetailSales/          # TASK 1: Exploratory Data Analysis on Retail Sales
-├── DataAnalytics-L1-CustomerSegmentation/    # TASK 2: Customer Segmentation using RFM & K-Means
-├── DataAnalytics-L1-DataCleaning/            # TASK 3: Deliberately Messy Data Cleaning Pipeline
-├── DataAnalytics-L1-SentimentAnalysis/       # TASK 4: NLP Sentiment Analysis & Model Benchmarking
+├── DataAnalytics-L1-EDARetailSales/          # L1 TASK 1: Exploratory Data Analysis on Retail Sales
+├── DataAnalytics-L1-CustomerSegmentation/    # L1 TASK 2: Customer Segmentation using RFM & K-Means
+├── DataAnalytics-L1-DataCleaning/            # L1 TASK 3: Deliberately Messy Data Cleaning Pipeline
+├── DataAnalytics-L1-SentimentAnalysis/       # L1 TASK 4: NLP Sentiment Analysis & Model Benchmarking
+│
+├── DataAnalytics-L2-HousePricePrediction/    # L2 TASK 1: House Price Prediction (Linear Regression & Regularization)
+├── DataAnalytics-L2-WineQualityPrediction/   # L2 TASK 2: Wine Quality Prediction (Multi-Class Classification)
+├── DataAnalytics-L2-FraudDetection/          # L2 TASK 3: Credit Card Fraud Detection (Imbalanced ML & SMOTE)
+├── DataAnalytics-L2-GooglePlayStoreAnalysis/ # L2 TASK 4: Google Play Store Analytics (Ecosystem & Sentiment)
+├── DataAnalytics-L2-AutocompleteAutocorrect/ # L2 TASK 5: Autocomplete & Autocorrect Analytics (N-Grams & Levenshtein)
 │
 └── README.md                                 # Master Repository Index & Demo Video Guide
 ```
 
 ---
 
-## 📁 Task Directory & Deliverables Index
+## 📁 Master Task Directory & Deliverables Index
+
+### 📈 Level 1 Projects
 
 | Task # | Project Folder | Domain | Core Tech Stack | Deliverables & Artifacts | Status |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **Task 1** | [`DataAnalytics-L1-EDARetailSales/`](./DataAnalytics-L1-EDARetailSales/) | Exploratory Data Analysis | Python, Pandas, Matplotlib, Seaborn | • Dataset (2,500 rows)<br>• Executed Jupyter Notebook<br>• Standalone CLI Script<br>• 5 High-Res Saved Plots<br>• Comprehensive README | ✅ **100% Complete** |
-| **Task 2** | [`DataAnalytics-L1-CustomerSegmentation/`](./DataAnalytics-L1-CustomerSegmentation/) | Unsupervised ML (Clustering) | Scikit-Learn (KMeans), Pandas, StandardScaler | • E-Commerce Dataset (4k txns)<br>• RFM Analysis Pipeline<br>• Elbow & Silhouette Models<br>• 2D/3D Cluster Scatters<br>• Actionable Marketing Guide | ✅ **100% Complete** |
-| **Task 3** | [`DataAnalytics-L1-DataCleaning/`](./DataAnalytics-L1-DataCleaning/) | Data Quality & Wrangling | Pandas, NumPy, Regular Expressions | • Messy Raw Dataset (1,245 rows)<br>• Cleaned Production Dataset<br>• Data Quality Audit Table<br>• IQR Outlier Winsorization<br>• Before vs. After Report | ✅ **100% Complete** |
-| **Task 4** | [`DataAnalytics-L1-SentimentAnalysis/`](./DataAnalytics-L1-SentimentAnalysis/) | Natural Language Processing | Scikit-Learn, NLTK, WordCloud, TF-IDF | • 1,810 Review Dataset<br>• Lemmatization Pipeline<br>• Naive Bayes + LogReg + SVC<br>• 3 WordClouds & Heatmaps<br>• 5 Edge Case Error Analyses | ✅ **100% Complete** |
+| **L1 · Task 1** | [`DataAnalytics-L1-EDARetailSales/`](./DataAnalytics-L1-EDARetailSales/) | Exploratory Data Analysis | Python, Pandas, Matplotlib, Seaborn | • Retail Dataset (2,500 txns)<br>• Executed Jupyter Notebook<br>• Standalone CLI Script<br>• 5 High-Res Saved Plots<br>• Comprehensive README | ✅ **100% Complete** |
+| **L1 · Task 2** | [`DataAnalytics-L1-CustomerSegmentation/`](./DataAnalytics-L1-CustomerSegmentation/) | Unsupervised ML (Clustering) | Scikit-Learn (KMeans), Pandas, StandardScaler | • E-Commerce Dataset (4,000 txns)<br>• RFM Analysis Pipeline<br>• Elbow & Silhouette Models<br>• 2D/3D Cluster Scatters<br>• Actionable Marketing Guide | ✅ **100% Complete** |
+| **L1 · Task 3** | [`DataAnalytics-L1-DataCleaning/`](./DataAnalytics-L1-DataCleaning/) | Data Quality & Wrangling | Pandas, NumPy, Regular Expressions | • Messy Raw Dataset (1,245 rows)<br>• Cleaned Production Dataset<br>• Data Quality Audit Table<br>• IQR Outlier Winsorization<br>• Before vs. After Report | ✅ **100% Complete** |
+| **L1 · Task 4** | [`DataAnalytics-L1-SentimentAnalysis/`](./DataAnalytics-L1-SentimentAnalysis/) | Natural Language Processing | Scikit-Learn, NLTK, WordCloud, TF-IDF | • 1,810 Review Dataset<br>• Lemmatization Pipeline<br>• Naive Bayes + LogReg + SVC<br>• 3 WordClouds & Heatmaps<br>• 5 Edge Case Error Analyses | ✅ **100% Complete** |
+
+---
+
+### 🚀 Level 2 Projects
+
+| Task # | Project Folder | Domain | Core Tech Stack | Deliverables & Artifacts | Status |
+| :---: | :--- | :--- | :--- | :--- | :---: |
+| **L2 · Task 1** | [`DataAnalytics-L2-HousePricePrediction/`](./DataAnalytics-L2-HousePricePrediction/) | Supervised Regression | Scikit-Learn (OLS, Ridge, Lasso), Pandas | • 2,000 Property Records<br>• Ridge/Lasso Regularization<br>• Actual vs. Predicted & Residuals<br>• Feature Weight Interpretation<br>• 6 High-Res Saved Plots | ✅ **100% Complete** |
+| **L2 · Task 2** | [`DataAnalytics-L2-WineQualityPrediction/`](./DataAnalytics-L2-WineQualityPrediction/) | Classification Benchmark | Random Forest, Gradient Boosting, SVM, KNN | • 1,599 Wine Physicochemical Samples<br>• 4-Model Comparative Benchmark<br>• Confusion Matrices & Gini Ranking<br>• Enology Chemical Impact Guide<br>• 6 High-Res Saved Plots | ✅ **100% Complete** |
+| **L2 · Task 3** | [`DataAnalytics-L2-FraudDetection/`](./DataAnalytics-L2-FraudDetection/) | Imbalanced Classification | SMOTE, Cost-Sensitive Ensemble, ROC-AUC | • 5,000 Credit Card Transactions<br>• Severe Imbalance Audit (0.64% fraud)<br>• SMOTE Resampling Visualizer<br>• Log Scale Amounts & Time Velocity<br>• 1M Txns/Hr Streaming Architecture | ✅ **100% Complete** |
+| **L2 · Task 4** | [`DataAnalytics-L2-GooglePlayStoreAnalysis/`](./DataAnalytics-L2-GooglePlayStoreAnalysis/) | Market & Sentiment Analytics | Pandas, Seaborn, Plotly Express | • 2,501 Apps + 2,914 Reviews<br>• String Cleaning & Median Imputation<br>• Category Saturation vs. Reach<br>• Free vs. Paid $399 Outliers<br>• Interactive Plotly HTML Dashboard | ✅ **100% Complete** |
+| **L2 · Task 5** | [`DataAnalytics-L2-AutocompleteAutocorrect/`](./DataAnalytics-L2-AutocompleteAutocorrect/) | Statistical NLP & Algorithms | Bigrams/Trigrams, Levenshtein, Katz Backoff | • 47,040 Token Natural Corpus<br>• Zipf's Law Confirmation Plot<br>• N-Gram Next-Word Predictor<br>• 20-Word Typo Benchmark (95% Acc)<br>• Microsecond Latency Profiling | ✅ **100% Complete** |
 
 ---
 
 ## 🛠️ Global Environment & Installation
-To run any of the notebooks or scripts across this repository, ensure Python 3.10+ is installed and install the required dependencies:
+
+To execute any script or notebook across all 9 projects in this repository:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk textblob wordcloud jupyter nbclient
-```
+# 1. Clone repository
+git clone https://github.com/Reshmi-005/OIBSIP.git
+cd OIBSIP
 
-Download required NLTK corpora (if not already downloaded):
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+# 2. Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn plotly nltk textblob wordcloud jupyter nbclient
 ```
 
 ---
 
-## 🎥 Step 4: Demo Video Presentation Guide & Script
+## 🎥 Step 4: Demo Video Presentation Guide & Scripts
 
-As required by **Step 4 — Record a Demo Video**, create a screen recording walkthrough showcasing your completed projects end-to-end.
+As required by **Step 4 — Record a Demo Video**, record a clear screen walkthrough showcasing your projects.
 
-### 1. Title Card Format (Mandatory 2-Second Static Screen)
-Before beginning the screen recording, display a clean 2-second slide or video overlay containing:
-```
+### 1. Mandatory Title Card (2-Second Static Screen)
+Before beginning the screen recording, display a clean 2-second slide or video overlay:
+```text
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
 ║     OASIS INFOBYTE INTERNSHIP PROGRAM (OIBSIP)                 ║
 ║                                                                ║
-║     Full Name     : Reshmi                                     ║
+║     Full Name     : Reshmi Rakesh P                            ║
 ║     Assigned Track: Data Analytics                             ║
-║     Level         : Level 1                                    ║
-║     Tasks Covered : Tasks 1, 2, 3, and 4                       ║
+║     Levels        : Level 1 & Level 2                          ║
+║     Tasks Covered : Tasks 1 - 4 (L1) & Tasks 1 - 5 (L2)         ║
+║     GitHub Repo   : https://github.com/Reshmi-005/OIBSIP       ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-### 2. Suggested Video Recording Walkthrough Script
+---
 
-#### • Task 1 Walkthrough (EDA on Retail Sales):
-1. **Screen**: Open `eda_retail_sales.ipynb` in Jupyter Notebook or VS Code.
-2. **Narration**: *"Hello, my name is Reshma, and this is my Level 1 Data Analytics presentation for Oasis Infobyte. In Task 1, I performed an in-depth Exploratory Data Analysis on 2,500 retail sales transactions. As shown in the time-series chart, we observe a pronounced 45% revenue surge during Q4 holiday months. The demographics analysis reveals that shoppers aged 26 to 50 generate over 65% of total sales. A non-obvious insight discovered in this analysis is the Profit Margin Erosion Cliff: when discounts exceed 20%, net profit margins collapse below 12%, demonstrating that volume gained through aggressive discounting destroys profitability."*
+### 2. Suggested Video Recording Walkthrough Scripts
 
-#### • Task 2 Walkthrough (Customer Segmentation):
-1. **Screen**: Switch to `customer_segmentation.ipynb`.
-2. **Narration**: *"In Task 2, I developed an unsupervised machine learning clustering model using RFM (Recency, Frequency, and Monetary) behavioral features on 4,000 e-commerce transactions. After log-transforming and standardizing the features, the Elbow Method and Silhouette Analysis confirmed K=4 as the optimal cluster count. We identified four distinct customer archetypes: Champions, Loyal Customers, At-Risk Customers, and Hibernating shoppers. For each segment, I prescribed targeted CRM actions, such as VIP loyalty rewards for Champions and automated win-back discount sequences for At-Risk customers."*
+#### • Introduction:
+> *"Hello, my name is Reshmi Rakesh P, and this is my comprehensive Data Analytics internship demonstration for Oasis Infobyte (OIBSIP), covering all deliverables across Level 1 and Level 2."*
 
-#### • Task 3 Walkthrough (Data Cleaning):
-1. **Screen**: Open `data_cleaning.ipynb` and show the before-and-after table.
-2. **Narration**: *"In Task 3, I tackled a deliberately messy customer dataset riddled with missing primary keys, exact duplicates, invalid age entries, mixed date formats, and extreme multi-million dollar outliers. By applying IQR Winsorization capping, mode and median imputation, and canonical string standardization, I transformed 1,245 dirty records into 938 validated, analysis-ready records with 100% data integrity."*
+#### • Level 1 Highlights:
+1. **Task 1 (EDA on Retail Sales):** *"In Task 1, I analyzed 2,500 retail sales transactions. Beyond seasonal Q4 holiday surges and prime demographic drivers, I identified the Profit Margin Erosion Cliff: discounting beyond 20% severely degrades net operating margins."*
+2. **Task 2 (Customer Segmentation):** *"In Task 2, I engineered an RFM (Recency, Frequency, Monetary) unsupervised clustering pipeline with K-Means. Using the Elbow Method and Silhouette Analysis, I identified four distinct customer tiers and mapped out automated CRM marketing workflows."*
+3. **Task 3 (Data Cleaning):** *"In Task 3, I tackled 1,245 messy, duplicated, and malformed customer records. Applying IQR Winsorization and canonical string standardization restored 100% integrity to 938 analysis-ready records."*
+4. **Task 4 (Sentiment Analysis):** *"In Task 4, I built a TF-IDF text classification pipeline comparing Naive Bayes, Logistic Regression, and Linear SVC, reaching 99.7% F1-score alongside an in-depth linguistic edge-case analysis."*
 
-#### • Task 4 Walkthrough (Sentiment Analysis):
-1. **Screen**: Open `sentiment_analysis.ipynb` and show the WordClouds and confusion matrices.
-2. **Narration**: *"In Task 4, I built an NLP sentiment classification pipeline classifying customer feedback into Positive, Neutral, and Negative. The pipeline incorporates tokenization, custom negation-preserving stopword pruning, WordNet lemmatization, and TF-IDF bi-gram feature extraction. Benchmarking Multinomial Naive Bayes, Logistic Regression, and Linear SVC yielded over 99.7% weighted F1-score across all models. Finally, I conducted an error analysis on five challenging edge cases, demonstrating how sarcasm and contrastive conjunctions influence model predictions."*
+#### • Level 2 Highlights:
+1. **Task 1 (House Price Prediction):** *"In Level 2 Task 1, I built a multi-variable Linear Regression model predicting property prices. I benchmarked Ordinary Least Squares against Ridge and Lasso regularization, achieving an $R^2$ of 0.81 and proving that living area and location drive over 60% of property valuation."*
+2. **Task 2 (Wine Quality Prediction):** *"In Task 2, I developed a multi-class classification benchmark across Random Forest, Gradient Boosting, SVM, and KNN on 1,599 physicochemical wine samples. Random Forest achieved 70.3% multi-class accuracy, with alcohol content and volatile acidity ranking as the top chemical quality indicators."*
+3. **Task 3 (Credit Card Fraud Detection):** *"In Task 3, I addressed extreme class imbalance (0.64% fraud) using SMOTE and cost-sensitive ensemble weighting. I demonstrated why standard accuracy is dangerously misleading in fraud prevention, achieving 100% recall and outlining a production streaming blueprint for 1,000,000 transactions per hour."*
+4. **Task 4 (Google Play Store Analysis):** *"In Task 4, I analyzed 2,501 mobile applications and 2,914 user reviews. I uncovered the left-skewed rating bias (median 4.2), evaluated free vs. paid app dynamics including $399 luxury outliers, and built an interactive Plotly market landscape."*
+5. **Task 5 (Autocomplete & Autocorrect Analytics):** *"In Task 5, I implemented n-gram Markov language models for next-word autocomplete and a Bayesian Noisy Channel model using Levenshtein distance for autocorrect. The autocorrect engine achieved 95% accuracy across a 20-word typo benchmark with sub-10 millisecond latency."*
 
 ---
 
-## 📬 GitHub Submission Guidelines
-To push this repository to your GitHub account:
-```bash
-git init
-git add .
-git commit -m "Complete OIBSIP Data Analytics Level 1: Tasks 1-4"
-git branch -M main
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/OIBSIP.git
-git push -u origin main
-```
+## 🤝 Acknowledgments
+Special thanks to the **Oasis Infobyte (OIBSIP)** team for structuring these real-world data analytics and machine learning challenges.
